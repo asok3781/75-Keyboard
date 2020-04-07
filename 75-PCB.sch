@@ -945,10 +945,10 @@ F 3 "" H 6475 2325 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-LED MX_#10
+L MX_Alps_Hybrid:MX-LED MX_#0
 U 1 1 650B459E
 P 7750 2350
-F 0 "MX_#10" H 7832 2574 60  0000 C CNN
+F 0 "MX_#0" H 7832 2574 60  0000 C CNN
 F 1 "MX-LED" H 7832 2500 20  0000 C CNN
 F 2 "MX_Only:MXOnly-1U" H 7125 2325 60  0001 C CNN
 F 3 "" H 7125 2325 60  0001 C CNN
@@ -5977,24 +5977,12 @@ Connection ~ 1100 4300
 Connection ~ 2650 6850
 Wire Wire Line
 	2650 7750 2650 6850
-Connection ~ 1350 6850
-Wire Wire Line
-	1350 7750 1350 6850
 Connection ~ 2550 6950
 Wire Wire Line
 	2550 7850 2550 6950
-Connection ~ 1250 6950
-Wire Wire Line
-	1250 7850 1250 6950
-Connection ~ 1200 7000
-Wire Wire Line
-	1200 7900 1200 7000
 Connection ~ 2500 7000
 Wire Wire Line
 	2500 7900 2500 7000
-Connection ~ 1400 6800
-Wire Wire Line
-	1400 7700 1400 6800
 Connection ~ 2700 6800
 Wire Wire Line
 	2700 7700 2700 6800
@@ -6007,17 +5995,6 @@ F 1 "MX-LED" H 2632 7900 20  0000 C CNN
 F 2 "MX_Only:MXOnly-1.5U" H 1925 7725 60  0001 C CNN
 F 3 "" H 1925 7725 60  0001 C CNN
 	1    2550 7750
-	1    0    0    -1  
-$EndComp
-$Comp
-L MX_Alps_Hybrid:MX-LED MX_LCTRL3
-U 1 1 5F0D2C14
-P 1250 7750
-F 0 "MX_LCTRL3" H 1332 7974 60  0000 C CNN
-F 1 "MX-LED" H 1332 7900 20  0000 C CNN
-F 2 "MX_Only:MXOnly-1.5U" H 625 7725 60  0001 C CNN
-F 3 "" H 625 7725 60  0001 C CNN
-	1    1250 7750
 	1    0    0    -1  
 $EndComp
 $Comp

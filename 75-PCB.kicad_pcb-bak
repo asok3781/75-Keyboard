@@ -8996,7 +8996,7 @@
   )
 
   (module random-keyboard-parts:LED_D3.0mm-Pretty (layer F.Cu) (tedit 5B965EC7) (tstamp 5E8C5801)
-    (at 283.36875 -205.58125)
+    (at 27.155001 197.265001)
     (descr "LED, diameter 3.0mm, 2 pins")
     (tags "LED diameter 3.0mm 2 pins")
     (path /61DE13C1)
@@ -9030,7 +9030,7 @@
   )
 
   (module random-keyboard-parts:LED_D3.0mm-Pretty (layer F.Cu) (tedit 5B965EC7) (tstamp 5E8C57EF)
-    (at 283.36875 -215.10625)
+    (at 27.155001 191.715001)
     (descr "LED, diameter 3.0mm, 2 pins")
     (tags "LED diameter 3.0mm 2 pins")
     (path /61D85791)
@@ -9064,7 +9064,7 @@
   )
 
   (module random-keyboard-parts:LED_D3.0mm-Pretty (layer F.Cu) (tedit 5B965EC7) (tstamp 5E8C57DD)
-    (at 283.36875 -224.63125)
+    (at 33.305001 191.715001)
     (descr "LED, diameter 3.0mm, 2 pins")
     (tags "LED diameter 3.0mm 2 pins")
     (path /61D80B20)
