@@ -3339,10 +3339,10 @@ F 3 "" H 3875 6825 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-LED MX_SPACE4
+L MX_Alps_Hybrid:MX-LED MX_SPACE5
 U 1 1 5EA48DDC
 P 3850 5950
-F 0 "MX_SPACE4" H 3932 6174 60  0000 C CNN
+F 0 "MX_SPACE5" H 3932 6174 60  0000 C CNN
 F 1 "MX-LED" H 3932 6100 20  0000 C CNN
 F 2 "MX_Only:MXOnly-2.75U-ReversedStabilizers" H 3225 5925 60  0001 C CNN
 F 3 "" H 3225 5925 60  0001 C CNN
@@ -3440,10 +3440,10 @@ Wire Wire Line
 	4450 7000 4450 6100
 Connection ~ 4450 6100
 $Comp
-L MX_Alps_Hybrid:MX-LED MX_SPACE5
+L MX_Alps_Hybrid:MX-LED MX_SPACE6
 U 1 1 5EE96CC6
 P 5150 5950
-F 0 "MX_SPACE5" H 5232 6174 60  0000 C CNN
+F 0 "MX_SPACE6" H 5232 6174 60  0000 C CNN
 F 1 "MX-LED" H 5232 6100 20  0000 C CNN
 F 2 "MX_Only:MXOnly-2.25U-ReversedStabilizers" H 4525 5925 60  0001 C CNN
 F 3 "" H 4525 5925 60  0001 C CNN
@@ -3458,7 +3458,7 @@ U 1 1 5EEFC179
 P 4500 7500
 F 0 "MX_SPACE3" H 4582 7724 60  0000 C CNN
 F 1 "MX-LED" H 4582 7650 20  0000 C CNN
-F 2 "MX_Only:MXOnly-1.25U" H 3875 7475 60  0001 C CNN
+F 2 "MX_Only:MXOnly-7U-FLIPPED-ReversedStabilizers" H 3875 7475 60  0001 C CNN
 F 3 "" H 3875 7475 60  0001 C CNN
 	1    4500 7500
 	1    0    0    -1  
@@ -3479,32 +3479,6 @@ Wire Wire Line
 Wire Wire Line
 	700  5200 1100 5200
 Connection ~ 1100 5200
-$Comp
-L MX_Alps_Hybrid:MX-LED MX_LCTRL3
-U 1 1 5F0D2C14
-P 1250 7750
-F 0 "MX_LCTRL3" H 1332 7974 60  0000 C CNN
-F 1 "MX-LED" H 1332 7900 20  0000 C CNN
-F 2 "MX_Only:MXOnly-1.5U" H 625 7725 60  0001 C CNN
-F 3 "" H 625 7725 60  0001 C CNN
-	1    1250 7750
-	1    0    0    -1  
-$EndComp
-$Comp
-L MX_Alps_Hybrid:MX-LED MX_LALT3
-U 1 1 5F0D2C1A
-P 2550 7750
-F 0 "MX_LALT3" H 2632 7974 60  0000 C CNN
-F 1 "MX-LED" H 2632 7900 20  0000 C CNN
-F 2 "MX_Only:MXOnly-1.5U" H 1925 7725 60  0001 C CNN
-F 3 "" H 1925 7725 60  0001 C CNN
-	1    2550 7750
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	2700 7700 2700 6800
-Wire Wire Line
-	1400 7700 1400 6800
 $Comp
 L MX_Alps_Hybrid:MX-LED MX_LWIN2
 U 1 1 5F107680
@@ -4708,12 +4682,6 @@ Wire Wire Line
 Wire Wire Line
 	1850 6100 1850 7000
 Connection ~ 1850 6100
-Wire Wire Line
-	2500 7900 2500 7000
-Connection ~ 2500 7000
-Wire Wire Line
-	1200 7900 1200 7000
-Connection ~ 1200 7000
 $Comp
 L Device:R_Small R18
 U 1 1 63B8A6E9
@@ -4734,13 +4702,7 @@ Wire Wire Line
 	1250 6950 1250 6050
 Connection ~ 1250 6050
 Wire Wire Line
-	1250 7850 1250 6950
-Connection ~ 1250 6950
-Wire Wire Line
-	2550 7850 2550 6950
-Wire Wire Line
 	2550 6950 2550 6050
-Connection ~ 2550 6950
 Connection ~ 2550 6050
 Wire Wire Line
 	1300 1750 1950 1750
@@ -5012,8 +4974,6 @@ Wire Wire Line
 Connection ~ 11050 6250
 Wire Wire Line
 	11050 6250 10400 6250
-Wire Wire Line
-	1350 7750 1350 6850
 Connection ~ 1350 1450
 Wire Wire Line
 	1350 1450 1350 1000
@@ -5032,7 +4992,6 @@ Wire Wire Line
 Connection ~ 1350 5950
 Wire Wire Line
 	1350 5950 1350 5050
-Connection ~ 1350 6850
 Wire Wire Line
 	1350 6850 1350 5950
 $Comp
@@ -5069,8 +5028,6 @@ Connection ~ 2000 5950
 Wire Wire Line
 	2000 5950 2000 6850
 Wire Wire Line
-	2650 7750 2650 6850
-Wire Wire Line
 	2650 1000 2000 1000
 Connection ~ 2650 1450
 Wire Wire Line
@@ -5090,7 +5047,6 @@ Wire Wire Line
 Connection ~ 2650 5950
 Wire Wire Line
 	2650 5950 2650 5050
-Connection ~ 2650 6850
 Wire Wire Line
 	2650 6850 2650 5950
 Connection ~ 2000 1000
@@ -5338,12 +5294,10 @@ Wire Wire Line
 Connection ~ 11100 5050
 Wire Wire Line
 	11100 5050 11100 5950
-Connection ~ 1400 6800
 Connection ~ 1750 5400
 Wire Wire Line
 	1750 5400 2400 5400
 Connection ~ 2050 5900
-Connection ~ 2700 6800
 Text GLabel 13400 4650 2    50   Input ~ 0
 RESET
 Text GLabel 13400 4550 2    50   Input ~ 0
@@ -6020,4 +5974,73 @@ Connection ~ 1250 4250
 Wire Wire Line
 	700  4300 1100 4300
 Connection ~ 1100 4300
+Connection ~ 2650 6850
+Wire Wire Line
+	2650 7750 2650 6850
+Connection ~ 1350 6850
+Wire Wire Line
+	1350 7750 1350 6850
+Connection ~ 2550 6950
+Wire Wire Line
+	2550 7850 2550 6950
+Connection ~ 1250 6950
+Wire Wire Line
+	1250 7850 1250 6950
+Connection ~ 1200 7000
+Wire Wire Line
+	1200 7900 1200 7000
+Connection ~ 2500 7000
+Wire Wire Line
+	2500 7900 2500 7000
+Connection ~ 1400 6800
+Wire Wire Line
+	1400 7700 1400 6800
+Connection ~ 2700 6800
+Wire Wire Line
+	2700 7700 2700 6800
+$Comp
+L MX_Alps_Hybrid:MX-LED MX_LALT3
+U 1 1 5F0D2C1A
+P 2550 7750
+F 0 "MX_LALT3" H 2632 7974 60  0000 C CNN
+F 1 "MX-LED" H 2632 7900 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1.5U" H 1925 7725 60  0001 C CNN
+F 3 "" H 1925 7725 60  0001 C CNN
+	1    2550 7750
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-LED MX_LCTRL3
+U 1 1 5F0D2C14
+P 1250 7750
+F 0 "MX_LCTRL3" H 1332 7974 60  0000 C CNN
+F 1 "MX-LED" H 1332 7900 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1.5U" H 625 7725 60  0001 C CNN
+F 3 "" H 625 7725 60  0001 C CNN
+	1    1250 7750
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-LED MX_SPACE4
+U 1 1 5EA67D89
+P 4500 8150
+F 0 "MX_SPACE4" H 4582 8374 60  0000 C CNN
+F 1 "MX-LED" H 4582 8300 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1.25U" H 3875 8125 60  0001 C CNN
+F 3 "" H 3875 8125 60  0001 C CNN
+	1    4500 8150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4650 7450 4650 8100
+Wire Wire Line
+	4600 7500 4600 8150
+Wire Wire Line
+	4450 7650 4450 8300
+Wire Wire Line
+	4500 8250 4500 7600
+Connection ~ 4450 7650
+Connection ~ 4500 7600
+Connection ~ 4600 7500
+Connection ~ 4650 7450
 $EndSCHEMATC
