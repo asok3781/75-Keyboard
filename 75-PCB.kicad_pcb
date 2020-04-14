@@ -8145,7 +8145,7 @@
   )
 
   (module WS2812B:WS2812B (layer B.Cu) (tedit 5BFF8641) (tstamp 5E8C5A84)
-    (at 304.00625 -157.95625)
+    (at 304.00625 -159.54375)
     (path /5EED0119)
     (fp_text reference LED9 (at 0 4.572) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -8217,7 +8217,7 @@
   )
 
   (module WS2812B:WS2812B (layer B.Cu) (tedit 5BFF8641) (tstamp 5E8C5A49)
-    (at 304.00625 -196.05625)
+    (at 304.00625 -197.64375)
     (path /5EE2FB53)
     (fp_text reference LED8 (at 0 4.572) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -8289,7 +8289,7 @@
   )
 
   (module WS2812B:WS2812B (layer B.Cu) (tedit 5BFF8641) (tstamp 5E8C5A0E)
-    (at -4.7625 -157.95625)
+    (at -4.7625 -159.54375)
     (path /5ED8FAB6)
     (fp_text reference LED7 (at 0 4.572) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -8361,7 +8361,7 @@
   )
 
   (module WS2812B:WS2812B (layer B.Cu) (tedit 5BFF8641) (tstamp 5E8C59D3)
-    (at -4.7625 -196.05625)
+    (at -4.7625 -197.64375)
     (path /5ECEF7F0)
     (fp_text reference LED6 (at 0 4.572) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -8433,7 +8433,7 @@
   )
 
   (module WS2812B:WS2812B (layer B.Cu) (tedit 5BFF8641) (tstamp 5E8C5998)
-    (at 258.7625 -230.98125 270)
+    (at 261.9375 -230.98125 270)
     (path /5EB0DDEF)
     (fp_text reference LED5 (at 0 4.572 270) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -8505,7 +8505,7 @@
   )
 
   (module WS2812B:WS2812B (layer B.Cu) (tedit 5BFF8641) (tstamp 5E8C595D)
-    (at 199.23125 -230.98125 90)
+    (at 202.3875 -231.04375 90)
     (path /5EC4F9CB)
     (fp_text reference LED4 (at 0 4.572 -90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -8721,7 +8721,7 @@
   )
 
   (module WS2812B:WS2812B (layer B.Cu) (tedit 5BFF8641) (tstamp 5E8C58AC)
-    (at 11.90625 -230.98125 90)
+    (at 11.1125 -230.98125 90)
     (path /5EA6661F)
     (fp_text reference LED1 (at 0 4.572 -90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
