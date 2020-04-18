@@ -5990,16 +5990,9 @@ Wire Wire Line
 Wire Wire Line
 	7600 10400 7100 10400
 Wire Wire Line
-	6100 10800 6100 10400
-Wire Wire Line
-	6100 10000 7250 10000
-Wire Wire Line
 	7250 10000 7250 9400
 Wire Wire Line
 	7250 9400 7100 9400
-Connection ~ 6100 10400
-Wire Wire Line
-	6100 10400 6100 10000
 Wire Wire Line
 	6100 9800 5900 9800
 Wire Wire Line
@@ -6048,4 +6041,10 @@ Wire Wire Line
 	2750 9950 2750 9400
 Wire Wire Line
 	2750 9400 2600 9400
+Wire Wire Line
+	5950 10000 5950 10800
+Wire Wire Line
+	5950 10800 6100 10800
+Wire Wire Line
+	5950 10000 7250 10000
 $EndSCHEMATC
