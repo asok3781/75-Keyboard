@@ -1067,12 +1067,12 @@ $EndComp
 $Comp
 L MX_Alps_Hybrid:MX-LED MX_ENTER1
 U 1 1 6510CFB7
-P 10350 4150
-F 0 "MX_ENTER1" H 10432 4374 60  0000 C CNN
-F 1 "MX-LED" H 10432 4300 20  0000 C CNN
-F 2 "MX_Only:MXOnly-2.25U-ReversedStabilizers" H 9725 4125 60  0001 C CNN
-F 3 "" H 9725 4125 60  0001 C CNN
-	1    10350 4150
+P 9050 4150
+F 0 "MX_ENTER1" H 9132 4374 60  0000 C CNN
+F 1 "MX-LED" H 9132 4300 20  0000 C CNN
+F 2 "MX_Only:MXOnly-2.25U-ReversedStabilizers" H 8425 4125 60  0001 C CNN
+F 3 "" H 8425 4125 60  0001 C CNN
+	1    9050 4150
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1111,12 +1111,12 @@ $EndComp
 $Comp
 L MX_Alps_Hybrid:MX-LED MX_BCKSP1
 U 1 1 650B45B0
-P 9700 2350
-F 0 "MX_BCKSP1" H 9782 2574 60  0000 C CNN
-F 1 "MX-LED" H 9782 2500 20  0000 C CNN
-F 2 "MX_Only:MXOnly-2U" H 9075 2325 60  0001 C CNN
-F 3 "" H 9075 2325 60  0001 C CNN
-	1    9700 2350
+P 10350 2350
+F 0 "MX_BCKSP1" H 10432 2574 60  0000 C CNN
+F 1 "MX-LED" H 10432 2500 20  0000 C CNN
+F 2 "MX_Only:MXOnly-2U" H 9725 2325 60  0001 C CNN
+F 3 "" H 9725 2325 60  0001 C CNN
+	1    10350 2350
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1439,10 +1439,10 @@ F 3 "" H 6475 5925 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D2
 U 1 1 5F41711E
 P 1100 1700
-F 0 "D" H 1150 1900 50  0000 R CNN
+F 0 "D2" H 1150 1900 50  0000 R CNN
 F 1 "SOD-123" H 1250 1800 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 1100 1700 50  0001 C CNN
 F 3 "~" V 1100 1700 50  0001 C CNN
@@ -1450,10 +1450,10 @@ F 3 "~" V 1100 1700 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D8
 U 1 1 5F41C834
 P 1750 1800
-F 0 "D" H 1800 2000 50  0000 R CNN
+F 0 "D8" H 1800 2000 50  0000 R CNN
 F 1 "SOD-123" H 1900 1900 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 1750 1800 50  0001 C CNN
 F 3 "~" V 1750 1800 50  0001 C CNN
@@ -1461,10 +1461,10 @@ F 3 "~" V 1750 1800 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D14
 U 1 1 5F428C53
 P 2400 1700
-F 0 "D" H 2450 1900 50  0000 R CNN
+F 0 "D14" H 2450 1900 50  0000 R CNN
 F 1 "SOD-123" H 2550 1800 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 2400 1700 50  0001 C CNN
 F 3 "~" V 2400 1700 50  0001 C CNN
@@ -1472,10 +1472,10 @@ F 3 "~" V 2400 1700 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D20
 U 1 1 5F434B2C
 P 3050 1800
-F 0 "D" H 3100 2000 50  0000 R CNN
+F 0 "D20" H 3100 2000 50  0000 R CNN
 F 1 "SOD-123" H 3200 1900 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 3050 1800 50  0001 C CNN
 F 3 "~" V 3050 1800 50  0001 C CNN
@@ -1483,10 +1483,10 @@ F 3 "~" V 3050 1800 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D25
 U 1 1 5F44D643
 P 3700 1700
-F 0 "D" H 3750 1900 50  0000 R CNN
+F 0 "D25" H 3750 1900 50  0000 R CNN
 F 1 "SOD-123" H 3850 1800 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 3700 1700 50  0001 C CNN
 F 3 "~" V 3700 1700 50  0001 C CNN
@@ -1494,10 +1494,10 @@ F 3 "~" V 3700 1700 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D31
 U 1 1 5F4595CB
 P 4350 1800
-F 0 "D" H 4400 2000 50  0000 R CNN
+F 0 "D31" H 4400 2000 50  0000 R CNN
 F 1 "SOD-123" H 4500 1900 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 4350 1800 50  0001 C CNN
 F 3 "~" V 4350 1800 50  0001 C CNN
@@ -1505,10 +1505,10 @@ F 3 "~" V 4350 1800 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D36
 U 1 1 5F4654D6
 P 5000 1700
-F 0 "D" H 5050 1900 50  0000 R CNN
+F 0 "D36" H 5050 1900 50  0000 R CNN
 F 1 "SOD-123" H 5150 1800 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 5000 1700 50  0001 C CNN
 F 3 "~" V 5000 1700 50  0001 C CNN
@@ -1516,10 +1516,10 @@ F 3 "~" V 5000 1700 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D42
 U 1 1 5F4714D1
 P 5650 1800
-F 0 "D" H 5700 2000 50  0000 R CNN
+F 0 "D42" H 5700 2000 50  0000 R CNN
 F 1 "SOD-123" H 5800 1900 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 5650 1800 50  0001 C CNN
 F 3 "~" V 5650 1800 50  0001 C CNN
@@ -1527,10 +1527,10 @@ F 3 "~" V 5650 1800 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D47
 U 1 1 5F47D3AF
 P 6300 1700
-F 0 "D" H 6350 1900 50  0000 R CNN
+F 0 "D47" H 6350 1900 50  0000 R CNN
 F 1 "SOD-123" H 6450 1800 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 6300 1700 50  0001 C CNN
 F 3 "~" V 6300 1700 50  0001 C CNN
@@ -1538,10 +1538,10 @@ F 3 "~" V 6300 1700 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D53
 U 1 1 5F4892FB
 P 6950 1800
-F 0 "D" H 7000 2000 50  0000 R CNN
+F 0 "D53" H 7000 2000 50  0000 R CNN
 F 1 "SOD-123" H 7100 1900 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 6950 1800 50  0001 C CNN
 F 3 "~" V 6950 1800 50  0001 C CNN
@@ -1549,10 +1549,10 @@ F 3 "~" V 6950 1800 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D59
 U 1 1 5F495337
 P 7600 1700
-F 0 "D" H 7650 1900 50  0000 R CNN
+F 0 "D59" H 7650 1900 50  0000 R CNN
 F 1 "SOD-123" H 7750 1800 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 7600 1700 50  0001 C CNN
 F 3 "~" V 7600 1700 50  0001 C CNN
@@ -1560,10 +1560,10 @@ F 3 "~" V 7600 1700 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D65
 U 1 1 5F4A12AB
 P 8250 1800
-F 0 "D" H 8300 2000 50  0000 R CNN
+F 0 "D65" H 8300 2000 50  0000 R CNN
 F 1 "SOD-123" H 8400 1900 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 8250 1800 50  0001 C CNN
 F 3 "~" V 8250 1800 50  0001 C CNN
@@ -1571,10 +1571,10 @@ F 3 "~" V 8250 1800 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D71
 U 1 1 5F4AD24C
 P 8900 1700
-F 0 "D" H 8950 1900 50  0000 R CNN
+F 0 "D71" H 8950 1900 50  0000 R CNN
 F 1 "SOD-123" H 9050 1800 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 8900 1700 50  0001 C CNN
 F 3 "~" V 8900 1700 50  0001 C CNN
@@ -1582,10 +1582,10 @@ F 3 "~" V 8900 1700 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D76
 U 1 1 5F4B9238
 P 9550 1800
-F 0 "D" H 9600 2000 50  0000 R CNN
+F 0 "D76" H 9600 2000 50  0000 R CNN
 F 1 "SOD-123" H 9700 1900 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 9550 1800 50  0001 C CNN
 F 3 "~" V 9550 1800 50  0001 C CNN
@@ -1593,10 +1593,10 @@ F 3 "~" V 9550 1800 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D83
 U 1 1 5F4C511B
 P 10850 1700
-F 0 "D" H 10900 1900 50  0000 R CNN
+F 0 "D83" H 10900 1900 50  0000 R CNN
 F 1 "SOD-123" H 11000 1800 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 10850 1700 50  0001 C CNN
 F 3 "~" V 10850 1700 50  0001 C CNN
@@ -1604,10 +1604,10 @@ F 3 "~" V 10850 1700 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D84
 U 1 1 5F4D0FB3
 P 10850 2600
-F 0 "D" H 10900 2800 50  0000 R CNN
+F 0 "D84" H 10900 2800 50  0000 R CNN
 F 1 "SOD-123" H 11000 2700 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 10850 2600 50  0001 C CNN
 F 3 "~" V 10850 2600 50  0001 C CNN
@@ -1615,10 +1615,10 @@ F 3 "~" V 10850 2600 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D77
 U 1 1 5F4DCEDC
 P 9550 2600
-F 0 "D" H 9600 2800 50  0000 R CNN
+F 0 "D77" H 9600 2800 50  0000 R CNN
 F 1 "SOD-123" H 9700 2700 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 9550 2600 50  0001 C CNN
 F 3 "~" V 9550 2600 50  0001 C CNN
@@ -1626,10 +1626,10 @@ F 3 "~" V 9550 2600 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D72
 U 1 1 5F4E8DEC
 P 8900 2700
-F 0 "D" H 8950 2900 50  0000 R CNN
+F 0 "D72" H 8950 2900 50  0000 R CNN
 F 1 "SOD-123" H 9050 2800 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 8900 2700 50  0001 C CNN
 F 3 "~" V 8900 2700 50  0001 C CNN
@@ -1637,10 +1637,10 @@ F 3 "~" V 8900 2700 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D66
 U 1 1 5F4F4D01
 P 8250 2600
-F 0 "D" H 8300 2800 50  0000 R CNN
+F 0 "D66" H 8300 2800 50  0000 R CNN
 F 1 "SOD-123" H 8400 2700 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 8250 2600 50  0001 C CNN
 F 3 "~" V 8250 2600 50  0001 C CNN
@@ -1648,10 +1648,10 @@ F 3 "~" V 8250 2600 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D60
 U 1 1 5F500D01
 P 7600 2700
-F 0 "D" H 7650 2900 50  0000 R CNN
+F 0 "D60" H 7650 2900 50  0000 R CNN
 F 1 "SOD-123" H 7750 2800 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 7600 2700 50  0001 C CNN
 F 3 "~" V 7600 2700 50  0001 C CNN
@@ -1659,10 +1659,10 @@ F 3 "~" V 7600 2700 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D54
 U 1 1 5F50CAEF
 P 6950 2600
-F 0 "D" H 7000 2800 50  0000 R CNN
+F 0 "D54" H 7000 2800 50  0000 R CNN
 F 1 "SOD-123" H 7100 2700 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 6950 2600 50  0001 C CNN
 F 3 "~" V 6950 2600 50  0001 C CNN
@@ -1670,10 +1670,10 @@ F 3 "~" V 6950 2600 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D48
 U 1 1 5F5189C3
 P 6300 2700
-F 0 "D" H 6350 2900 50  0000 R CNN
+F 0 "D48" H 6350 2900 50  0000 R CNN
 F 1 "SOD-123" H 6450 2800 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 6300 2700 50  0001 C CNN
 F 3 "~" V 6300 2700 50  0001 C CNN
@@ -1681,10 +1681,10 @@ F 3 "~" V 6300 2700 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D43
 U 1 1 5F524A3B
 P 5650 2600
-F 0 "D" H 5700 2800 50  0000 R CNN
+F 0 "D43" H 5700 2800 50  0000 R CNN
 F 1 "SOD-123" H 5800 2700 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 5650 2600 50  0001 C CNN
 F 3 "~" V 5650 2600 50  0001 C CNN
@@ -1692,10 +1692,10 @@ F 3 "~" V 5650 2600 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D37
 U 1 1 5F5308C9
 P 5000 2700
-F 0 "D" H 5050 2900 50  0000 R CNN
+F 0 "D37" H 5050 2900 50  0000 R CNN
 F 1 "SOD-123" H 5150 2800 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 5000 2700 50  0001 C CNN
 F 3 "~" V 5000 2700 50  0001 C CNN
@@ -1703,10 +1703,10 @@ F 3 "~" V 5000 2700 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D32
 U 1 1 5F53CA59
 P 4350 2600
-F 0 "D" H 4400 2800 50  0000 R CNN
+F 0 "D32" H 4400 2800 50  0000 R CNN
 F 1 "SOD-123" H 4500 2700 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 4350 2600 50  0001 C CNN
 F 3 "~" V 4350 2600 50  0001 C CNN
@@ -1714,10 +1714,10 @@ F 3 "~" V 4350 2600 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D26
 U 1 1 5F54889C
 P 3700 2700
-F 0 "D" H 3750 2900 50  0000 R CNN
+F 0 "D26" H 3750 2900 50  0000 R CNN
 F 1 "SOD-123" H 3850 2800 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 3700 2700 50  0001 C CNN
 F 3 "~" V 3700 2700 50  0001 C CNN
@@ -1725,10 +1725,10 @@ F 3 "~" V 3700 2700 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D21
 U 1 1 5F554987
 P 3050 2600
-F 0 "D" H 3100 2800 50  0000 R CNN
+F 0 "D21" H 3100 2800 50  0000 R CNN
 F 1 "SOD-123" H 3200 2700 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 3050 2600 50  0001 C CNN
 F 3 "~" V 3050 2600 50  0001 C CNN
@@ -1736,10 +1736,10 @@ F 3 "~" V 3050 2600 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D15
 U 1 1 5F560752
 P 2400 2700
-F 0 "D" H 2450 2900 50  0000 R CNN
+F 0 "D15" H 2450 2900 50  0000 R CNN
 F 1 "SOD-123" H 2550 2800 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 2400 2700 50  0001 C CNN
 F 3 "~" V 2400 2700 50  0001 C CNN
@@ -1747,10 +1747,10 @@ F 3 "~" V 2400 2700 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D9
 U 1 1 5F56C5F4
 P 1750 2600
-F 0 "D" H 1800 2800 50  0000 R CNN
+F 0 "D9" H 1800 2800 50  0000 R CNN
 F 1 "SOD-123" H 1900 2700 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 1750 2600 50  0001 C CNN
 F 3 "~" V 1750 2600 50  0001 C CNN
@@ -1758,10 +1758,10 @@ F 3 "~" V 1750 2600 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D3
 U 1 1 5F5786A8
 P 1100 2700
-F 0 "D" H 1150 2900 50  0000 R CNN
+F 0 "D3" H 1150 2900 50  0000 R CNN
 F 1 "SOD-123" H 1250 2800 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 1100 2700 50  0001 C CNN
 F 3 "~" V 1100 2700 50  0001 C CNN
@@ -1769,10 +1769,10 @@ F 3 "~" V 1100 2700 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D4
 U 1 1 5F5848C4
 P 1100 3500
-F 0 "D" H 1150 3700 50  0000 R CNN
+F 0 "D4" H 1150 3700 50  0000 R CNN
 F 1 "SOD-123" H 1250 3600 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 1100 3500 50  0001 C CNN
 F 3 "~" V 1100 3500 50  0001 C CNN
@@ -1780,10 +1780,10 @@ F 3 "~" V 1100 3500 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D10
 U 1 1 5F590923
 P 1750 3600
-F 0 "D" H 1800 3800 50  0000 R CNN
+F 0 "D10" H 1800 3800 50  0000 R CNN
 F 1 "SOD-123" H 1900 3700 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 1750 3600 50  0001 C CNN
 F 3 "~" V 1750 3600 50  0001 C CNN
@@ -1791,10 +1791,10 @@ F 3 "~" V 1750 3600 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D16
 U 1 1 5F59C847
 P 2400 3500
-F 0 "D" H 2450 3700 50  0000 R CNN
+F 0 "D16" H 2450 3700 50  0000 R CNN
 F 1 "SOD-123" H 2550 3600 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 2400 3500 50  0001 C CNN
 F 3 "~" V 2400 3500 50  0001 C CNN
@@ -1802,10 +1802,10 @@ F 3 "~" V 2400 3500 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D22
 U 1 1 5F5A8815
 P 3050 3600
-F 0 "D" H 3100 3800 50  0000 R CNN
+F 0 "D22" H 3100 3800 50  0000 R CNN
 F 1 "SOD-123" H 3200 3700 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 3050 3600 50  0001 C CNN
 F 3 "~" V 3050 3600 50  0001 C CNN
@@ -1813,10 +1813,10 @@ F 3 "~" V 3050 3600 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D27
 U 1 1 5F5B465D
 P 3700 3500
-F 0 "D" H 3750 3700 50  0000 R CNN
+F 0 "D27" H 3750 3700 50  0000 R CNN
 F 1 "SOD-123" H 3850 3600 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 3700 3500 50  0001 C CNN
 F 3 "~" V 3700 3500 50  0001 C CNN
@@ -1824,10 +1824,10 @@ F 3 "~" V 3700 3500 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D33
 U 1 1 5F5C0630
 P 4350 3600
-F 0 "D" H 4400 3800 50  0000 R CNN
+F 0 "D33" H 4400 3800 50  0000 R CNN
 F 1 "SOD-123" H 4500 3700 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 4350 3600 50  0001 C CNN
 F 3 "~" V 4350 3600 50  0001 C CNN
@@ -1835,10 +1835,10 @@ F 3 "~" V 4350 3600 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D38
 U 1 1 5F5D93EA
 P 5000 3500
-F 0 "D" H 5050 3700 50  0000 R CNN
+F 0 "D38" H 5050 3700 50  0000 R CNN
 F 1 "SOD-123" H 5150 3600 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 5000 3500 50  0001 C CNN
 F 3 "~" V 5000 3500 50  0001 C CNN
@@ -1846,10 +1846,10 @@ F 3 "~" V 5000 3500 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D44
 U 1 1 5F5E51CE
 P 5650 3600
-F 0 "D" H 5700 3800 50  0000 R CNN
+F 0 "D44" H 5700 3800 50  0000 R CNN
 F 1 "SOD-123" H 5800 3700 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 5650 3600 50  0001 C CNN
 F 3 "~" V 5650 3600 50  0001 C CNN
@@ -1857,10 +1857,10 @@ F 3 "~" V 5650 3600 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D49
 U 1 1 5F5F1043
 P 6300 3500
-F 0 "D" H 6350 3700 50  0000 R CNN
+F 0 "D49" H 6350 3700 50  0000 R CNN
 F 1 "SOD-123" H 6450 3600 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 6300 3500 50  0001 C CNN
 F 3 "~" V 6300 3500 50  0001 C CNN
@@ -1868,10 +1868,10 @@ F 3 "~" V 6300 3500 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D55
 U 1 1 5F5FCE86
 P 6950 3600
-F 0 "D" H 7000 3800 50  0000 R CNN
+F 0 "D55" H 7000 3800 50  0000 R CNN
 F 1 "SOD-123" H 7100 3700 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 6950 3600 50  0001 C CNN
 F 3 "~" V 6950 3600 50  0001 C CNN
@@ -1879,10 +1879,10 @@ F 3 "~" V 6950 3600 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D61
 U 1 1 5F608D73
 P 7600 3500
-F 0 "D" H 7650 3700 50  0000 R CNN
+F 0 "D61" H 7650 3700 50  0000 R CNN
 F 1 "SOD-123" H 7750 3600 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 7600 3500 50  0001 C CNN
 F 3 "~" V 7600 3500 50  0001 C CNN
@@ -1890,10 +1890,10 @@ F 3 "~" V 7600 3500 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D67
 U 1 1 5F614BF7
 P 8250 3600
-F 0 "D" H 8300 3800 50  0000 R CNN
+F 0 "D67" H 8300 3800 50  0000 R CNN
 F 1 "SOD-123" H 8400 3700 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 8250 3600 50  0001 C CNN
 F 3 "~" V 8250 3600 50  0001 C CNN
@@ -1901,10 +1901,10 @@ F 3 "~" V 8250 3600 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D73
 U 1 1 5F620A99
 P 8900 3500
-F 0 "D" H 8950 3700 50  0000 R CNN
+F 0 "D73" H 8950 3700 50  0000 R CNN
 F 1 "SOD-123" H 9050 3600 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 8900 3500 50  0001 C CNN
 F 3 "~" V 8900 3500 50  0001 C CNN
@@ -1912,10 +1912,10 @@ F 3 "~" V 8900 3500 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D78
 U 1 1 5F62CA3F
 P 9550 3600
-F 0 "D" H 9600 3800 50  0000 R CNN
+F 0 "D78" H 9600 3800 50  0000 R CNN
 F 1 "SOD-123" H 9700 3700 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 9550 3600 50  0001 C CNN
 F 3 "~" V 9550 3600 50  0001 C CNN
@@ -1923,10 +1923,10 @@ F 3 "~" V 9550 3600 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D85
 U 1 1 5F638BB1
 P 10850 3500
-F 0 "D" H 10900 3700 50  0000 R CNN
+F 0 "D85" H 10900 3700 50  0000 R CNN
 F 1 "SOD-123" H 11000 3600 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 10850 3500 50  0001 C CNN
 F 3 "~" V 10850 3500 50  0001 C CNN
@@ -1934,10 +1934,10 @@ F 3 "~" V 10850 3500 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D89
 U 1 1 5F644CBA
 P 10850 4400
-F 0 "D" H 10900 4600 50  0000 R CNN
+F 0 "D89" H 10900 4600 50  0000 R CNN
 F 1 "SOD-123" H 11000 4500 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 10850 4400 50  0001 C CNN
 F 3 "~" V 10850 4400 50  0001 C CNN
@@ -1945,21 +1945,10 @@ F 3 "~" V 10850 4400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
-U 1 1 5F650C83
-P 10200 4500
-F 0 "D" H 10250 4700 50  0000 R CNN
-F 1 "SOD-123" H 10350 4600 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 10200 4500 50  0001 C CNN
-F 3 "~" V 10200 4500 50  0001 C CNN
-	1    10200 4500
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Device:D_Small D
+L Device:D_Small D68
 U 1 1 5F65CCC9
 P 8250 4400
-F 0 "D" H 8300 4600 50  0000 R CNN
+F 0 "D68" H 8300 4600 50  0000 R CNN
 F 1 "SOD-123" H 8400 4500 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 8250 4400 50  0001 C CNN
 F 3 "~" V 8250 4400 50  0001 C CNN
@@ -1967,10 +1956,10 @@ F 3 "~" V 8250 4400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D62
 U 1 1 5F668CCE
 P 7600 4500
-F 0 "D" H 7650 4700 50  0000 R CNN
+F 0 "D62" H 7650 4700 50  0000 R CNN
 F 1 "SOD-123" H 7750 4600 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 7600 4500 50  0001 C CNN
 F 3 "~" V 7600 4500 50  0001 C CNN
@@ -1978,10 +1967,10 @@ F 3 "~" V 7600 4500 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D56
 U 1 1 5F674BFC
 P 6950 4400
-F 0 "D" H 7000 4600 50  0000 R CNN
+F 0 "D56" H 7000 4600 50  0000 R CNN
 F 1 "SOD-123" H 7100 4500 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 6950 4400 50  0001 C CNN
 F 3 "~" V 6950 4400 50  0001 C CNN
@@ -1989,10 +1978,10 @@ F 3 "~" V 6950 4400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D50
 U 1 1 5F680ABC
 P 6300 4500
-F 0 "D" H 6350 4700 50  0000 R CNN
+F 0 "D50" H 6350 4700 50  0000 R CNN
 F 1 "SOD-123" H 6450 4600 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 6300 4500 50  0001 C CNN
 F 3 "~" V 6300 4500 50  0001 C CNN
@@ -2000,10 +1989,10 @@ F 3 "~" V 6300 4500 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D45
 U 1 1 5F68C940
 P 5650 4400
-F 0 "D" H 5700 4600 50  0000 R CNN
+F 0 "D45" H 5700 4600 50  0000 R CNN
 F 1 "SOD-123" H 5800 4500 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 5650 4400 50  0001 C CNN
 F 3 "~" V 5650 4400 50  0001 C CNN
@@ -2011,10 +2000,10 @@ F 3 "~" V 5650 4400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D39
 U 1 1 5F6985C1
 P 5000 4500
-F 0 "D" H 5050 4700 50  0000 R CNN
+F 0 "D39" H 5050 4700 50  0000 R CNN
 F 1 "SOD-123" H 5150 4600 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 5000 4500 50  0001 C CNN
 F 3 "~" V 5000 4500 50  0001 C CNN
@@ -2022,10 +2011,10 @@ F 3 "~" V 5000 4500 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D34
 U 1 1 5F6A42DD
 P 4350 4400
-F 0 "D" H 4400 4600 50  0000 R CNN
+F 0 "D34" H 4400 4600 50  0000 R CNN
 F 1 "SOD-123" H 4500 4500 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 4350 4400 50  0001 C CNN
 F 3 "~" V 4350 4400 50  0001 C CNN
@@ -2033,10 +2022,10 @@ F 3 "~" V 4350 4400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D28
 U 1 1 5F6AFFF9
 P 3700 4500
-F 0 "D" H 3750 4700 50  0000 R CNN
+F 0 "D28" H 3750 4700 50  0000 R CNN
 F 1 "SOD-123" H 3850 4600 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 3700 4500 50  0001 C CNN
 F 3 "~" V 3700 4500 50  0001 C CNN
@@ -2044,10 +2033,10 @@ F 3 "~" V 3700 4500 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D23
 U 1 1 5F6BBB30
 P 3050 4400
-F 0 "D" H 3100 4600 50  0000 R CNN
+F 0 "D23" H 3100 4600 50  0000 R CNN
 F 1 "SOD-123" H 3200 4500 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 3050 4400 50  0001 C CNN
 F 3 "~" V 3050 4400 50  0001 C CNN
@@ -2055,10 +2044,10 @@ F 3 "~" V 3050 4400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D17
 U 1 1 5F6C7A1D
 P 2400 4500
-F 0 "D" H 2450 4700 50  0000 R CNN
+F 0 "D17" H 2450 4700 50  0000 R CNN
 F 1 "SOD-123" H 2550 4600 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 2400 4500 50  0001 C CNN
 F 3 "~" V 2400 4500 50  0001 C CNN
@@ -2066,10 +2055,10 @@ F 3 "~" V 2400 4500 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D11
 U 1 1 5F6D3919
 P 1750 4400
-F 0 "D" H 1800 4600 50  0000 R CNN
+F 0 "D11" H 1800 4600 50  0000 R CNN
 F 1 "SOD-123" H 1900 4500 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 1750 4400 50  0001 C CNN
 F 3 "~" V 1750 4400 50  0001 C CNN
@@ -2077,10 +2066,10 @@ F 3 "~" V 1750 4400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D5
 U 1 1 5F6DFB85
 P 1100 4500
-F 0 "D" H 1150 4700 50  0000 R CNN
+F 0 "D5" H 1150 4700 50  0000 R CNN
 F 1 "SOD-123" H 1250 4600 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 1100 4500 50  0001 C CNN
 F 3 "~" V 1100 4500 50  0001 C CNN
@@ -2088,10 +2077,10 @@ F 3 "~" V 1100 4500 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D6
 U 1 1 5F6EBBA8
 P 1100 5300
-F 0 "D" H 1150 5500 50  0000 R CNN
+F 0 "D6" H 1150 5500 50  0000 R CNN
 F 1 "SOD-123" H 1250 5400 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 1100 5300 50  0001 C CNN
 F 3 "~" V 1100 5300 50  0001 C CNN
@@ -2099,10 +2088,10 @@ F 3 "~" V 1100 5300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D18
 U 1 1 5F6F79BE
 P 2400 5300
-F 0 "D" H 2450 5500 50  0000 R CNN
+F 0 "D18" H 2450 5500 50  0000 R CNN
 F 1 "SOD-123" H 2550 5400 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 2400 5300 50  0001 C CNN
 F 3 "~" V 2400 5300 50  0001 C CNN
@@ -2110,10 +2099,10 @@ F 3 "~" V 2400 5300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D24
 U 1 1 5F703720
 P 3050 5400
-F 0 "D" H 3100 5600 50  0000 R CNN
+F 0 "D24" H 3100 5600 50  0000 R CNN
 F 1 "SOD-123" H 3200 5500 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 3050 5400 50  0001 C CNN
 F 3 "~" V 3050 5400 50  0001 C CNN
@@ -2121,10 +2110,10 @@ F 3 "~" V 3050 5400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D29
 U 1 1 5F70F572
 P 3700 5300
-F 0 "D" H 3750 5500 50  0000 R CNN
+F 0 "D29" H 3750 5500 50  0000 R CNN
 F 1 "SOD-123" H 3850 5400 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 3700 5300 50  0001 C CNN
 F 3 "~" V 3700 5300 50  0001 C CNN
@@ -2132,10 +2121,10 @@ F 3 "~" V 3700 5300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D35
 U 1 1 5F71B428
 P 4350 5400
-F 0 "D" H 4400 5600 50  0000 R CNN
+F 0 "D35" H 4400 5600 50  0000 R CNN
 F 1 "SOD-123" H 4500 5500 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 4350 5400 50  0001 C CNN
 F 3 "~" V 4350 5400 50  0001 C CNN
@@ -2143,10 +2132,10 @@ F 3 "~" V 4350 5400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D40
 U 1 1 5F7273A1
 P 5000 5300
-F 0 "D" H 5050 5500 50  0000 R CNN
+F 0 "D40" H 5050 5500 50  0000 R CNN
 F 1 "SOD-123" H 5150 5400 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 5000 5300 50  0001 C CNN
 F 3 "~" V 5000 5300 50  0001 C CNN
@@ -2154,10 +2143,10 @@ F 3 "~" V 5000 5300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D46
 U 1 1 5F733284
 P 5650 5400
-F 0 "D" H 5700 5600 50  0000 R CNN
+F 0 "D46" H 5700 5600 50  0000 R CNN
 F 1 "SOD-123" H 5800 5500 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 5650 5400 50  0001 C CNN
 F 3 "~" V 5650 5400 50  0001 C CNN
@@ -2165,10 +2154,10 @@ F 3 "~" V 5650 5400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D51
 U 1 1 5F73F2AC
 P 6300 5300
-F 0 "D" H 6350 5500 50  0000 R CNN
+F 0 "D51" H 6350 5500 50  0000 R CNN
 F 1 "SOD-123" H 6450 5400 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 6300 5300 50  0001 C CNN
 F 3 "~" V 6300 5300 50  0001 C CNN
@@ -2176,10 +2165,10 @@ F 3 "~" V 6300 5300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D57
 U 1 1 5F74B329
 P 6950 5400
-F 0 "D" H 7000 5600 50  0000 R CNN
+F 0 "D57" H 7000 5600 50  0000 R CNN
 F 1 "SOD-123" H 7100 5500 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 6950 5400 50  0001 C CNN
 F 3 "~" V 6950 5400 50  0001 C CNN
@@ -2187,10 +2176,10 @@ F 3 "~" V 6950 5400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D63
 U 1 1 5F7571A8
 P 7600 5300
-F 0 "D" H 7650 5500 50  0000 R CNN
+F 0 "D63" H 7650 5500 50  0000 R CNN
 F 1 "SOD-123" H 7750 5400 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 7600 5300 50  0001 C CNN
 F 3 "~" V 7600 5300 50  0001 C CNN
@@ -2198,10 +2187,10 @@ F 3 "~" V 7600 5300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D69
 U 1 1 5F762F4B
 P 8250 5400
-F 0 "D" H 8300 5600 50  0000 R CNN
+F 0 "D69" H 8300 5600 50  0000 R CNN
 F 1 "SOD-123" H 8400 5500 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 8250 5400 50  0001 C CNN
 F 3 "~" V 8250 5400 50  0001 C CNN
@@ -2209,10 +2198,10 @@ F 3 "~" V 8250 5400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D74
 U 1 1 5F76EDD4
 P 8900 5300
-F 0 "D" H 8950 5500 50  0000 R CNN
+F 0 "D74" H 8950 5500 50  0000 R CNN
 F 1 "SOD-123" H 9050 5400 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 8900 5300 50  0001 C CNN
 F 3 "~" V 8900 5300 50  0001 C CNN
@@ -2220,10 +2209,10 @@ F 3 "~" V 8900 5300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D81
 U 1 1 5F77ACB7
 P 10200 5400
-F 0 "D" H 10250 5600 50  0000 R CNN
+F 0 "D81" H 10250 5600 50  0000 R CNN
 F 1 "SOD-123" H 10350 5500 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 10200 5400 50  0001 C CNN
 F 3 "~" V 10200 5400 50  0001 C CNN
@@ -2231,10 +2220,10 @@ F 3 "~" V 10200 5400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D90
 U 1 1 5F786A55
 P 10850 5300
-F 0 "D" H 10900 5500 50  0000 R CNN
+F 0 "D90" H 10900 5500 50  0000 R CNN
 F 1 "SOD-123" H 11000 5400 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 10850 5300 50  0001 C CNN
 F 3 "~" V 10850 5300 50  0001 C CNN
@@ -2242,10 +2231,10 @@ F 3 "~" V 10850 5300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D91
 U 1 1 5F792B1D
 P 10850 6200
-F 0 "D" H 10900 6400 50  0000 R CNN
+F 0 "D91" H 10900 6400 50  0000 R CNN
 F 1 "SOD-123" H 11000 6300 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 10850 6200 50  0001 C CNN
 F 3 "~" V 10850 6200 50  0001 C CNN
@@ -2253,10 +2242,10 @@ F 3 "~" V 10850 6200 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D82
 U 1 1 5F79E997
 P 10200 6300
-F 0 "D" H 10250 6500 50  0000 R CNN
+F 0 "D82" H 10250 6500 50  0000 R CNN
 F 1 "SOD-123" H 10350 6400 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 10200 6300 50  0001 C CNN
 F 3 "~" V 10200 6300 50  0001 C CNN
@@ -2264,10 +2253,10 @@ F 3 "~" V 10200 6300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D75
 U 1 1 5F7AA87F
 P 8900 6200
-F 0 "D" H 8950 6400 50  0000 R CNN
+F 0 "D75" H 8950 6400 50  0000 R CNN
 F 1 "SOD-123" H 9050 6300 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 8900 6200 50  0001 C CNN
 F 3 "~" V 8900 6200 50  0001 C CNN
@@ -2275,10 +2264,10 @@ F 3 "~" V 8900 6200 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D70
 U 1 1 5F7B678F
 P 8250 6300
-F 0 "D" H 8300 6500 50  0000 R CNN
+F 0 "D70" H 8300 6500 50  0000 R CNN
 F 1 "SOD-123" H 8400 6400 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 8250 6300 50  0001 C CNN
 F 3 "~" V 8250 6300 50  0001 C CNN
@@ -2286,10 +2275,10 @@ F 3 "~" V 8250 6300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D64
 U 1 1 5F7C25C8
 P 7600 6200
-F 0 "D" H 7650 6400 50  0000 R CNN
+F 0 "D64" H 7650 6400 50  0000 R CNN
 F 1 "SOD-123" H 7750 6300 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 7600 6200 50  0001 C CNN
 F 3 "~" V 7600 6200 50  0001 C CNN
@@ -2297,10 +2286,10 @@ F 3 "~" V 7600 6200 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D58
 U 1 1 5F7CE285
 P 6950 6300
-F 0 "D" H 7000 6500 50  0000 R CNN
+F 0 "D58" H 7000 6500 50  0000 R CNN
 F 1 "SOD-123" H 7100 6400 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 6950 6300 50  0001 C CNN
 F 3 "~" V 6950 6300 50  0001 C CNN
@@ -2308,10 +2297,10 @@ F 3 "~" V 6950 6300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D41
 U 1 1 5F7D9FDD
 P 5000 6300
-F 0 "D" H 5050 6500 50  0000 R CNN
+F 0 "D41" H 5050 6500 50  0000 R CNN
 F 1 "SOD-123" H 5150 6400 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 5000 6300 50  0001 C CNN
 F 3 "~" V 5000 6300 50  0001 C CNN
@@ -2319,10 +2308,10 @@ F 3 "~" V 5000 6300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D19
 U 1 1 5F7E5EA2
 P 2400 6300
-F 0 "D" H 2450 6500 50  0000 R CNN
+F 0 "D19" H 2450 6500 50  0000 R CNN
 F 1 "SOD-123" H 2550 6400 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 2400 6300 50  0001 C CNN
 F 3 "~" V 2400 6300 50  0001 C CNN
@@ -2330,10 +2319,10 @@ F 3 "~" V 2400 6300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D13
 U 1 1 5F7F1B1E
 P 1750 6200
-F 0 "D" H 1800 6400 50  0000 R CNN
+F 0 "D13" H 1800 6400 50  0000 R CNN
 F 1 "SOD-123" H 1900 6300 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 1750 6200 50  0001 C CNN
 F 3 "~" V 1750 6200 50  0001 C CNN
@@ -2341,10 +2330,10 @@ F 3 "~" V 1750 6200 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D7
 U 1 1 5F7FD9C0
 P 1100 6300
-F 0 "D" H 1150 6500 50  0000 R CNN
+F 0 "D7" H 1150 6500 50  0000 R CNN
 F 1 "SOD-123" H 1250 6400 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 1100 6300 50  0001 C CNN
 F 3 "~" V 1100 6300 50  0001 C CNN
@@ -2352,10 +2341,10 @@ F 3 "~" V 1100 6300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D79
 U 1 1 5F8F5811
 P 10200 2700
-F 0 "D" H 10250 2900 50  0000 R CNN
+F 0 "D79" H 10250 2900 50  0000 R CNN
 F 1 "SOD-123" H 10350 2800 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 10200 2700 50  0001 C CNN
 F 3 "~" V 10200 2700 50  0001 C CNN
@@ -2374,10 +2363,10 @@ F 3 "" H 1275 5025 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D12
 U 1 1 5EAD32DD
 P 1750 5400
-F 0 "D" H 1800 5600 50  0000 R CNN
+F 0 "D12" H 1800 5600 50  0000 R CNN
 F 1 "SOD-123" H 1900 5500 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 1750 5400 50  0001 C CNN
 F 3 "~" V 1750 5400 50  0001 C CNN
@@ -2385,25 +2374,14 @@ F 3 "~" V 1750 5400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-LED MX_\2
-U 1 1 5E890463
-P 10100 3250
-F 0 "MX_\\2" H 10182 3474 60  0000 C CNN
-F 1 "MX-LED" H 10182 3400 20  0000 C CNN
-F 2 "MX_Only:MXOnly-1U" H 9475 3225 60  0001 C CNN
-F 3 "" H 9475 3225 60  0001 C CNN
-	1    10100 3250
-	1    0    0    -1  
-$EndComp
-$Comp
 L MX_Alps_Hybrid:MX-LED MX_ENTER2
 U 1 1 5E9200CA
-P 10700 4150
-F 0 "MX_ENTER2" H 10782 4374 60  0000 C CNN
-F 1 "MX-LED" H 10782 4300 20  0000 C CNN
-F 2 "MX_Only:MXOnly-ISO-ROTATED-ReversedStabilizers" H 10075 4125 60  0001 C CNN
-F 3 "" H 10075 4125 60  0001 C CNN
-	1    10700 4150
+P 9500 4150
+F 0 "MX_ENTER2" H 9582 4374 60  0000 C CNN
+F 1 "MX-LED" H 9582 4300 20  0000 C CNN
+F 2 "MX_Only:MXOnly-ISO-ROTATED-ReversedStabilizers" H 8875 4125 60  0001 C CNN
+F 3 "" H 8875 4125 60  0001 C CNN
+	1    9500 4150
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -2429,26 +2407,15 @@ F 3 "" H 3225 5925 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D30
 U 1 1 5EAAB9C9
 P 3700 6200
-F 0 "D" H 3750 6400 50  0000 R CNN
+F 0 "D30" H 3750 6400 50  0000 R CNN
 F 1 "SOD-123" H 3850 6300 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 3700 6200 50  0001 C CNN
 F 3 "~" V 3700 6200 50  0001 C CNN
 	1    3700 6200
 	0    -1   -1   0   
-$EndComp
-$Comp
-L MX_Alps_Hybrid:MX-LED MX_LALT2
-U 1 1 5EB62996
-P 2550 6850
-F 0 "MX_LALT2" H 2632 7074 60  0000 C CNN
-F 1 "MX-LED" H 2632 7000 20  0000 C CNN
-F 2 "MX_Only:MXOnly-1.5U-FLIPPED" H 1925 6825 60  0001 C CNN
-F 3 "" H 1925 6825 60  0001 C CNN
-	1    2550 6850
-	1    0    0    -1  
 $EndComp
 $Comp
 L MX_Alps_Hybrid:MX-LED MX_RCTRL2
@@ -2517,10 +2484,10 @@ F 3 "" H 625 1425 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R12
 U 1 1 5F174A7B
 P 1300 1650
-F 0 "R" H 1359 1696 50  0000 L CNN
+F 0 "R12" H 1359 1696 50  0000 L CNN
 F 1 "1K" H 1359 1605 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 1300 1650 50  0001 C CNN
 F 3 "~" H 1300 1650 50  0001 C CNN
@@ -2528,10 +2495,10 @@ F 3 "~" H 1300 1650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R18
 U 1 1 61B54631
 P 1950 1650
-F 0 "R" H 2009 1696 50  0000 L CNN
+F 0 "R18" H 2009 1696 50  0000 L CNN
 F 1 "1K" H 2009 1605 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 1950 1650 50  0001 C CNN
 F 3 "~" H 1950 1650 50  0001 C CNN
@@ -2539,10 +2506,10 @@ F 3 "~" H 1950 1650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R24
 U 1 1 61D358C0
 P 2600 1650
-F 0 "R" H 2659 1696 50  0000 L CNN
+F 0 "R24" H 2659 1696 50  0000 L CNN
 F 1 "1K" H 2659 1605 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 2600 1650 50  0001 C CNN
 F 3 "~" H 2600 1650 50  0001 C CNN
@@ -2550,10 +2517,10 @@ F 3 "~" H 2600 1650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R30
 U 1 1 61D6B077
 P 3250 1650
-F 0 "R" H 3309 1696 50  0000 L CNN
+F 0 "R30" H 3309 1696 50  0000 L CNN
 F 1 "1K" H 3309 1605 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 3250 1650 50  0001 C CNN
 F 3 "~" H 3250 1650 50  0001 C CNN
@@ -2561,10 +2528,10 @@ F 3 "~" H 3250 1650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R35
 U 1 1 61DA0EB0
 P 3900 1650
-F 0 "R" H 3959 1696 50  0000 L CNN
+F 0 "R35" H 3959 1696 50  0000 L CNN
 F 1 "1K" H 3959 1605 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 3900 1650 50  0001 C CNN
 F 3 "~" H 3900 1650 50  0001 C CNN
@@ -2572,10 +2539,10 @@ F 3 "~" H 3900 1650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R41
 U 1 1 61DD7202
 P 4550 1650
-F 0 "R" H 4609 1696 50  0000 L CNN
+F 0 "R41" H 4609 1696 50  0000 L CNN
 F 1 "1K" H 4609 1605 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 4550 1650 50  0001 C CNN
 F 3 "~" H 4550 1650 50  0001 C CNN
@@ -2583,10 +2550,10 @@ F 3 "~" H 4550 1650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R46
 U 1 1 61E0DAC6
 P 5200 1650
-F 0 "R" H 5259 1696 50  0000 L CNN
+F 0 "R46" H 5259 1696 50  0000 L CNN
 F 1 "1K" H 5259 1605 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 5200 1650 50  0001 C CNN
 F 3 "~" H 5200 1650 50  0001 C CNN
@@ -2594,10 +2561,10 @@ F 3 "~" H 5200 1650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R52
 U 1 1 61E44845
 P 5850 1650
-F 0 "R" H 5909 1696 50  0000 L CNN
+F 0 "R52" H 5909 1696 50  0000 L CNN
 F 1 "1K" H 5909 1605 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 5850 1650 50  0001 C CNN
 F 3 "~" H 5850 1650 50  0001 C CNN
@@ -2605,10 +2572,10 @@ F 3 "~" H 5850 1650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R57
 U 1 1 61E7B892
 P 6500 1650
-F 0 "R" H 6559 1696 50  0000 L CNN
+F 0 "R57" H 6559 1696 50  0000 L CNN
 F 1 "1K" H 6559 1605 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 6500 1650 50  0001 C CNN
 F 3 "~" H 6500 1650 50  0001 C CNN
@@ -2616,10 +2583,10 @@ F 3 "~" H 6500 1650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R63
 U 1 1 61EB2D9E
 P 7150 1650
-F 0 "R" H 7209 1696 50  0000 L CNN
+F 0 "R63" H 7209 1696 50  0000 L CNN
 F 1 "1K" H 7209 1605 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 7150 1650 50  0001 C CNN
 F 3 "~" H 7150 1650 50  0001 C CNN
@@ -2627,10 +2594,10 @@ F 3 "~" H 7150 1650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R69
 U 1 1 61EEA854
 P 7800 1650
-F 0 "R" H 7859 1696 50  0000 L CNN
+F 0 "R69" H 7859 1696 50  0000 L CNN
 F 1 "1K" H 7859 1605 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 7800 1650 50  0001 C CNN
 F 3 "~" H 7800 1650 50  0001 C CNN
@@ -2638,10 +2605,10 @@ F 3 "~" H 7800 1650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R75
 U 1 1 61F22847
 P 8450 1650
-F 0 "R" H 8509 1696 50  0000 L CNN
+F 0 "R75" H 8509 1696 50  0000 L CNN
 F 1 "1K" H 8509 1605 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 8450 1650 50  0001 C CNN
 F 3 "~" H 8450 1650 50  0001 C CNN
@@ -2649,10 +2616,10 @@ F 3 "~" H 8450 1650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R81
 U 1 1 61F5A9EE
 P 9100 1650
-F 0 "R" H 9159 1696 50  0000 L CNN
+F 0 "R81" H 9159 1696 50  0000 L CNN
 F 1 "1K" H 9159 1605 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 9100 1650 50  0001 C CNN
 F 3 "~" H 9100 1650 50  0001 C CNN
@@ -2660,10 +2627,10 @@ F 3 "~" H 9100 1650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R86
 U 1 1 61F9321A
 P 9750 1650
-F 0 "R" H 9809 1696 50  0000 L CNN
+F 0 "R86" H 9809 1696 50  0000 L CNN
 F 1 "1K" H 9809 1605 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 9750 1650 50  0001 C CNN
 F 3 "~" H 9750 1650 50  0001 C CNN
@@ -2671,10 +2638,10 @@ F 3 "~" H 9750 1650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R93
 U 1 1 61FCBD88
 P 11050 1650
-F 0 "R" H 11109 1696 50  0000 L CNN
+F 0 "R93" H 11109 1696 50  0000 L CNN
 F 1 "1K" H 11109 1605 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 11050 1650 50  0001 C CNN
 F 3 "~" H 11050 1650 50  0001 C CNN
@@ -2682,10 +2649,10 @@ F 3 "~" H 11050 1650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R94
 U 1 1 62004DE5
 P 11050 2550
-F 0 "R" H 11109 2596 50  0000 L CNN
+F 0 "R94" H 11109 2596 50  0000 L CNN
 F 1 "1K" H 11109 2505 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 11050 2550 50  0001 C CNN
 F 3 "~" H 11050 2550 50  0001 C CNN
@@ -2693,10 +2660,10 @@ F 3 "~" H 11050 2550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R89
 U 1 1 6203E218
 P 10400 2550
-F 0 "R" H 10459 2596 50  0000 L CNN
+F 0 "R89" H 10459 2596 50  0000 L CNN
 F 1 "1K" H 10459 2505 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 10400 2550 50  0001 C CNN
 F 3 "~" H 10400 2550 50  0001 C CNN
@@ -2704,10 +2671,10 @@ F 3 "~" H 10400 2550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R87
 U 1 1 620779B2
 P 9750 2550
-F 0 "R" H 9809 2596 50  0000 L CNN
+F 0 "R87" H 9809 2596 50  0000 L CNN
 F 1 "1K" H 9809 2505 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 9750 2550 50  0001 C CNN
 F 3 "~" H 9750 2550 50  0001 C CNN
@@ -2715,10 +2682,10 @@ F 3 "~" H 9750 2550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R82
 U 1 1 620B15F3
 P 9100 2550
-F 0 "R" H 9159 2596 50  0000 L CNN
+F 0 "R82" H 9159 2596 50  0000 L CNN
 F 1 "1K" H 9159 2505 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 9100 2550 50  0001 C CNN
 F 3 "~" H 9100 2550 50  0001 C CNN
@@ -2726,10 +2693,10 @@ F 3 "~" H 9100 2550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R76
 U 1 1 620EB65C
 P 8450 2550
-F 0 "R" H 8509 2596 50  0000 L CNN
+F 0 "R76" H 8509 2596 50  0000 L CNN
 F 1 "1K" H 8509 2505 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 8450 2550 50  0001 C CNN
 F 3 "~" H 8450 2550 50  0001 C CNN
@@ -2737,10 +2704,10 @@ F 3 "~" H 8450 2550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R70
 U 1 1 62125AEE
 P 7800 2550
-F 0 "R" H 7859 2596 50  0000 L CNN
+F 0 "R70" H 7859 2596 50  0000 L CNN
 F 1 "1K" H 7859 2505 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 7800 2550 50  0001 C CNN
 F 3 "~" H 7800 2550 50  0001 C CNN
@@ -2748,10 +2715,10 @@ F 3 "~" H 7800 2550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R64
 U 1 1 621604BE
 P 7150 2550
-F 0 "R" H 7209 2596 50  0000 L CNN
+F 0 "R64" H 7209 2596 50  0000 L CNN
 F 1 "1K" H 7209 2505 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 7150 2550 50  0001 C CNN
 F 3 "~" H 7150 2550 50  0001 C CNN
@@ -2759,10 +2726,10 @@ F 3 "~" H 7150 2550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R58
 U 1 1 621D7B75
 P 6500 2550
-F 0 "R" H 6559 2596 50  0000 L CNN
+F 0 "R58" H 6559 2596 50  0000 L CNN
 F 1 "1K" H 6559 2505 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 6500 2550 50  0001 C CNN
 F 3 "~" H 6500 2550 50  0001 C CNN
@@ -2770,10 +2737,10 @@ F 3 "~" H 6500 2550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R53
 U 1 1 62212CC0
 P 5850 2550
-F 0 "R" H 5909 2596 50  0000 L CNN
+F 0 "R53" H 5909 2596 50  0000 L CNN
 F 1 "1K" H 5909 2505 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 5850 2550 50  0001 C CNN
 F 3 "~" H 5850 2550 50  0001 C CNN
@@ -2781,10 +2748,10 @@ F 3 "~" H 5850 2550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R47
 U 1 1 6224E584
 P 5200 2550
-F 0 "R" H 5259 2596 50  0000 L CNN
+F 0 "R47" H 5259 2596 50  0000 L CNN
 F 1 "1K" H 5259 2505 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 5200 2550 50  0001 C CNN
 F 3 "~" H 5200 2550 50  0001 C CNN
@@ -2792,10 +2759,10 @@ F 3 "~" H 5200 2550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R42
 U 1 1 6228A3D4
 P 4550 2550
-F 0 "R" H 4609 2596 50  0000 L CNN
+F 0 "R42" H 4609 2596 50  0000 L CNN
 F 1 "1K" H 4609 2505 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 4550 2550 50  0001 C CNN
 F 3 "~" H 4550 2550 50  0001 C CNN
@@ -2803,10 +2770,10 @@ F 3 "~" H 4550 2550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R36
 U 1 1 622C67DD
 P 3900 2550
-F 0 "R" H 3959 2596 50  0000 L CNN
+F 0 "R36" H 3959 2596 50  0000 L CNN
 F 1 "1K" H 3959 2505 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 3900 2550 50  0001 C CNN
 F 3 "~" H 3900 2550 50  0001 C CNN
@@ -2825,10 +2792,10 @@ F 3 "" H 3225 2325 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R31
 U 1 1 623429C2
 P 3250 2550
-F 0 "R" H 3309 2596 50  0000 L CNN
+F 0 "R31" H 3309 2596 50  0000 L CNN
 F 1 "1K" H 3309 2505 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 3250 2550 50  0001 C CNN
 F 3 "~" H 3250 2550 50  0001 C CNN
@@ -2836,10 +2803,10 @@ F 3 "~" H 3250 2550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R25
 U 1 1 6237F8C4
 P 2600 2550
-F 0 "R" H 2659 2596 50  0000 L CNN
+F 0 "R25" H 2659 2596 50  0000 L CNN
 F 1 "1K" H 2659 2505 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 2600 2550 50  0001 C CNN
 F 3 "~" H 2600 2550 50  0001 C CNN
@@ -2847,10 +2814,10 @@ F 3 "~" H 2600 2550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R19
 U 1 1 623BCEC6
 P 1950 2550
-F 0 "R" H 2009 2596 50  0000 L CNN
+F 0 "R19" H 2009 2596 50  0000 L CNN
 F 1 "1K" H 2009 2505 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 1950 2550 50  0001 C CNN
 F 3 "~" H 1950 2550 50  0001 C CNN
@@ -2858,10 +2825,10 @@ F 3 "~" H 1950 2550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R13
 U 1 1 623FADC5
 P 1300 2550
-F 0 "R" H 1359 2596 50  0000 L CNN
+F 0 "R13" H 1359 2596 50  0000 L CNN
 F 1 "1K" H 1359 2505 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 1300 2550 50  0001 C CNN
 F 3 "~" H 1300 2550 50  0001 C CNN
@@ -2869,10 +2836,10 @@ F 3 "~" H 1300 2550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R14
 U 1 1 62439174
 P 1300 3450
-F 0 "R" H 1359 3496 50  0000 L CNN
+F 0 "R14" H 1359 3496 50  0000 L CNN
 F 1 "1K" H 1359 3405 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 1300 3450 50  0001 C CNN
 F 3 "~" H 1300 3450 50  0001 C CNN
@@ -2880,10 +2847,10 @@ F 3 "~" H 1300 3450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R20
 U 1 1 62477972
 P 1950 3450
-F 0 "R" H 2009 3496 50  0000 L CNN
+F 0 "R20" H 2009 3496 50  0000 L CNN
 F 1 "1K" H 2009 3405 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 1950 3450 50  0001 C CNN
 F 3 "~" H 1950 3450 50  0001 C CNN
@@ -2891,10 +2858,10 @@ F 3 "~" H 1950 3450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R26
 U 1 1 624B6940
 P 2600 3450
-F 0 "R" H 2659 3496 50  0000 L CNN
+F 0 "R26" H 2659 3496 50  0000 L CNN
 F 1 "1K" H 2659 3405 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 2600 3450 50  0001 C CNN
 F 3 "~" H 2600 3450 50  0001 C CNN
@@ -2902,10 +2869,10 @@ F 3 "~" H 2600 3450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R32
 U 1 1 624F5D5F
 P 3250 3450
-F 0 "R" H 3309 3496 50  0000 L CNN
+F 0 "R32" H 3309 3496 50  0000 L CNN
 F 1 "1K" H 3309 3405 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 3250 3450 50  0001 C CNN
 F 3 "~" H 3250 3450 50  0001 C CNN
@@ -2913,10 +2880,10 @@ F 3 "~" H 3250 3450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R37
 U 1 1 62535A68
 P 3900 3450
-F 0 "R" H 3959 3496 50  0000 L CNN
+F 0 "R37" H 3959 3496 50  0000 L CNN
 F 1 "1K" H 3959 3405 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 3900 3450 50  0001 C CNN
 F 3 "~" H 3900 3450 50  0001 C CNN
@@ -2924,10 +2891,10 @@ F 3 "~" H 3900 3450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R43
 U 1 1 62575DFA
 P 4550 3450
-F 0 "R" H 4609 3496 50  0000 L CNN
+F 0 "R43" H 4609 3496 50  0000 L CNN
 F 1 "1K" H 4609 3405 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 4550 3450 50  0001 C CNN
 F 3 "~" H 4550 3450 50  0001 C CNN
@@ -2935,10 +2902,10 @@ F 3 "~" H 4550 3450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R48
 U 1 1 625B6414
 P 5200 3450
-F 0 "R" H 5259 3496 50  0000 L CNN
+F 0 "R48" H 5259 3496 50  0000 L CNN
 F 1 "1K" H 5259 3405 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 5200 3450 50  0001 C CNN
 F 3 "~" H 5200 3450 50  0001 C CNN
@@ -2946,10 +2913,10 @@ F 3 "~" H 5200 3450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R54
 U 1 1 625F7095
 P 5850 3450
-F 0 "R" H 5909 3496 50  0000 L CNN
+F 0 "R54" H 5909 3496 50  0000 L CNN
 F 1 "1K" H 5909 3405 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 5850 3450 50  0001 C CNN
 F 3 "~" H 5850 3450 50  0001 C CNN
@@ -2957,10 +2924,10 @@ F 3 "~" H 5850 3450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R59
 U 1 1 626383BE
 P 6500 3450
-F 0 "R" H 6559 3496 50  0000 L CNN
+F 0 "R59" H 6559 3496 50  0000 L CNN
 F 1 "1K" H 6559 3405 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 6500 3450 50  0001 C CNN
 F 3 "~" H 6500 3450 50  0001 C CNN
@@ -2968,10 +2935,10 @@ F 3 "~" H 6500 3450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R65
 U 1 1 62679B2A
 P 7150 3450
-F 0 "R" H 7209 3496 50  0000 L CNN
+F 0 "R65" H 7209 3496 50  0000 L CNN
 F 1 "1K" H 7209 3405 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 7150 3450 50  0001 C CNN
 F 3 "~" H 7150 3450 50  0001 C CNN
@@ -2979,10 +2946,10 @@ F 3 "~" H 7150 3450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R71
 U 1 1 626BB774
 P 7800 3450
-F 0 "R" H 7859 3496 50  0000 L CNN
+F 0 "R71" H 7859 3496 50  0000 L CNN
 F 1 "1K" H 7859 3405 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 7800 3450 50  0001 C CNN
 F 3 "~" H 7800 3450 50  0001 C CNN
@@ -2990,10 +2957,10 @@ F 3 "~" H 7800 3450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R77
 U 1 1 626FD9D7
 P 8450 3450
-F 0 "R" H 8509 3496 50  0000 L CNN
+F 0 "R77" H 8509 3496 50  0000 L CNN
 F 1 "1K" H 8509 3405 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 8450 3450 50  0001 C CNN
 F 3 "~" H 8450 3450 50  0001 C CNN
@@ -3001,10 +2968,10 @@ F 3 "~" H 8450 3450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R83
 U 1 1 62740286
 P 9100 3450
-F 0 "R" H 9159 3496 50  0000 L CNN
+F 0 "R83" H 9159 3496 50  0000 L CNN
 F 1 "1K" H 9159 3405 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 9100 3450 50  0001 C CNN
 F 3 "~" H 9100 3450 50  0001 C CNN
@@ -3012,10 +2979,10 @@ F 3 "~" H 9100 3450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R88
 U 1 1 62783194
 P 9750 3450
-F 0 "R" H 9809 3496 50  0000 L CNN
+F 0 "R88" H 9809 3496 50  0000 L CNN
 F 1 "1K" H 9809 3405 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 9750 3450 50  0001 C CNN
 F 3 "~" H 9750 3450 50  0001 C CNN
@@ -3023,10 +2990,10 @@ F 3 "~" H 9750 3450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R95
 U 1 1 6280ABC0
 P 11050 3450
-F 0 "R" H 11109 3496 50  0000 L CNN
+F 0 "R95" H 11109 3496 50  0000 L CNN
 F 1 "1K" H 11109 3405 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 11050 3450 50  0001 C CNN
 F 3 "~" H 11050 3450 50  0001 C CNN
@@ -3034,10 +3001,10 @@ F 3 "~" H 11050 3450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R96
 U 1 1 6284E37A
 P 11050 4350
-F 0 "R" H 11109 4396 50  0000 L CNN
+F 0 "R96" H 11109 4396 50  0000 L CNN
 F 1 "1K" H 11109 4305 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 11050 4350 50  0001 C CNN
 F 3 "~" H 11050 4350 50  0001 C CNN
@@ -3047,21 +3014,21 @@ $EndComp
 Wire Wire Line
 	11050 4250 11000 4250
 $Comp
-L Device:R_Small R
+L Device:R_Small R90
 U 1 1 628921BC
-P 10400 4350
-F 0 "R" H 10459 4396 50  0000 L CNN
-F 1 "1K" H 10459 4305 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric" H 10400 4350 50  0001 C CNN
-F 3 "~" H 10400 4350 50  0001 C CNN
-	1    10400 4350
+P 9100 4350
+F 0 "R90" H 9159 4396 50  0000 L CNN
+F 1 "1K" H 9159 4305 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" H 9100 4350 50  0001 C CNN
+F 3 "~" H 9100 4350 50  0001 C CNN
+	1    9100 4350
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R78
 U 1 1 6291C2CD
 P 8450 4350
-F 0 "R" H 8509 4396 50  0000 L CNN
+F 0 "R78" H 8509 4396 50  0000 L CNN
 F 1 "1K" H 8509 4305 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 8450 4350 50  0001 C CNN
 F 3 "~" H 8450 4350 50  0001 C CNN
@@ -3069,10 +3036,10 @@ F 3 "~" H 8450 4350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R72
 U 1 1 62960FEA
 P 7800 4350
-F 0 "R" H 7859 4396 50  0000 L CNN
+F 0 "R72" H 7859 4396 50  0000 L CNN
 F 1 "1K" H 7859 4305 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 7800 4350 50  0001 C CNN
 F 3 "~" H 7800 4350 50  0001 C CNN
@@ -3080,10 +3047,10 @@ F 3 "~" H 7800 4350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R66
 U 1 1 629A5F9D
 P 7150 4350
-F 0 "R" H 7209 4396 50  0000 L CNN
+F 0 "R66" H 7209 4396 50  0000 L CNN
 F 1 "1K" H 7209 4305 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 7150 4350 50  0001 C CNN
 F 3 "~" H 7150 4350 50  0001 C CNN
@@ -3091,10 +3058,10 @@ F 3 "~" H 7150 4350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R60
 U 1 1 629EB7B1
 P 6500 4350
-F 0 "R" H 6559 4396 50  0000 L CNN
+F 0 "R60" H 6559 4396 50  0000 L CNN
 F 1 "1K" H 6559 4305 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 6500 4350 50  0001 C CNN
 F 3 "~" H 6500 4350 50  0001 C CNN
@@ -3102,10 +3069,10 @@ F 3 "~" H 6500 4350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R55
 U 1 1 62A314C7
 P 5850 4350
-F 0 "R" H 5909 4396 50  0000 L CNN
+F 0 "R55" H 5909 4396 50  0000 L CNN
 F 1 "1K" H 5909 4305 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 5850 4350 50  0001 C CNN
 F 3 "~" H 5850 4350 50  0001 C CNN
@@ -3113,10 +3080,10 @@ F 3 "~" H 5850 4350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R49
 U 1 1 62A7754E
 P 5200 4350
-F 0 "R" H 5259 4396 50  0000 L CNN
+F 0 "R49" H 5259 4396 50  0000 L CNN
 F 1 "1K" H 5259 4305 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 5200 4350 50  0001 C CNN
 F 3 "~" H 5200 4350 50  0001 C CNN
@@ -3124,10 +3091,10 @@ F 3 "~" H 5200 4350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R44
 U 1 1 62ABDCFB
 P 4550 4350
-F 0 "R" H 4609 4396 50  0000 L CNN
+F 0 "R44" H 4609 4396 50  0000 L CNN
 F 1 "1K" H 4609 4305 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 4550 4350 50  0001 C CNN
 F 3 "~" H 4550 4350 50  0001 C CNN
@@ -3135,10 +3102,10 @@ F 3 "~" H 4550 4350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R38
 U 1 1 62B04A5D
 P 3900 4350
-F 0 "R" H 3959 4396 50  0000 L CNN
+F 0 "R38" H 3959 4396 50  0000 L CNN
 F 1 "1K" H 3959 4305 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 3900 4350 50  0001 C CNN
 F 3 "~" H 3900 4350 50  0001 C CNN
@@ -3146,10 +3113,10 @@ F 3 "~" H 3900 4350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R33
 U 1 1 62B4BF8D
 P 3250 4350
-F 0 "R" H 3309 4396 50  0000 L CNN
+F 0 "R33" H 3309 4396 50  0000 L CNN
 F 1 "1K" H 3309 4305 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 3250 4350 50  0001 C CNN
 F 3 "~" H 3250 4350 50  0001 C CNN
@@ -3157,10 +3124,10 @@ F 3 "~" H 3250 4350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R27
 U 1 1 62B9388E
 P 2600 4350
-F 0 "R" H 2659 4396 50  0000 L CNN
+F 0 "R27" H 2659 4396 50  0000 L CNN
 F 1 "1K" H 2659 4305 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 2600 4350 50  0001 C CNN
 F 3 "~" H 2600 4350 50  0001 C CNN
@@ -3168,10 +3135,10 @@ F 3 "~" H 2600 4350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R21
 U 1 1 62BDBA0B
 P 1950 4350
-F 0 "R" H 2009 4396 50  0000 L CNN
+F 0 "R21" H 2009 4396 50  0000 L CNN
 F 1 "1K" H 2009 4305 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 1950 4350 50  0001 C CNN
 F 3 "~" H 1950 4350 50  0001 C CNN
@@ -3179,10 +3146,10 @@ F 3 "~" H 1950 4350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R15
 U 1 1 62C24051
 P 1300 4350
-F 0 "R" H 1359 4396 50  0000 L CNN
+F 0 "R15" H 1359 4396 50  0000 L CNN
 F 1 "1K" H 1359 4305 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 1300 4350 50  0001 C CNN
 F 3 "~" H 1300 4350 50  0001 C CNN
@@ -3190,10 +3157,10 @@ F 3 "~" H 1300 4350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R16
 U 1 1 62C6CF45
 P 1300 5250
-F 0 "R" H 1359 5296 50  0000 L CNN
+F 0 "R16" H 1359 5296 50  0000 L CNN
 F 1 "1K" H 1359 5205 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 1300 5250 50  0001 C CNN
 F 3 "~" H 1300 5250 50  0001 C CNN
@@ -3201,10 +3168,10 @@ F 3 "~" H 1300 5250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R22
 U 1 1 62D01A8C
 P 1950 5250
-F 0 "R" H 2009 5296 50  0000 L CNN
+F 0 "R22" H 2009 5296 50  0000 L CNN
 F 1 "1K" H 2009 5205 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 1950 5250 50  0001 C CNN
 F 3 "~" H 1950 5250 50  0001 C CNN
@@ -3212,10 +3179,10 @@ F 3 "~" H 1950 5250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R28
 U 1 1 62D4C09D
 P 2600 5250
-F 0 "R" H 2659 5296 50  0000 L CNN
+F 0 "R28" H 2659 5296 50  0000 L CNN
 F 1 "1K" H 2659 5205 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 2600 5250 50  0001 C CNN
 F 3 "~" H 2600 5250 50  0001 C CNN
@@ -3223,10 +3190,10 @@ F 3 "~" H 2600 5250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R34
 U 1 1 62D96D0C
 P 3250 5250
-F 0 "R" H 3309 5296 50  0000 L CNN
+F 0 "R34" H 3309 5296 50  0000 L CNN
 F 1 "1K" H 3309 5205 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 3250 5250 50  0001 C CNN
 F 3 "~" H 3250 5250 50  0001 C CNN
@@ -3234,10 +3201,10 @@ F 3 "~" H 3250 5250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R39
 U 1 1 62DE1F7C
 P 3900 5250
-F 0 "R" H 3959 5296 50  0000 L CNN
+F 0 "R39" H 3959 5296 50  0000 L CNN
 F 1 "1K" H 3959 5205 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 3900 5250 50  0001 C CNN
 F 3 "~" H 3900 5250 50  0001 C CNN
@@ -3245,10 +3212,10 @@ F 3 "~" H 3900 5250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R45
 U 1 1 62E2D6E8
 P 4550 5250
-F 0 "R" H 4609 5296 50  0000 L CNN
+F 0 "R45" H 4609 5296 50  0000 L CNN
 F 1 "1K" H 4609 5205 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 4550 5250 50  0001 C CNN
 F 3 "~" H 4550 5250 50  0001 C CNN
@@ -3256,10 +3223,10 @@ F 3 "~" H 4550 5250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R50
 U 1 1 62E79473
 P 5200 5250
-F 0 "R" H 5259 5296 50  0000 L CNN
+F 0 "R50" H 5259 5296 50  0000 L CNN
 F 1 "1K" H 5259 5205 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 5200 5250 50  0001 C CNN
 F 3 "~" H 5200 5250 50  0001 C CNN
@@ -3267,10 +3234,10 @@ F 3 "~" H 5200 5250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R56
 U 1 1 62EC5A2E
 P 5850 5250
-F 0 "R" H 5909 5296 50  0000 L CNN
+F 0 "R56" H 5909 5296 50  0000 L CNN
 F 1 "1K" H 5909 5205 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 5850 5250 50  0001 C CNN
 F 3 "~" H 5850 5250 50  0001 C CNN
@@ -3278,10 +3245,10 @@ F 3 "~" H 5850 5250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R61
 U 1 1 62F125CE
 P 6500 5250
-F 0 "R" H 6559 5296 50  0000 L CNN
+F 0 "R61" H 6559 5296 50  0000 L CNN
 F 1 "1K" H 6559 5205 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 6500 5250 50  0001 C CNN
 F 3 "~" H 6500 5250 50  0001 C CNN
@@ -3289,10 +3256,10 @@ F 3 "~" H 6500 5250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R67
 U 1 1 62F5F652
 P 7150 5250
-F 0 "R" H 7209 5296 50  0000 L CNN
+F 0 "R67" H 7209 5296 50  0000 L CNN
 F 1 "1K" H 7209 5205 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 7150 5250 50  0001 C CNN
 F 3 "~" H 7150 5250 50  0001 C CNN
@@ -3300,10 +3267,10 @@ F 3 "~" H 7150 5250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R73
 U 1 1 62FACDF9
 P 7800 5250
-F 0 "R" H 7859 5296 50  0000 L CNN
+F 0 "R73" H 7859 5296 50  0000 L CNN
 F 1 "1K" H 7859 5205 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 7800 5250 50  0001 C CNN
 F 3 "~" H 7800 5250 50  0001 C CNN
@@ -3311,10 +3278,10 @@ F 3 "~" H 7800 5250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R79
 U 1 1 6309A161
 P 8450 5250
-F 0 "R" H 8509 5296 50  0000 L CNN
+F 0 "R79" H 8509 5296 50  0000 L CNN
 F 1 "1K" H 8509 5205 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 8450 5250 50  0001 C CNN
 F 3 "~" H 8450 5250 50  0001 C CNN
@@ -3322,10 +3289,10 @@ F 3 "~" H 8450 5250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R84
 U 1 1 630E8317
 P 9100 5250
-F 0 "R" H 9159 5296 50  0000 L CNN
+F 0 "R84" H 9159 5296 50  0000 L CNN
 F 1 "1K" H 9159 5205 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 9100 5250 50  0001 C CNN
 F 3 "~" H 9100 5250 50  0001 C CNN
@@ -3333,10 +3300,10 @@ F 3 "~" H 9100 5250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R91
 U 1 1 63136A1B
 P 10400 5250
-F 0 "R" H 10459 5296 50  0000 L CNN
+F 0 "R91" H 10459 5296 50  0000 L CNN
 F 1 "1K" H 10459 5205 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 10400 5250 50  0001 C CNN
 F 3 "~" H 10400 5250 50  0001 C CNN
@@ -3344,10 +3311,10 @@ F 3 "~" H 10400 5250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R97
 U 1 1 6318541E
 P 11050 5250
-F 0 "R" H 11109 5296 50  0000 L CNN
+F 0 "R97" H 11109 5296 50  0000 L CNN
 F 1 "1K" H 11109 5205 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 11050 5250 50  0001 C CNN
 F 3 "~" H 11050 5250 50  0001 C CNN
@@ -3355,10 +3322,10 @@ F 3 "~" H 11050 5250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R98
 U 1 1 631D4513
 P 11050 6150
-F 0 "R" H 11109 6196 50  0000 L CNN
+F 0 "R98" H 11109 6196 50  0000 L CNN
 F 1 "1K" H 11109 6105 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 11050 6150 50  0001 C CNN
 F 3 "~" H 11050 6150 50  0001 C CNN
@@ -3366,10 +3333,10 @@ F 3 "~" H 11050 6150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R92
 U 1 1 632237C1
 P 10400 6150
-F 0 "R" H 10459 6196 50  0000 L CNN
+F 0 "R92" H 10459 6196 50  0000 L CNN
 F 1 "1K" H 10459 6105 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 10400 6150 50  0001 C CNN
 F 3 "~" H 10400 6150 50  0001 C CNN
@@ -3377,10 +3344,10 @@ F 3 "~" H 10400 6150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R85
 U 1 1 63273091
 P 9100 6150
-F 0 "R" H 9159 6196 50  0000 L CNN
+F 0 "R85" H 9159 6196 50  0000 L CNN
 F 1 "1K" H 9159 6105 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 9100 6150 50  0001 C CNN
 F 3 "~" H 9100 6150 50  0001 C CNN
@@ -3388,10 +3355,10 @@ F 3 "~" H 9100 6150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R80
 U 1 1 632C2EFE
 P 8450 6150
-F 0 "R" H 8509 6196 50  0000 L CNN
+F 0 "R80" H 8509 6196 50  0000 L CNN
 F 1 "1K" H 8509 6105 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 8450 6150 50  0001 C CNN
 F 3 "~" H 8450 6150 50  0001 C CNN
@@ -3399,10 +3366,10 @@ F 3 "~" H 8450 6150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R74
 U 1 1 6345722F
 P 7800 6150
-F 0 "R" H 7859 6196 50  0000 L CNN
+F 0 "R74" H 7859 6196 50  0000 L CNN
 F 1 "1K" H 7859 6105 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 7800 6150 50  0001 C CNN
 F 3 "~" H 7800 6150 50  0001 C CNN
@@ -3410,10 +3377,10 @@ F 3 "~" H 7800 6150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R68
 U 1 1 634A7E97
 P 7150 6150
-F 0 "R" H 7209 6196 50  0000 L CNN
+F 0 "R68" H 7209 6196 50  0000 L CNN
 F 1 "1K" H 7209 6105 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 7150 6150 50  0001 C CNN
 F 3 "~" H 7150 6150 50  0001 C CNN
@@ -3421,10 +3388,10 @@ F 3 "~" H 7150 6150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R62
 U 1 1 6354C068
 P 6500 6150
-F 0 "R" H 6559 6196 50  0000 L CNN
+F 0 "R62" H 6559 6196 50  0000 L CNN
 F 1 "1K" H 6559 6105 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 6500 6150 50  0001 C CNN
 F 3 "~" H 6500 6150 50  0001 C CNN
@@ -3432,10 +3399,10 @@ F 3 "~" H 6500 6150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R51
 U 1 1 636441E0
 P 5200 6150
-F 0 "R" H 5259 6196 50  0000 L CNN
+F 0 "R51" H 5259 6196 50  0000 L CNN
 F 1 "1K" H 5259 6105 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 5200 6150 50  0001 C CNN
 F 3 "~" H 5200 6150 50  0001 C CNN
@@ -3443,10 +3410,10 @@ F 3 "~" H 5200 6150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D
+L Device:D_Small D52
 U 1 1 63696F99
 P 6300 6200
-F 0 "D" H 6350 6400 50  0000 R CNN
+F 0 "D52" H 6350 6400 50  0000 R CNN
 F 1 "SOD-123" H 6450 6300 50  0000 R CNN
 F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 6300 6200 50  0001 C CNN
 F 3 "~" V 6300 6200 50  0001 C CNN
@@ -3454,10 +3421,10 @@ F 3 "~" V 6300 6200 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R40
 U 1 1 63795287
 P 3900 6150
-F 0 "R" H 3959 6196 50  0000 L CNN
+F 0 "R40" H 3959 6196 50  0000 L CNN
 F 1 "1K" H 3959 6105 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 3900 6150 50  0001 C CNN
 F 3 "~" H 3900 6150 50  0001 C CNN
@@ -3465,10 +3432,10 @@ F 3 "~" H 3900 6150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R29
 U 1 1 637E893F
 P 2600 6150
-F 0 "R" H 2659 6196 50  0000 L CNN
+F 0 "R29" H 2659 6196 50  0000 L CNN
 F 1 "1K" H 2659 6105 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 2600 6150 50  0001 C CNN
 F 3 "~" H 2600 6150 50  0001 C CNN
@@ -3476,10 +3443,10 @@ F 3 "~" H 2600 6150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R23
 U 1 1 6383C6FA
 P 1950 6150
-F 0 "R" H 2009 6196 50  0000 L CNN
+F 0 "R23" H 2009 6196 50  0000 L CNN
 F 1 "1K" H 2009 6105 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 1950 6150 50  0001 C CNN
 F 3 "~" H 1950 6150 50  0001 C CNN
@@ -3487,10 +3454,10 @@ F 3 "~" H 1950 6150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small R
+L Device:R_Small R17
 U 1 1 63B8A6E9
 P 1300 6150
-F 0 "R" H 1359 6196 50  0000 L CNN
+F 0 "R17" H 1359 6196 50  0000 L CNN
 F 1 "1K" H 1359 6105 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 1300 6150 50  0001 C CNN
 F 3 "~" H 1300 6150 50  0001 C CNN
@@ -3690,12 +3657,12 @@ $EndComp
 $Comp
 L power:GND #PWR0122
 U 1 1 5FB9D10E
-P 8600 11000
-F 0 "#PWR0122" H 8600 10750 50  0001 C CNN
-F 1 "GND" H 8605 10827 50  0000 C CNN
-F 2 "" H 8600 11000 50  0001 C CNN
-F 3 "" H 8600 11000 50  0001 C CNN
-	1    8600 11000
+P 8500 10950
+F 0 "#PWR0122" H 8500 10700 50  0001 C CNN
+F 1 "GND" H 8505 10777 50  0000 C CNN
+F 2 "" H 8500 10950 50  0001 C CNN
+F 3 "" H 8500 10950 50  0001 C CNN
+	1    8500 10950
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -3910,12 +3877,12 @@ Underglow LEDs
 $Comp
 L MX_Alps_Hybrid:MX-LED MX_BCKSP2
 U 1 1 5EA727AC
-P 10050 2350
-F 0 "MX_BCKSP2" H 10132 2574 60  0000 C CNN
-F 1 "MX-LED" H 10132 2500 20  0000 C CNN
-F 2 "MX_Only:MXOnly-1U" H 9425 2325 60  0001 C CNN
-F 3 "" H 9425 2325 60  0001 C CNN
-	1    10050 2350
+P 10650 2350
+F 0 "MX_BCKSP2" H 10732 2574 60  0000 C CNN
+F 1 "MX-LED" H 10732 2500 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U" H 10025 2325 60  0001 C CNN
+F 3 "" H 10025 2325 60  0001 C CNN
+	1    10650 2350
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -4172,10 +4139,10 @@ Wire Wire Line
 Wire Wire Line
 	14850 4500 14950 4500
 $Comp
-L MCU_Microchip_ATmega:ATmega32U4-AU U?
+L MCU_Microchip_ATmega:ATmega32U4-AU U1
 U 1 1 5EB6F232
 P 14950 2700
-F 0 "U?" H 14950 811 50  0000 C CNN
+F 0 "U1" H 14950 811 50  0000 C CNN
 F 1 "ATmega32U4-AU" H 14950 720 50  0000 C CNN
 F 2 "Package_QFP:TQFP-44_10x10mm_P0.8mm" H 14950 2700 50  0001 C CIN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 14950 2700 50  0001 C CNN
@@ -4269,11 +4236,6 @@ Connection ~ 2700 5000
 Wire Wire Line
 	2700 5000 2700 5900
 Connection ~ 2700 5900
-Wire Wire Line
-	2700 5900 2700 6800
-Connection ~ 2700 6800
-Wire Wire Line
-	2700 6800 2700 7700
 Wire Wire Line
 	4000 1400 4000 1100
 Wire Wire Line
@@ -4434,7 +4396,7 @@ Wire Wire Line
 	9200 2300 9200 3200
 Connection ~ 9200 3200
 Wire Wire Line
-	9200 3200 9200 5000
+	9200 3200 9200 4100
 Connection ~ 9200 5000
 Wire Wire Line
 	9200 5000 9200 5900
@@ -4473,23 +4435,18 @@ Wire Wire Line
 Wire Wire Line
 	10500 1100 10500 2300
 Connection ~ 10500 2300
-Wire Wire Line
-	10500 2300 10500 4100
-Connection ~ 10500 4100
-Wire Wire Line
-	10500 4100 10500 5000
 Connection ~ 10500 5000
 Wire Wire Line
 	10500 5000 10500 5900
 $Comp
 L MX_Alps_Hybrid:MX-LED MX_BCKSP3
 U 1 1 5F89E3F0
-P 10350 2350
-F 0 "MX_BCKSP3" H 10432 2574 60  0000 C CNN
-F 1 "MX-LED" H 10432 2500 20  0000 C CNN
-F 2 "MX_Only:MXOnly-1U" H 9725 2325 60  0001 C CNN
-F 3 "" H 9725 2325 60  0001 C CNN
-	1    10350 2350
+P 9700 2350
+F 0 "MX_BCKSP3" H 9782 2574 60  0000 C CNN
+F 1 "MX-LED" H 9782 2500 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U" H 9075 2325 60  0001 C CNN
+F 3 "" H 9075 2325 60  0001 C CNN
+	1    9700 2350
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -4790,14 +4747,6 @@ Wire Wire Line
 Wire Wire Line
 	11000 2450 11050 2450
 Wire Wire Line
-	10000 2500 9650 2500
-Connection ~ 9650 2500
-Wire Wire Line
-	10050 2450 9750 2450
-Connection ~ 9750 2450
-Wire Wire Line
-	10200 2300 9850 2300
-Wire Wire Line
 	11050 3350 11000 3350
 Wire Wire Line
 	10950 3400 10850 3400
@@ -4807,10 +4756,7 @@ Wire Wire Line
 	9650 3400 9550 3400
 Connection ~ 9650 3400
 Wire Wire Line
-	10100 3350 9750 3350
-Wire Wire Line
 	9750 3350 9700 3350
-Connection ~ 9750 3350
 Wire Wire Line
 	10250 3200 9850 3200
 Connection ~ 9850 3200
@@ -4922,16 +4868,6 @@ Wire Wire Line
 	8400 4250 8450 4250
 Wire Wire Line
 	8350 4300 8250 4300
-Wire Wire Line
-	10300 4300 10200 4300
-Wire Wire Line
-	10350 4250 10400 4250
-Wire Wire Line
-	10650 4300 10300 4300
-Connection ~ 10300 4300
-Wire Wire Line
-	10700 4250 10400 4250
-Connection ~ 10400 4250
 Wire Wire Line
 	10950 4300 10850 4300
 Wire Wire Line
@@ -5060,11 +4996,7 @@ Connection ~ 1900 6050
 Wire Wire Line
 	1850 7000 1850 6100
 Connection ~ 1850 6100
-Wire Wire Line
-	2500 7000 2500 6100
 Connection ~ 2500 6100
-Wire Wire Line
-	2550 6950 2550 6050
 Connection ~ 2550 6050
 Wire Wire Line
 	5150 6950 5150 6050
@@ -5267,13 +5199,6 @@ Wire Wire Line
 	6300 4300 6300 4400
 Wire Wire Line
 	7600 4300 7600 4400
-Wire Wire Line
-	10200 4300 10200 4400
-Wire Wire Line
-	10200 4600 11350 4600
-Wire Wire Line
-	10200 4600 7600 4600
-Connection ~ 10200 4600
 Connection ~ 2400 4600
 Wire Wire Line
 	2400 4600 1100 4600
@@ -5455,8 +5380,6 @@ Wire Wire Line
 Connection ~ 11700 4450
 Wire Wire Line
 	11700 4450 11700 5350
-Wire Wire Line
-	11050 4450 10400 4450
 Connection ~ 11050 4450
 Connection ~ 1950 4450
 Wire Wire Line
@@ -5491,9 +5414,6 @@ Wire Wire Line
 Connection ~ 8450 4450
 Wire Wire Line
 	8450 4450 7800 4450
-Connection ~ 10400 4450
-Wire Wire Line
-	10400 4450 8450 4450
 Wire Wire Line
 	1300 3550 1950 3550
 Connection ~ 11700 3550
@@ -5642,10 +5562,10 @@ Wire Wire Line
 Wire Wire Line
 	11100 950  11100 1450
 $Comp
-L power:+5V #PWR?
+L power:+5V #PWR0119
 U 1 1 7A774583
 P 11100 950
-F 0 "#PWR?" H 11100 800 50  0001 C CNN
+F 0 "#PWR0119" H 11100 800 50  0001 C CNN
 F 1 "+5V" H 11115 1123 50  0000 C CNN
 F 2 "" H 11100 950 50  0001 C CNN
 F 3 "" H 11100 950 50  0001 C CNN
@@ -5676,12 +5596,7 @@ Wire Wire Line
 Connection ~ 10450 2350
 Wire Wire Line
 	10450 2350 10450 950 
-Connection ~ 10450 4150
-Wire Wire Line
-	10450 4150 10450 2350
 Connection ~ 10450 5050
-Wire Wire Line
-	10450 5050 10450 4150
 Wire Wire Line
 	9800 1450 9800 950 
 Connection ~ 9800 950 
@@ -5697,8 +5612,6 @@ Wire Wire Line
 	9800 3250 10200 3250
 Connection ~ 9800 3250
 Wire Wire Line
-	10150 2350 9800 2350
-Wire Wire Line
 	9150 950  9150 1450
 Connection ~ 9150 950 
 Wire Wire Line
@@ -5711,7 +5624,7 @@ Wire Wire Line
 	9150 2350 9150 3250
 Connection ~ 9150 3250
 Wire Wire Line
-	9150 3250 9150 5050
+	9150 3250 9150 4150
 Connection ~ 9150 5050
 Wire Wire Line
 	9150 5050 9150 5950
@@ -5805,7 +5718,7 @@ Wire Wire Line
 	5250 6850 5250 5950
 Connection ~ 5250 950 
 Wire Wire Line
-	5250 950  6550 950 
+	5250 950  5900 950 
 Connection ~ 5250 1450
 Wire Wire Line
 	5250 1450 5250 950 
@@ -5834,7 +5747,7 @@ Wire Wire Line
 	3950 5950 3950 5050
 Connection ~ 3950 950 
 Wire Wire Line
-	3950 950  5250 950 
+	3950 950  4600 950 
 Connection ~ 3950 1450
 Wire Wire Line
 	3950 1450 3950 950 
@@ -5854,7 +5767,7 @@ Wire Wire Line
 	2650 1450 2650 950 
 Connection ~ 2650 950 
 Wire Wire Line
-	2650 950  3950 950 
+	2650 950  3300 950 
 Wire Wire Line
 	2650 1450 2650 2350
 Connection ~ 2650 1450
@@ -5873,15 +5786,6 @@ Wire Wire Line
 Connection ~ 2650 5950
 Wire Wire Line
 	2650 5950 2650 6850
-Connection ~ 2650 6850
-Wire Wire Line
-	2650 6850 2650 7750
-Wire Wire Line
-	2550 7850 2550 6950
-Connection ~ 2550 6950
-Wire Wire Line
-	2500 7000 2500 7900
-Connection ~ 2500 7000
 Wire Wire Line
 	2000 6850 2000 5950
 Connection ~ 2000 950 
@@ -5929,4 +5833,250 @@ Wire Wire Line
 	850  5050 1350 5050
 Wire Wire Line
 	850  4150 1350 4150
+Wire Wire Line
+	7500 9000 7500 10400
+Wire Wire Line
+	7500 9000 6000 9000
+Wire Wire Line
+	6000 9000 6000 10400
+Wire Wire Line
+	6000 10400 6100 10400
+Connection ~ 7500 9000
+Wire Wire Line
+	6000 9000 4500 9000
+Wire Wire Line
+	4500 9000 4500 9400
+Wire Wire Line
+	4500 9400 4600 9400
+Connection ~ 6000 9000
+Wire Wire Line
+	4500 9400 4500 10400
+Wire Wire Line
+	4500 10400 4600 10400
+Connection ~ 4500 9400
+Wire Wire Line
+	4500 9000 3000 9000
+Wire Wire Line
+	3000 9000 3000 9400
+Wire Wire Line
+	3000 9400 3100 9400
+Connection ~ 4500 9000
+Wire Wire Line
+	3000 9000 1500 9000
+Wire Wire Line
+	1500 9000 1500 9400
+Wire Wire Line
+	1500 9400 1600 9400
+Connection ~ 3000 9000
+Wire Wire Line
+	1500 9400 1500 10400
+Wire Wire Line
+	1500 10400 1600 10400
+Connection ~ 1500 9400
+Wire Wire Line
+	3000 9400 3000 10400
+Wire Wire Line
+	3000 10400 3100 10400
+Connection ~ 3000 9400
+Wire Wire Line
+	2600 9800 2700 9800
+Wire Wire Line
+	2700 10950 4100 10950
+Wire Wire Line
+	8500 10950 8500 10800
+Connection ~ 8500 10950
+Wire Wire Line
+	7100 10800 7100 10950
+Connection ~ 7100 10950
+Wire Wire Line
+	7100 10950 7200 10950
+Wire Wire Line
+	7100 9800 7200 9800
+Wire Wire Line
+	7200 9800 7200 10950
+Connection ~ 7200 10950
+Wire Wire Line
+	7200 10950 8500 10950
+Wire Wire Line
+	5600 10800 5600 10950
+Connection ~ 5600 10950
+Wire Wire Line
+	5600 10950 5700 10950
+Wire Wire Line
+	5600 9800 5700 9800
+Wire Wire Line
+	5700 9800 5700 10950
+Connection ~ 5700 10950
+Wire Wire Line
+	5700 10950 7100 10950
+Wire Wire Line
+	4100 10800 4100 10950
+Connection ~ 4100 10950
+Wire Wire Line
+	4100 10950 4200 10950
+Wire Wire Line
+	4100 9800 4200 9800
+Wire Wire Line
+	4200 9800 4200 10950
+Connection ~ 4200 10950
+Wire Wire Line
+	4200 10950 5600 10950
+Wire Wire Line
+	2700 9800 2700 10950
+Wire Wire Line
+	2600 10800 2600 10950
+Wire Wire Line
+	2600 10950 2700 10950
+Connection ~ 2700 10950
+Connection ~ 2500 7000
+Wire Wire Line
+	2500 7000 2500 7900
+Connection ~ 2700 6800
+Wire Wire Line
+	2700 5900 2700 6800
+Wire Wire Line
+	2550 6950 2550 6050
+Wire Wire Line
+	2500 7000 2500 6100
+Wire Wire Line
+	2700 6800 2700 7700
+$Comp
+L MX_Alps_Hybrid:MX-LED MX_LALT2
+U 1 1 5EB62996
+P 2550 6850
+F 0 "MX_LALT2" H 2632 7074 60  0000 C CNN
+F 1 "MX-LED" H 2632 7000 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1.5U-FLIPPED" H 1925 6825 60  0001 C CNN
+F 3 "" H 1925 6825 60  0001 C CNN
+	1    2550 6850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2650 6850 2650 7750
+Connection ~ 2650 6850
+$Comp
+L MX_Alps_Hybrid:MX-LED MX_\2
+U 1 1 5E890463
+P 10100 3250
+F 0 "MX_\\2" H 10182 3474 60  0000 C CNN
+F 1 "MX-LED" H 10182 3400 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U" H 9475 3225 60  0001 C CNN
+F 3 "" H 9475 3225 60  0001 C CNN
+	1    10100 3250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10100 3350 9750 3350
+Connection ~ 9750 3350
+Wire Wire Line
+	2550 7850 2550 6950
+Connection ~ 2550 6950
+Connection ~ 9200 4100
+Wire Wire Line
+	9200 4100 9200 5000
+Connection ~ 9150 4150
+Wire Wire Line
+	9150 4150 9150 5050
+$Comp
+L Device:D_Small D80
+U 1 1 5F650C83
+P 8900 4500
+F 0 "D80" H 8950 4700 50  0000 R CNN
+F 1 "SOD-123" H 9050 4600 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 8900 4500 50  0001 C CNN
+F 3 "~" V 8900 4500 50  0001 C CNN
+	1    8900 4500
+	0    -1   -1   0   
+$EndComp
+Connection ~ 9100 4450
+Wire Wire Line
+	8450 4450 9100 4450
+Wire Wire Line
+	9100 4450 11050 4450
+Wire Wire Line
+	9050 4250 9100 4250
+Wire Wire Line
+	9000 4300 8900 4300
+Connection ~ 8900 4600
+Wire Wire Line
+	8900 4600 7600 4600
+Wire Wire Line
+	8900 4300 8900 4400
+Wire Wire Line
+	8900 4600 11350 4600
+Wire Wire Line
+	10450 2350 10450 5050
+Wire Wire Line
+	10500 2300 10500 5000
+Wire Wire Line
+	9200 4100 9650 4100
+Wire Wire Line
+	9150 4150 9600 4150
+Wire Wire Line
+	9500 4250 9100 4250
+Connection ~ 9100 4250
+Wire Wire Line
+	9450 4300 9000 4300
+Connection ~ 9000 4300
+Wire Wire Line
+	3300 1450 3300 950 
+Connection ~ 3300 950 
+Wire Wire Line
+	3300 950  3950 950 
+Wire Wire Line
+	3300 1450 3300 2350
+Connection ~ 3300 1450
+Connection ~ 3300 2350
+Wire Wire Line
+	3300 2350 3300 3250
+Connection ~ 3300 3250
+Wire Wire Line
+	3300 3250 3300 4150
+Connection ~ 3300 4150
+Wire Wire Line
+	3300 4150 3300 5050
+Wire Wire Line
+	4600 5050 4600 4150
+Connection ~ 4600 950 
+Wire Wire Line
+	4600 950  5250 950 
+Connection ~ 4600 1450
+Wire Wire Line
+	4600 1450 4600 950 
+Connection ~ 4600 2350
+Wire Wire Line
+	4600 2350 4600 1450
+Connection ~ 4600 3250
+Wire Wire Line
+	4600 3250 4600 2350
+Connection ~ 4600 4150
+Wire Wire Line
+	4600 4150 4600 3250
+Wire Wire Line
+	5900 950  5900 1450
+Connection ~ 5900 950 
+Wire Wire Line
+	5900 950  6550 950 
+Connection ~ 5900 1450
+Wire Wire Line
+	5900 1450 5900 2350
+Connection ~ 5900 2350
+Wire Wire Line
+	5900 2350 5900 3250
+Connection ~ 5900 3250
+Wire Wire Line
+	5900 3250 5900 4150
+Connection ~ 5900 4150
+Wire Wire Line
+	5900 4150 5900 5050
+Wire Wire Line
+	10800 2300 10500 2300
+Wire Wire Line
+	10750 2350 10450 2350
+Wire Wire Line
+	10650 2450 10400 2450
+Connection ~ 10400 2450
+Wire Wire Line
+	10600 2500 10300 2500
+Connection ~ 10300 2500
 $EndSCHEMATC
