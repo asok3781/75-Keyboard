@@ -1153,7 +1153,7 @@
   )
 
   (module WS2812B:WS2812B (layer B.Cu) (tedit 5BFF8641) (tstamp 5E8C5A49)
-    (at 304.00625 -197.64375)
+    (at 304.00625 -196.85)
     (path /5EE2FB53)
     (fp_text reference LED8 (at 0 4.572) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -8441,7 +8441,7 @@
   )
 
   (module WS2812B:WS2812B (layer B.Cu) (tedit 5BFF8641) (tstamp 5E8C5A84)
-    (at 304.00625 -159.54375)
+    (at 304.00625 -158.75)
     (path /5EED0119)
     (fp_text reference LED9 (at 0 4.572) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -8513,7 +8513,7 @@
   )
 
   (module WS2812B:WS2812B (layer B.Cu) (tedit 5BFF8641) (tstamp 5E8C5A0E)
-    (at 261.9375 -230.98125 90)
+    (at 261.14375 -230.98125 90)
     (path /5ED8FAB6)
     (fp_text reference LED7 (at 0 4.572 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -8657,7 +8657,7 @@
   )
 
   (module WS2812B:WS2812B (layer B.Cu) (tedit 5BFF8641) (tstamp 5E8C5998)
-    (at 133.35 -230.98125 90)
+    (at 132.55625 -230.98125 90)
     (path /5EB0DDEF)
     (fp_text reference LED5 (at 0 4.572 270) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -8801,7 +8801,7 @@
   )
 
   (module WS2812B:WS2812B (layer B.Cu) (tedit 5BFF8641) (tstamp 5E8C58E7)
-    (at -4.7625 -197.64375 180)
+    (at -4.7625 -195.2625 180)
     (path /5EBAF8CE)
     (fp_text reference LED2 (at 0 4.572 180) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -8873,7 +8873,7 @@
   )
 
   (module WS2812B:WS2812B (layer B.Cu) (tedit 5BFF8641) (tstamp 5E8C58AC)
-    (at -4.7625 -159.54375 180)
+    (at -4.7625 -157.1625 180)
     (path /5EA6661F)
     (fp_text reference LED1 (at 0 4.572 180) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -12923,7 +12923,7 @@
   )
 
   (module Capacitor_SMD:C_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5E8C4F7E)
-    (at 305.59375 -153.9875 270)
+    (at 305.59375 -153.19375 270)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /606BBE0E)
@@ -12959,7 +12959,7 @@
   )
 
   (module Capacitor_SMD:C_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5E8C4F6D)
-    (at 305.59375 -192.0875 270)
+    (at 305.59375 -191.29375 270)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /60601506)
