@@ -6228,4 +6228,69 @@ Connection ~ 8300 8550
 Connection ~ 8650 8050
 Connection ~ 8650 8550
 Connection ~ 9000 8050
+Text GLabel 1200 9550 0    50   Input ~ 0
+RGBLED
+Wire Wire Line
+	1800 9550 2400 9550
+Wire Wire Line
+	3000 9550 3600 9550
+Wire Wire Line
+	4200 9550 4800 9550
+Wire Wire Line
+	5400 9550 6000 9550
+Wire Wire Line
+	6600 9550 7200 9550
+Wire Wire Line
+	7800 9550 8400 9550
+Wire Wire Line
+	9000 9550 9000 10000
+Wire Wire Line
+	9000 10000 1200 10000
+Wire Wire Line
+	1200 10000 1200 10450
+Wire Wire Line
+	1800 10450 2400 10450
+Wire Wire Line
+	3000 10450 3600 10450
+Wire Wire Line
+	4200 10450 4800 10450
+Wire Wire Line
+	5400 10450 6000 10450
+Wire Wire Line
+	6600 10450 7200 10450
+Wire Wire Line
+	7800 10450 8400 10450
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 5EAF6EE2
+P 17600 5700
+F 0 "H?" H 17700 5746 50  0000 L CNN
+F 1 "MountingHole" H 17700 5655 50  0000 L CNN
+F 2 "mounting_hole:mounting" H 17600 5700 50  0001 C CNN
+F 3 "~" H 17600 5700 50  0001 C CNN
+	1    17600 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 5EAF9D7C
+P 17600 6000
+F 0 "H?" H 17700 6046 50  0000 L CNN
+F 1 "MountingHole" H 17700 5955 50  0000 L CNN
+F 2 "mounting_hole:mounting" H 17600 6000 50  0001 C CNN
+F 3 "~" H 17600 6000 50  0001 C CNN
+	1    17600 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 5EBE734B
+P 17600 6300
+F 0 "H?" H 17700 6346 50  0000 L CNN
+F 1 "MountingHole" H 17700 6255 50  0000 L CNN
+F 2 "mounting_hole:mounting" H 17600 6300 50  0001 C CNN
+F 3 "~" H 17600 6300 50  0001 C CNN
+	1    17600 6300
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
