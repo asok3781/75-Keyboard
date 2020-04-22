@@ -6260,4 +6260,85 @@ Wire Wire Line
 	6600 10450 7200 10450
 Wire Wire Line
 	7800 10450 8400 10450
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 5EAF6EE2
+P 17600 5700
+F 0 "H1" H 17700 5746 50  0000 L CNN
+F 1 "MountingHole" H 17700 5655 50  0000 L CNN
+F 2 "mounting_hole:mounting" H 17600 5700 50  0001 C CNN
+F 3 "~" H 17600 5700 50  0001 C CNN
+	1    17600 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 5EAF9D7C
+P 17600 6000
+F 0 "H2" H 17700 6046 50  0000 L CNN
+F 1 "MountingHole" H 17700 5955 50  0000 L CNN
+F 2 "mounting_hole:mounting" H 17600 6000 50  0001 C CNN
+F 3 "~" H 17600 6000 50  0001 C CNN
+	1    17600 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 5EBE734B
+P 17600 6300
+F 0 "H3" H 17700 6346 50  0000 L CNN
+F 1 "MountingHole" H 17700 6255 50  0000 L CNN
+F 2 "mounting_hole:mounting" H 17600 6300 50  0001 C CNN
+F 3 "~" H 17600 6300 50  0001 C CNN
+	1    17600 6300
+	1    0    0    -1  
+$EndComp
+Text GLabel 15550 2200 2    50   Input ~ 0
+COL0
+Text GLabel 15550 2100 2    50   Input ~ 0
+COL1
+Text GLabel 15550 1800 2    50   Input ~ 0
+COL2
+Text GLabel 15550 1700 2    50   Input ~ 0
+COL3
+Text GLabel 15550 1600 2    50   Input ~ 0
+COL4
+Text GLabel 15550 3100 2    50   Input ~ 0
+COL5
+Text GLabel 15550 3000 2    50   Input ~ 0
+COL6
+Text GLabel 15550 2800 2    50   Input ~ 0
+COL7
+Text GLabel 15550 2400 2    50   Input ~ 0
+RGBLED
+Text GLabel 15550 2500 2    50   Input ~ 0
+ROW10
+Text GLabel 15550 2600 2    50   Input ~ 0
+ROW11
+Text GLabel 15550 2700 2    50   Input ~ 0
+ROW9
+Text GLabel 15550 2900 2    50   Input ~ 0
+ROW8
+Text GLabel 15550 4000 2    50   Input ~ 0
+ROW7
+Text GLabel 15550 4100 2    50   Input ~ 0
+ROW6
+Text GLabel 15550 3900 2    50   Input ~ 0
+ROW5
+Text GLabel 15550 3800 2    50   Input ~ 0
+ROW4
+Text GLabel 15550 3700 2    50   Input ~ 0
+ROW2
+Text GLabel 15550 3600 2    50   Input ~ 0
+ROW3
+Text GLabel 15550 3400 2    50   Input ~ 0
+ROW1
+Text GLabel 15550 1500 2    50   Input ~ 0
+ROW0
+Text GLabel 15550 1400 2    50   Input ~ 0
+LEDIND1
+Text GLabel 15550 1300 2    50   Input ~ 0
+LEDIND2
+Text GLabel 15550 1200 2    50   Input ~ 0
+LEDIND3
 $EndSCHEMATC
