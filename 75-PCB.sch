@@ -6263,34 +6263,34 @@ Wire Wire Line
 $Comp
 L Mechanical:MountingHole H1
 U 1 1 5EAF6EE2
-P 17600 5700
-F 0 "H1" H 17700 5746 50  0000 L CNN
-F 1 "MountingHole" H 17700 5655 50  0000 L CNN
-F 2 "mounting_hole:mounting" H 17600 5700 50  0001 C CNN
-F 3 "~" H 17600 5700 50  0001 C CNN
-	1    17600 5700
+P 15400 7700
+F 0 "H1" H 15500 7746 50  0000 L CNN
+F 1 "MountingHole" H 15500 7655 50  0000 L CNN
+F 2 "mounting_hole:mounting" H 15400 7700 50  0001 C CNN
+F 3 "~" H 15400 7700 50  0001 C CNN
+	1    15400 7700
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H2
 U 1 1 5EAF9D7C
-P 17600 6000
-F 0 "H2" H 17700 6046 50  0000 L CNN
-F 1 "MountingHole" H 17700 5955 50  0000 L CNN
-F 2 "mounting_hole:mounting" H 17600 6000 50  0001 C CNN
-F 3 "~" H 17600 6000 50  0001 C CNN
-	1    17600 6000
+P 15400 8000
+F 0 "H2" H 15500 8046 50  0000 L CNN
+F 1 "MountingHole" H 15500 7955 50  0000 L CNN
+F 2 "mounting_hole:mounting" H 15400 8000 50  0001 C CNN
+F 3 "~" H 15400 8000 50  0001 C CNN
+	1    15400 8000
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H3
 U 1 1 5EBE734B
-P 17600 6300
-F 0 "H3" H 17700 6346 50  0000 L CNN
-F 1 "MountingHole" H 17700 6255 50  0000 L CNN
-F 2 "mounting_hole:mounting" H 17600 6300 50  0001 C CNN
-F 3 "~" H 17600 6300 50  0001 C CNN
-	1    17600 6300
+P 15400 8300
+F 0 "H3" H 15500 8346 50  0000 L CNN
+F 1 "MountingHole" H 15500 8255 50  0000 L CNN
+F 2 "mounting_hole:mounting" H 15400 8300 50  0001 C CNN
+F 3 "~" H 15400 8300 50  0001 C CNN
+	1    15400 8300
 	1    0    0    -1  
 $EndComp
 Text GLabel 15550 2200 2    50   Input ~ 0
@@ -6347,4 +6347,147 @@ Text Notes 16100 1450 2    50   ~ 0
 MOSI\n
 Text Notes 16050 1550 2    50   ~ 0
 MISO\n
+$Comp
+L Connector_Generic:Conn_01x01 Tab6
+U 1 1 5EC0AC0E
+P 14600 8300
+F 0 "Tab6" H 14680 8342 50  0000 L CNN
+F 1 "BreakawayTabs" H 14680 8251 50  0000 L CNN
+F 2 "random-keyboard-parts:breakaway-mousebites" H 14600 8300 50  0001 C CNN
+F 3 "~" H 14600 8300 50  0001 C CNN
+	1    14600 8300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 Tab5
+U 1 1 5EC0F36C
+P 14600 8100
+F 0 "Tab5" H 14680 8142 50  0000 L CNN
+F 1 "BreakawayTabs" H 14680 8051 50  0000 L CNN
+F 2 "random-keyboard-parts:breakaway-mousebites" H 14600 8100 50  0001 C CNN
+F 3 "~" H 14600 8100 50  0001 C CNN
+	1    14600 8100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 Tab4
+U 1 1 5ECFC6FD
+P 14600 7900
+F 0 "Tab4" H 14680 7942 50  0000 L CNN
+F 1 "BreakawayTabs" H 14680 7851 50  0000 L CNN
+F 2 "random-keyboard-parts:breakaway-mousebites" H 14600 7900 50  0001 C CNN
+F 3 "~" H 14600 7900 50  0001 C CNN
+	1    14600 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 Tab3
+U 1 1 5EDE9C4A
+P 14600 7700
+F 0 "Tab3" H 14680 7742 50  0000 L CNN
+F 1 "BreakawayTabs" H 14680 7651 50  0000 L CNN
+F 2 "random-keyboard-parts:breakaway-mousebites" H 14600 7700 50  0001 C CNN
+F 3 "~" H 14600 7700 50  0001 C CNN
+	1    14600 7700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 Tab2
+U 1 1 5EED7E1C
+P 14600 7500
+F 0 "Tab2" H 14680 7542 50  0000 L CNN
+F 1 "BreakawayTabs" H 14680 7451 50  0000 L CNN
+F 2 "random-keyboard-parts:breakaway-mousebites" H 14600 7500 50  0001 C CNN
+F 3 "~" H 14600 7500 50  0001 C CNN
+	1    14600 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 Tab1
+U 1 1 5EFC526A
+P 14600 7300
+F 0 "Tab1" H 14680 7342 50  0000 L CNN
+F 1 "BreakawayTabs" H 14680 7251 50  0000 L CNN
+F 2 "random-keyboard-parts:breakaway-mousebites" H 14600 7300 50  0001 C CNN
+F 3 "~" H 14600 7300 50  0001 C CNN
+	1    14600 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 Tab13
+U 1 1 5F0C042D
+P 16400 8300
+F 0 "Tab13" H 16480 8342 50  0000 L CNN
+F 1 "BreakawayTabs" H 16480 8251 50  0000 L CNN
+F 2 "random-keyboard-parts:breakaway-mousebites" H 16400 8300 50  0001 C CNN
+F 3 "~" H 16400 8300 50  0001 C CNN
+	1    16400 8300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 Tab12
+U 1 1 5F0C0433
+P 16400 8100
+F 0 "Tab12" H 16480 8142 50  0000 L CNN
+F 1 "BreakawayTabs" H 16480 8051 50  0000 L CNN
+F 2 "random-keyboard-parts:breakaway-mousebites" H 16400 8100 50  0001 C CNN
+F 3 "~" H 16400 8100 50  0001 C CNN
+	1    16400 8100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 Tab11
+U 1 1 5F0C0439
+P 16400 7900
+F 0 "Tab11" H 16480 7942 50  0000 L CNN
+F 1 "BreakawayTabs" H 16480 7851 50  0000 L CNN
+F 2 "random-keyboard-parts:breakaway-mousebites" H 16400 7900 50  0001 C CNN
+F 3 "~" H 16400 7900 50  0001 C CNN
+	1    16400 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 Tab10
+U 1 1 5F0C043F
+P 16400 7700
+F 0 "Tab10" H 16480 7742 50  0000 L CNN
+F 1 "BreakawayTabs" H 16480 7651 50  0000 L CNN
+F 2 "random-keyboard-parts:breakaway-mousebites" H 16400 7700 50  0001 C CNN
+F 3 "~" H 16400 7700 50  0001 C CNN
+	1    16400 7700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 Tab9
+U 1 1 5F0C0445
+P 16400 7500
+F 0 "Tab9" H 16480 7542 50  0000 L CNN
+F 1 "BreakawayTabs" H 16480 7451 50  0000 L CNN
+F 2 "random-keyboard-parts:breakaway-mousebites" H 16400 7500 50  0001 C CNN
+F 3 "~" H 16400 7500 50  0001 C CNN
+	1    16400 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 Tab8
+U 1 1 5F0C044B
+P 16400 7300
+F 0 "Tab8" H 16480 7342 50  0000 L CNN
+F 1 "BreakawayTabs" H 16480 7251 50  0000 L CNN
+F 2 "random-keyboard-parts:breakaway-mousebites" H 16400 7300 50  0001 C CNN
+F 3 "~" H 16400 7300 50  0001 C CNN
+	1    16400 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 Tab7
+U 1 1 5F1ADB5C
+P 16400 7100
+F 0 "Tab7" H 16480 7142 50  0000 L CNN
+F 1 "BreakawayTabs" H 16480 7051 50  0000 L CNN
+F 2 "random-keyboard-parts:breakaway-mousebites" H 16400 7100 50  0001 C CNN
+F 3 "~" H 16400 7100 50  0001 C CNN
+	1    16400 7100
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
