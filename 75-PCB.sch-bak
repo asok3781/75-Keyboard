@@ -16,109 +16,109 @@ $EndDescr
 $Comp
 L Device:C_Small C3
 U 1 1 5E817F66
-P 12900 2500
-F 0 "C3" V 12671 2500 50  0000 C CNN
-F 1 "10uF" V 12762 2500 50  0000 C CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 12900 2500 50  0001 C CNN
-F 3 "~" H 12900 2500 50  0001 C CNN
-	1    12900 2500
+P 12950 2500
+F 0 "C3" V 12721 2500 50  0000 C CNN
+F 1 "10uF" V 12812 2500 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 12950 2500 50  0001 C CNN
+F 3 "~" H 12950 2500 50  0001 C CNN
+	1    12950 2500
 	0    1    1    0   
 $EndComp
 $Comp
 L Device:C_Small C4
 U 1 1 5E81A16C
-P 12900 2900
-F 0 "C4" V 12671 2900 50  0000 C CNN
-F 1 "0.1uF" V 12762 2900 50  0000 C CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 12900 2900 50  0001 C CNN
-F 3 "~" H 12900 2900 50  0001 C CNN
-	1    12900 2900
+P 12950 2900
+F 0 "C4" V 12721 2900 50  0000 C CNN
+F 1 "0.1uF" V 12812 2900 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 12950 2900 50  0001 C CNN
+F 3 "~" H 12950 2900 50  0001 C CNN
+	1    12950 2900
 	0    1    1    0   
 $EndComp
 $Comp
 L Device:C_Small C5
 U 1 1 5E81A603
-P 12900 3300
-F 0 "C5" V 12671 3300 50  0000 C CNN
-F 1 "0.1uF" V 12762 3300 50  0000 C CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 12900 3300 50  0001 C CNN
-F 3 "~" H 12900 3300 50  0001 C CNN
-	1    12900 3300
+P 12950 3300
+F 0 "C5" V 12721 3300 50  0000 C CNN
+F 1 "0.1uF" V 12812 3300 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 12950 3300 50  0001 C CNN
+F 3 "~" H 12950 3300 50  0001 C CNN
+	1    12950 3300
 	0    1    1    0   
 $EndComp
 $Comp
 L Device:C_Small C6
 U 1 1 5E81A950
-P 12900 3700
-F 0 "C6" V 12671 3700 50  0000 C CNN
-F 1 "0.1uF" V 12762 3700 50  0000 C CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 12900 3700 50  0001 C CNN
-F 3 "~" H 12900 3700 50  0001 C CNN
-	1    12900 3700
+P 12950 3700
+F 0 "C6" V 12721 3700 50  0000 C CNN
+F 1 "0.1uF" V 12812 3700 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 12950 3700 50  0001 C CNN
+F 3 "~" H 12950 3700 50  0001 C CNN
+	1    12950 3700
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	13000 3700 13150 3700
+	13050 3700 13200 3700
 Wire Wire Line
-	13150 3700 13150 3300
+	13200 3700 13200 3300
 Wire Wire Line
-	13150 2500 13000 2500
+	13200 2500 13050 2500
 Wire Wire Line
-	12800 2500 12650 2500
+	12850 2500 12700 2500
 Wire Wire Line
-	12650 2500 12650 2900
+	12700 2500 12700 2900
 Wire Wire Line
-	12650 3700 12800 3700
+	12700 3700 12850 3700
 Wire Wire Line
-	12800 3300 12650 3300
-Connection ~ 12650 3300
+	12850 3300 12700 3300
+Connection ~ 12700 3300
 Wire Wire Line
-	12650 3300 12650 3700
+	12700 3300 12700 3700
 Wire Wire Line
-	13000 3300 13150 3300
-Connection ~ 13150 3300
+	13050 3300 13200 3300
+Connection ~ 13200 3300
 Wire Wire Line
-	13150 3300 13150 3100
+	13200 3300 13200 3100
 Wire Wire Line
-	13000 2900 13150 2900
-Connection ~ 13150 2900
+	13050 2900 13200 2900
+Connection ~ 13200 2900
 Wire Wire Line
-	13150 2900 13150 2500
+	13200 2900 13200 2500
 Wire Wire Line
-	12800 2900 12650 2900
-Connection ~ 12650 2900
+	12850 2900 12700 2900
+Connection ~ 12700 2900
 Wire Wire Line
-	12650 2900 12650 3100
+	12700 2900 12700 3100
 Wire Wire Line
-	13150 3100 13300 3100
-Connection ~ 13150 3100
+	13200 3100 13350 3100
+Connection ~ 13200 3100
 Wire Wire Line
-	13150 3100 13150 2900
+	13200 3100 13200 2900
 Wire Wire Line
-	12650 3100 12500 3100
-Connection ~ 12650 3100
+	12700 3100 12550 3100
+Connection ~ 12700 3100
 Wire Wire Line
-	12650 3100 12650 3300
+	12700 3100 12700 3300
 $Comp
 L power:GND #PWR0101
 U 1 1 5E81E78D
-P 12500 3100
-F 0 "#PWR0101" H 12500 2850 50  0001 C CNN
-F 1 "GND" H 12505 2927 50  0000 C CNN
-F 2 "" H 12500 3100 50  0001 C CNN
-F 3 "" H 12500 3100 50  0001 C CNN
-	1    12500 3100
+P 12550 3100
+F 0 "#PWR0101" H 12550 2850 50  0001 C CNN
+F 1 "GND" H 12555 2927 50  0000 C CNN
+F 2 "" H 12550 3100 50  0001 C CNN
+F 3 "" H 12550 3100 50  0001 C CNN
+	1    12550 3100
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:+5V #PWR0102
 U 1 1 5E81FBE9
-P 13300 3100
-F 0 "#PWR0102" H 13300 2950 50  0001 C CNN
-F 1 "+5V" H 13315 3273 50  0000 C CNN
-F 2 "" H 13300 3100 50  0001 C CNN
-F 3 "" H 13300 3100 50  0001 C CNN
-	1    13300 3100
+P 13350 3100
+F 0 "#PWR0102" H 13350 2950 50  0001 C CNN
+F 1 "+5V" H 13365 3273 50  0000 C CNN
+F 2 "" H 13350 3100 50  0001 C CNN
+F 3 "" H 13350 3100 50  0001 C CNN
+	1    13350 3100
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -371,224 +371,224 @@ Switch Matrix\n
 Text Notes 14950 9900 2    100  ~ 0
 LED MOSFET\n
 Wire Wire Line
-	15450 4500 15450 4550
+	15350 4500 15350 4550
 $Comp
 L power:GND #PWR0109
 U 1 1 5E954266
-P 15450 4550
-F 0 "#PWR0109" H 15450 4300 50  0001 C CNN
-F 1 "GND" H 15455 4377 50  0000 C CNN
-F 2 "" H 15450 4550 50  0001 C CNN
-F 3 "" H 15450 4550 50  0001 C CNN
-	1    15450 4550
+P 15350 4550
+F 0 "#PWR0109" H 15350 4300 50  0001 C CNN
+F 1 "GND" H 15355 4377 50  0000 C CNN
+F 2 "" H 15350 4550 50  0001 C CNN
+F 3 "" H 15350 4550 50  0001 C CNN
+	1    15350 4550
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:R_Small R4
 U 1 1 5E957951
-P 15750 3300
-F 0 "R4" V 15554 3300 50  0000 C CNN
-F 1 "10K" V 15645 3300 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric" H 15750 3300 50  0001 C CNN
-F 3 "~" H 15750 3300 50  0001 C CNN
-	1    15750 3300
+P 15650 3300
+F 0 "R4" V 15454 3300 50  0000 C CNN
+F 1 "10K" V 15545 3300 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" H 15650 3300 50  0001 C CNN
+F 3 "~" H 15650 3300 50  0001 C CNN
+	1    15650 3300
 	0    1    1    0   
 $EndComp
 $Comp
 L power:GND #PWR0110
 U 1 1 5E957957
-P 15950 3300
-F 0 "#PWR0110" H 15950 3050 50  0001 C CNN
-F 1 "GND" H 15955 3127 50  0000 C CNN
-F 2 "" H 15950 3300 50  0001 C CNN
-F 3 "" H 15950 3300 50  0001 C CNN
-	1    15950 3300
+P 15850 3300
+F 0 "#PWR0110" H 15850 3050 50  0001 C CNN
+F 1 "GND" H 15855 3127 50  0000 C CNN
+F 2 "" H 15850 3300 50  0001 C CNN
+F 3 "" H 15850 3300 50  0001 C CNN
+	1    15850 3300
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:Crystal_GND24_Small Y1
 U 1 1 5EB94E36
-P 13050 1500
-F 0 "Y1" V 13004 1644 50  0000 L CNN
-F 1 "16MHz" V 13095 1644 50  0000 L CNN
-F 2 "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm" H 13050 1500 50  0001 C CNN
-F 3 "~" H 13050 1500 50  0001 C CNN
-	1    13050 1500
+P 12950 1500
+F 0 "Y1" V 12904 1644 50  0000 L CNN
+F 1 "16MHz" V 12995 1644 50  0000 L CNN
+F 2 "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm" H 12950 1500 50  0001 C CNN
+F 3 "~" H 12950 1500 50  0001 C CNN
+	1    12950 1500
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	13150 1500 13150 1700
+	13050 1500 13050 1700
 Wire Wire Line
-	13150 1700 12950 1700
+	13050 1700 12850 1700
 Wire Wire Line
-	12950 1700 12950 1500
+	12850 1700 12850 1500
 $Comp
 L Device:C_Small C1
 U 1 1 5EB94E3F
-P 12750 1250
-F 0 "C1" V 12521 1250 50  0000 C CNN
-F 1 "22pF" V 12612 1250 50  0000 C CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 12750 1250 50  0001 C CNN
-F 3 "~" H 12750 1250 50  0001 C CNN
-	1    12750 1250
+P 12650 1250
+F 0 "C1" V 12421 1250 50  0000 C CNN
+F 1 "22pF" V 12512 1250 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 12650 1250 50  0001 C CNN
+F 3 "~" H 12650 1250 50  0001 C CNN
+	1    12650 1250
 	0    1    1    0   
 $EndComp
 $Comp
 L Device:C_Small C2
 U 1 1 5EB94E45
-P 12750 1750
-F 0 "C2" V 12521 1750 50  0000 C CNN
-F 1 "22pF" V 12612 1750 50  0000 C CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 12750 1750 50  0001 C CNN
-F 3 "~" H 12750 1750 50  0001 C CNN
-	1    12750 1750
+P 12650 1750
+F 0 "C2" V 12421 1750 50  0000 C CNN
+F 1 "22pF" V 12512 1750 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 12650 1750 50  0001 C CNN
+F 3 "~" H 12650 1750 50  0001 C CNN
+	1    12650 1750
 	0    1    1    0   
 $EndComp
 $Comp
 L power:GND #PWR0111
 U 1 1 5EB94E4B
-P 12650 1900
-F 0 "#PWR0111" H 12650 1650 50  0001 C CNN
-F 1 "GND" H 12655 1727 50  0000 C CNN
-F 2 "" H 12650 1900 50  0001 C CNN
-F 3 "" H 12650 1900 50  0001 C CNN
-	1    12650 1900
+P 12550 1900
+F 0 "#PWR0111" H 12550 1650 50  0001 C CNN
+F 1 "GND" H 12555 1727 50  0000 C CNN
+F 2 "" H 12550 1900 50  0001 C CNN
+F 3 "" H 12550 1900 50  0001 C CNN
+	1    12550 1900
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	13050 1600 13050 1750
+	12950 1600 12950 1750
 Wire Wire Line
-	12950 1700 12950 1850
+	12850 1700 12850 1850
 Wire Wire Line
-	12950 1850 12650 1850
+	12850 1850 12550 1850
 Wire Wire Line
-	12650 1850 12650 1900
-Connection ~ 12950 1700
+	12550 1850 12550 1900
+Connection ~ 12850 1700
 Wire Wire Line
-	13050 1750 12850 1750
+	12950 1750 12750 1750
 Wire Wire Line
-	13050 1250 12850 1250
+	12950 1250 12750 1250
 Wire Wire Line
-	13050 1250 13050 1400
+	12950 1250 12950 1400
 Wire Wire Line
-	12650 1250 12650 1750
-Connection ~ 12650 1850
-Connection ~ 12650 1750
+	12550 1250 12550 1750
+Connection ~ 12550 1850
+Connection ~ 12550 1750
 Wire Wire Line
-	12650 1750 12650 1850
+	12550 1750 12550 1850
 Wire Wire Line
-	13050 1400 14350 1400
-Connection ~ 13050 1400
+	12950 1400 14250 1400
+Connection ~ 12950 1400
 Wire Wire Line
-	14350 1600 13050 1600
-Connection ~ 13050 1600
+	14250 1600 12950 1600
+Connection ~ 12950 1600
 $Comp
 L Switch:SW_Push SW1
 U 1 1 5EBFBB8D
-P 13750 1150
-F 0 "SW1" H 13750 1435 50  0000 C CNN
-F 1 "SW_Push" H 13750 1344 50  0000 C CNN
-F 2 "random-keyboard-parts:SKQG-1155865" H 13750 1350 50  0001 C CNN
-F 3 "~" H 13750 1350 50  0001 C CNN
-	1    13750 1150
+P 13650 1150
+F 0 "SW1" H 13650 1435 50  0000 C CNN
+F 1 "SW_Push" H 13650 1344 50  0000 C CNN
+F 2 "random-keyboard-parts:SKQG-1155865" H 13650 1350 50  0001 C CNN
+F 3 "~" H 13650 1350 50  0001 C CNN
+	1    13650 1150
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:GND #PWR0112
 U 1 1 5EBFBB93
-P 13450 1150
-F 0 "#PWR0112" H 13450 900 50  0001 C CNN
-F 1 "GND" H 13455 977 50  0000 C CNN
-F 2 "" H 13450 1150 50  0001 C CNN
-F 3 "" H 13450 1150 50  0001 C CNN
-	1    13450 1150
+P 13350 1150
+F 0 "#PWR0112" H 13350 900 50  0001 C CNN
+F 1 "GND" H 13355 977 50  0000 C CNN
+F 2 "" H 13350 1150 50  0001 C CNN
+F 3 "" H 13350 1150 50  0001 C CNN
+	1    13350 1150
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:R_Small R5
 U 1 1 5EBFBB99
-P 14050 950
-F 0 "R5" H 14109 996 50  0000 L CNN
-F 1 "10K" H 14109 905 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric" H 14050 950 50  0001 C CNN
-F 3 "~" H 14050 950 50  0001 C CNN
-	1    14050 950 
+P 13950 950
+F 0 "R5" H 14009 996 50  0000 L CNN
+F 1 "10K" H 14009 905 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" H 13950 950 50  0001 C CNN
+F 3 "~" H 13950 950 50  0001 C CNN
+	1    13950 950 
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:+5V #PWR0113
 U 1 1 5EBFBB9F
-P 14050 800
-F 0 "#PWR0113" H 14050 650 50  0001 C CNN
-F 1 "+5V" H 14065 973 50  0000 C CNN
-F 2 "" H 14050 800 50  0001 C CNN
-F 3 "" H 14050 800 50  0001 C CNN
-	1    14050 800 
+P 13950 800
+F 0 "#PWR0113" H 13950 650 50  0001 C CNN
+F 1 "+5V" H 13965 973 50  0000 C CNN
+F 2 "" H 13950 800 50  0001 C CNN
+F 3 "" H 13950 800 50  0001 C CNN
+	1    13950 800 
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	13450 1150 13550 1150
+	13350 1150 13450 1150
 Wire Wire Line
-	14050 800  14050 850 
+	13950 800  13950 850 
 Wire Wire Line
-	14050 1050 14050 1150
+	13950 1050 13950 1150
 Wire Wire Line
-	14350 1200 14350 1150
+	14250 1200 14250 1150
 Wire Wire Line
-	14850 900  14850 800 
+	14750 900  14750 800 
 $Comp
 L power:+5V #PWR0114
 U 1 1 5ED8C2AE
-P 14850 800
-F 0 "#PWR0114" H 14850 650 50  0001 C CNN
-F 1 "+5V" H 14865 973 50  0000 C CNN
-F 2 "" H 14850 800 50  0001 C CNN
-F 3 "" H 14850 800 50  0001 C CNN
-	1    14850 800 
+P 14750 800
+F 0 "#PWR0114" H 14750 650 50  0001 C CNN
+F 1 "+5V" H 14765 973 50  0000 C CNN
+F 2 "" H 14750 800 50  0001 C CNN
+F 3 "" H 14750 800 50  0001 C CNN
+	1    14750 800 
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:C_Small C7
 U 1 1 5ED8F62D
-P 13800 2500
-F 0 "C7" V 13571 2500 50  0000 C CNN
-F 1 "1uF" V 13662 2500 50  0000 C CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 13800 2500 50  0001 C CNN
-F 3 "~" H 13800 2500 50  0001 C CNN
-	1    13800 2500
+P 13700 2500
+F 0 "C7" V 13471 2500 50  0000 C CNN
+F 1 "1uF" V 13562 2500 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 13700 2500 50  0001 C CNN
+F 3 "~" H 13700 2500 50  0001 C CNN
+	1    13700 2500
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	13700 2500 13600 2500
+	13600 2500 13500 2500
 $Comp
 L power:GND #PWR0115
 U 1 1 5ED8F634
-P 13600 2500
-F 0 "#PWR0115" H 13600 2250 50  0001 C CNN
-F 1 "GND" H 13605 2327 50  0000 C CNN
-F 2 "" H 13600 2500 50  0001 C CNN
-F 3 "" H 13600 2500 50  0001 C CNN
-	1    13600 2500
+P 13500 2500
+F 0 "#PWR0115" H 13500 2250 50  0001 C CNN
+F 1 "GND" H 13505 2327 50  0000 C CNN
+F 2 "" H 13500 2500 50  0001 C CNN
+F 3 "" H 13500 2500 50  0001 C CNN
+	1    13500 2500
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	13900 2500 14350 2500
+	13800 2500 14250 2500
 $Comp
 L power:+5V #PWR0116
 U 1 1 5EDF2BCE
-P 14200 2000
-F 0 "#PWR0116" H 14200 1850 50  0001 C CNN
-F 1 "+5V" H 14215 2173 50  0000 C CNN
-F 2 "" H 14200 2000 50  0001 C CNN
-F 3 "" H 14200 2000 50  0001 C CNN
-	1    14200 2000
+P 14100 2000
+F 0 "#PWR0116" H 14100 1850 50  0001 C CNN
+F 1 "+5V" H 14115 2173 50  0000 C CNN
+F 2 "" H 14100 2000 50  0001 C CNN
+F 3 "" H 14100 2000 50  0001 C CNN
+	1    14100 2000
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	14200 2000 14350 2000
-Text GLabel 14350 2200 0    50   Input ~ 0
+	14100 2000 14250 2000
+Text GLabel 14250 2200 0    50   Input ~ 0
 D+
-Text GLabel 14350 2300 0    50   Input ~ 0
+Text GLabel 14250 2300 0    50   Input ~ 0
 D-
 Wire Wire Line
 	14700 6150 15000 6150
@@ -603,16 +603,16 @@ F 3 "~" H 14600 6150 50  0001 C CNN
 	1    14600 6150
 	0    1    1    0   
 $EndComp
-Text GLabel 14350 800  2    50   Input ~ 0
+Text GLabel 14250 800  2    50   Input ~ 0
 RESET
-Connection ~ 14050 1150
+Connection ~ 13950 1150
 Wire Wire Line
-	14050 1150 13950 1150
+	13950 1150 13850 1150
 Wire Wire Line
-	14050 1150 14350 1150
+	13950 1150 14250 1150
 Wire Wire Line
-	14350 800  14350 1150
-Connection ~ 14350 1150
+	14250 800  14250 1150
+Connection ~ 14250 1150
 $Comp
 L MX_Alps_Hybrid:MX-LED MX_F#1
 U 1 1 650242FB
@@ -3464,51 +3464,49 @@ F 3 "~" H 1300 6150 50  0001 C CNN
 	1    1300 6150
 	1    0    0    -1  
 $EndComp
-Text GLabel 13350 4650 2    50   Input ~ 0
+Text GLabel 13450 4650 2    50   Input ~ 0
 RESET
-Text GLabel 13350 4550 2    50   Input ~ 0
+Text GLabel 13450 4550 2    50   Input ~ 0
 LEDIND2
-Text GLabel 13350 4450 2    50   Input ~ 0
+Text GLabel 13450 4450 2    50   Input ~ 0
 LEDIND1
-Text GLabel 13350 4350 2    50   Input ~ 0
+Text GLabel 13450 4350 2    50   Input ~ 0
 ROW0
 $Comp
 L power:GND #PWR0118
 U 1 1 5F5FB4A7
-P 12850 4950
-F 0 "#PWR0118" H 12850 4700 50  0001 C CNN
-F 1 "GND" H 12855 4777 50  0000 C CNN
-F 2 "" H 12850 4950 50  0001 C CNN
-F 3 "" H 12850 4950 50  0001 C CNN
-	1    12850 4950
+P 12950 4950
+F 0 "#PWR0118" H 12950 4700 50  0001 C CNN
+F 1 "GND" H 12955 4777 50  0000 C CNN
+F 2 "" H 12950 4950 50  0001 C CNN
+F 3 "" H 12950 4950 50  0001 C CNN
+	1    12950 4950
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:+5V #PWR0117
 U 1 1 5F5F99D8
-P 12850 4050
-F 0 "#PWR0117" H 12850 3900 50  0001 C CNN
-F 1 "+5V" H 12865 4223 50  0000 C CNN
-F 2 "" H 12850 4050 50  0001 C CNN
-F 3 "" H 12850 4050 50  0001 C CNN
-	1    12850 4050
+P 12950 4050
+F 0 "#PWR0117" H 12950 3900 50  0001 C CNN
+F 1 "+5V" H 12965 4223 50  0000 C CNN
+F 2 "" H 12950 4050 50  0001 C CNN
+F 3 "" H 12950 4050 50  0001 C CNN
+	1    12950 4050
 	1    0    0    -1  
 $EndComp
 $Comp
 L Connector:AVR-ISP-6 J1
 U 1 1 5F5F6B62
-P 12950 4550
-F 0 "J1" H 12621 4646 50  0000 R CNN
-F 1 "AVR-ISP-6" H 12621 4555 50  0000 R CNN
-F 2 "random-keyboard-parts:Reset_Pretty-Mask" V 12700 4600 50  0001 C CNN
-F 3 " ~" H 11675 4000 50  0001 C CNN
-	1    12950 4550
+P 13050 4550
+F 0 "J1" H 12721 4646 50  0000 R CNN
+F 1 "AVR-ISP-6" H 12721 4555 50  0000 R CNN
+F 2 "random-keyboard-parts:Reset_Pretty-Mask" V 12800 4600 50  0001 C CNN
+F 3 " ~" H 11775 4000 50  0001 C CNN
+	1    13050 4550
 	1    0    0    -1  
 $EndComp
 Wire Notes Line
 	12150 500  12150 9950
-Wire Notes Line
-	12150 8500 16050 8500
 Wire Notes Line
 	12150 5200 16050 5200
 $Comp
@@ -3577,8 +3575,6 @@ Wire Wire Line
 Connection ~ 15300 9500
 Wire Wire Line
 	15300 9500 15300 9600
-Wire Notes Line
-	12150 7500 8000 7500
 Text Notes 8050 7700 0    100  ~ 0
 Underglow LEDs
 $Comp
@@ -3636,7 +3632,7 @@ F 3 "" H 4525 8125 60  0001 C CNN
 	1    5150 8150
 	1    0    0    -1  
 $EndComp
-Text GLabel 15550 1900 2    50   Input ~ 0
+Text GLabel 15450 1900 2    50   Input ~ 0
 LEDMOS
 $Comp
 L Type-C:Wurth-632723300011 USB1
@@ -3805,31 +3801,31 @@ F 3 "" H 8425 5925 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	14850 900  14950 900 
+	14750 900  14850 900 
 Wire Wire Line
-	14850 4500 14950 4500
+	14750 4500 14850 4500
 $Comp
 L MCU_Microchip_ATmega:ATmega32U4-AU U1
 U 1 1 5EB6F232
-P 14950 2700
-F 0 "U1" H 14950 811 50  0000 C CNN
-F 1 "ATmega32U4-AU" H 14950 720 50  0000 C CNN
-F 2 "Package_QFP:TQFP-44_10x10mm_P0.8mm" H 14950 2700 50  0001 C CIN
-F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 14950 2700 50  0001 C CNN
-	1    14950 2700
+P 14850 2700
+F 0 "U1" H 14850 811 50  0000 C CNN
+F 1 "ATmega32U4-AU" H 14850 720 50  0000 C CNN
+F 2 "Package_QFP:TQFP-44_10x10mm_P0.8mm" H 14850 2700 50  0001 C CIN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 14850 2700 50  0001 C CNN
+	1    14850 2700
 	1    0    0    -1  
 $EndComp
+Connection ~ 14750 900 
+Connection ~ 14850 4500
+Wire Wire Line
+	14850 4500 15350 4500
+Wire Wire Line
+	15450 3300 15550 3300
+Wire Wire Line
+	15750 3300 15850 3300
+Wire Wire Line
+	14850 900  14950 900 
 Connection ~ 14850 900 
-Connection ~ 14950 4500
-Wire Wire Line
-	14950 4500 15450 4500
-Wire Wire Line
-	15550 3300 15650 3300
-Wire Wire Line
-	15850 3300 15950 3300
-Wire Wire Line
-	14950 900  15050 900 
-Connection ~ 14950 900 
 Wire Wire Line
 	1400 1400 1400 1100
 Wire Wire Line
@@ -6260,234 +6256,248 @@ Wire Wire Line
 	6600 10450 7200 10450
 Wire Wire Line
 	7800 10450 8400 10450
+Text GLabel 15450 2200 2    50   Input ~ 0
+COL0
+Text GLabel 15450 2100 2    50   Input ~ 0
+COL1
+Text GLabel 15450 1800 2    50   Input ~ 0
+COL2
+Text GLabel 15450 1700 2    50   Input ~ 0
+COL3
+Text GLabel 15450 1600 2    50   Input ~ 0
+COL4
+Text GLabel 15450 3100 2    50   Input ~ 0
+COL5
+Text GLabel 15450 3000 2    50   Input ~ 0
+COL6
+Text GLabel 15450 2800 2    50   Input ~ 0
+COL7
+Text GLabel 15450 2400 2    50   Input ~ 0
+RGBLED
+Text GLabel 15450 2500 2    50   Input ~ 0
+ROW10
+Text GLabel 15450 2600 2    50   Input ~ 0
+ROW11
+Text GLabel 15450 2700 2    50   Input ~ 0
+ROW9
+Text GLabel 15450 2900 2    50   Input ~ 0
+ROW8
+Text GLabel 15450 4000 2    50   Input ~ 0
+ROW7
+Text GLabel 15450 4100 2    50   Input ~ 0
+ROW6
+Text GLabel 15450 3900 2    50   Input ~ 0
+ROW5
+Text GLabel 15450 3800 2    50   Input ~ 0
+ROW4
+Text GLabel 15450 3700 2    50   Input ~ 0
+ROW2
+Text GLabel 15450 3600 2    50   Input ~ 0
+ROW3
+Text GLabel 15450 3400 2    50   Input ~ 0
+ROW1
+Text GLabel 15450 1500 2    50   Input ~ 0
+ROW0
+Text GLabel 15450 1400 2    50   Input ~ 0
+LEDIND1
+Text GLabel 15450 1300 2    50   Input ~ 0
+LEDIND2
+Text GLabel 15450 1200 2    50   Input ~ 0
+LEDIND3
+Text Notes 15850 1350 0    50   ~ 0
+SCK\n
+Text Notes 15850 1450 0    50   ~ 0
+MOSI\n
+Text Notes 15750 1550 0    50   ~ 0
+MISO\n
 $Comp
-L Mechanical:MountingHole H1
-U 1 1 5EAF6EE2
-P 15400 7700
-F 0 "H1" H 15500 7746 50  0000 L CNN
-F 1 "MountingHole" H 15500 7655 50  0000 L CNN
-F 2 "mounting_hole:mounting" H 15400 7700 50  0001 C CNN
-F 3 "~" H 15400 7700 50  0001 C CNN
-	1    15400 7700
+L Connector_Generic:Conn_01x01 Tab6
+U 1 1 5EC0AC0E
+P 10250 10900
+F 0 "Tab6" H 10330 10942 50  0000 L CNN
+F 1 "BreakawayTabs" H 10330 10851 50  0000 L CNN
+F 2 "random-keyboard-parts:breakaway-mousebites" H 10250 10900 50  0001 C CNN
+F 3 "~" H 10250 10900 50  0001 C CNN
+	1    10250 10900
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H2
-U 1 1 5EAF9D7C
-P 15400 8000
-F 0 "H2" H 15500 8046 50  0000 L CNN
-F 1 "MountingHole" H 15500 7955 50  0000 L CNN
-F 2 "mounting_hole:mounting" H 15400 8000 50  0001 C CNN
-F 3 "~" H 15400 8000 50  0001 C CNN
-	1    15400 8000
+L Connector_Generic:Conn_01x01 Tab5
+U 1 1 5EC0F36C
+P 10250 10700
+F 0 "Tab5" H 10330 10742 50  0000 L CNN
+F 1 "BreakawayTabs" H 10330 10651 50  0000 L CNN
+F 2 "random-keyboard-parts:breakaway-mousebites" H 10250 10700 50  0001 C CNN
+F 3 "~" H 10250 10700 50  0001 C CNN
+	1    10250 10700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 Tab4
+U 1 1 5ECFC6FD
+P 10250 10500
+F 0 "Tab4" H 10330 10542 50  0000 L CNN
+F 1 "BreakawayTabs" H 10330 10451 50  0000 L CNN
+F 2 "random-keyboard-parts:breakaway-mousebites" H 10250 10500 50  0001 C CNN
+F 3 "~" H 10250 10500 50  0001 C CNN
+	1    10250 10500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 Tab3
+U 1 1 5EDE9C4A
+P 10250 10300
+F 0 "Tab3" H 10330 10342 50  0000 L CNN
+F 1 "BreakawayTabs" H 10330 10251 50  0000 L CNN
+F 2 "random-keyboard-parts:breakaway-mousebites" H 10250 10300 50  0001 C CNN
+F 3 "~" H 10250 10300 50  0001 C CNN
+	1    10250 10300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 Tab2
+U 1 1 5EED7E1C
+P 10250 10100
+F 0 "Tab2" H 10330 10142 50  0000 L CNN
+F 1 "BreakawayTabs" H 10330 10051 50  0000 L CNN
+F 2 "random-keyboard-parts:breakaway-mousebites" H 10250 10100 50  0001 C CNN
+F 3 "~" H 10250 10100 50  0001 C CNN
+	1    10250 10100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 Tab1
+U 1 1 5EFC526A
+P 10250 9900
+F 0 "Tab1" H 10330 9942 50  0000 L CNN
+F 1 "BreakawayTabs" H 10330 9851 50  0000 L CNN
+F 2 "random-keyboard-parts:breakaway-mousebites" H 10250 9900 50  0001 C CNN
+F 3 "~" H 10250 9900 50  0001 C CNN
+	1    10250 9900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 Tab13
+U 1 1 5F0C042D
+P 11150 11100
+F 0 "Tab13" H 11230 11142 50  0000 L CNN
+F 1 "BreakawayTabs" H 11230 11051 50  0000 L CNN
+F 2 "random-keyboard-parts:breakaway-mousebites" H 11150 11100 50  0001 C CNN
+F 3 "~" H 11150 11100 50  0001 C CNN
+	1    11150 11100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 Tab12
+U 1 1 5F0C0433
+P 11150 10900
+F 0 "Tab12" H 11230 10942 50  0000 L CNN
+F 1 "BreakawayTabs" H 11230 10851 50  0000 L CNN
+F 2 "random-keyboard-parts:breakaway-mousebites" H 11150 10900 50  0001 C CNN
+F 3 "~" H 11150 10900 50  0001 C CNN
+	1    11150 10900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 Tab11
+U 1 1 5F0C0439
+P 11150 10700
+F 0 "Tab11" H 11230 10742 50  0000 L CNN
+F 1 "BreakawayTabs" H 11230 10651 50  0000 L CNN
+F 2 "random-keyboard-parts:breakaway-mousebites" H 11150 10700 50  0001 C CNN
+F 3 "~" H 11150 10700 50  0001 C CNN
+	1    11150 10700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 Tab10
+U 1 1 5F0C043F
+P 11150 10500
+F 0 "Tab10" H 11230 10542 50  0000 L CNN
+F 1 "BreakawayTabs" H 11230 10451 50  0000 L CNN
+F 2 "random-keyboard-parts:breakaway-mousebites" H 11150 10500 50  0001 C CNN
+F 3 "~" H 11150 10500 50  0001 C CNN
+	1    11150 10500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 Tab9
+U 1 1 5F0C0445
+P 11150 10300
+F 0 "Tab9" H 11230 10342 50  0000 L CNN
+F 1 "BreakawayTabs" H 11230 10251 50  0000 L CNN
+F 2 "random-keyboard-parts:breakaway-mousebites" H 11150 10300 50  0001 C CNN
+F 3 "~" H 11150 10300 50  0001 C CNN
+	1    11150 10300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 Tab8
+U 1 1 5F0C044B
+P 11150 10100
+F 0 "Tab8" H 11230 10142 50  0000 L CNN
+F 1 "BreakawayTabs" H 11230 10051 50  0000 L CNN
+F 2 "random-keyboard-parts:breakaway-mousebites" H 11150 10100 50  0001 C CNN
+F 3 "~" H 11150 10100 50  0001 C CNN
+	1    11150 10100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 Tab7
+U 1 1 5F1ADB5C
+P 11150 9900
+F 0 "Tab7" H 11230 9942 50  0000 L CNN
+F 1 "BreakawayTabs" H 11230 9851 50  0000 L CNN
+F 2 "random-keyboard-parts:breakaway-mousebites" H 11150 9900 50  0001 C CNN
+F 3 "~" H 11150 9900 50  0001 C CNN
+	1    11150 9900
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H3
 U 1 1 5EBE734B
-P 15400 8300
-F 0 "H3" H 15500 8346 50  0000 L CNN
-F 1 "MountingHole" H 15500 8255 50  0000 L CNN
-F 2 "mounting_hole:mounting" H 15400 8300 50  0001 C CNN
-F 3 "~" H 15400 8300 50  0001 C CNN
-	1    15400 8300
-	1    0    0    -1  
-$EndComp
-Text GLabel 15550 2200 2    50   Input ~ 0
-COL0
-Text GLabel 15550 2100 2    50   Input ~ 0
-COL1
-Text GLabel 15550 1800 2    50   Input ~ 0
-COL2
-Text GLabel 15550 1700 2    50   Input ~ 0
-COL3
-Text GLabel 15550 1600 2    50   Input ~ 0
-COL4
-Text GLabel 15550 3100 2    50   Input ~ 0
-COL5
-Text GLabel 15550 3000 2    50   Input ~ 0
-COL6
-Text GLabel 15550 2800 2    50   Input ~ 0
-COL7
-Text GLabel 15550 2400 2    50   Input ~ 0
-RGBLED
-Text GLabel 15550 2500 2    50   Input ~ 0
-ROW10
-Text GLabel 15550 2600 2    50   Input ~ 0
-ROW11
-Text GLabel 15550 2700 2    50   Input ~ 0
-ROW9
-Text GLabel 15550 2900 2    50   Input ~ 0
-ROW8
-Text GLabel 15550 4000 2    50   Input ~ 0
-ROW7
-Text GLabel 15550 4100 2    50   Input ~ 0
-ROW6
-Text GLabel 15550 3900 2    50   Input ~ 0
-ROW5
-Text GLabel 15550 3800 2    50   Input ~ 0
-ROW4
-Text GLabel 15550 3700 2    50   Input ~ 0
-ROW2
-Text GLabel 15550 3600 2    50   Input ~ 0
-ROW3
-Text GLabel 15550 3400 2    50   Input ~ 0
-ROW1
-Text GLabel 15550 1500 2    50   Input ~ 0
-ROW0
-Text GLabel 15550 1400 2    50   Input ~ 0
-LEDIND1
-Text GLabel 15550 1300 2    50   Input ~ 0
-LEDIND2
-Text GLabel 15550 1200 2    50   Input ~ 0
-LEDIND3
-Text Notes 16100 1350 2    50   ~ 0
-SCK\n
-Text Notes 16100 1450 2    50   ~ 0
-MOSI\n
-Text Notes 16050 1550 2    50   ~ 0
-MISO\n
-$Comp
-L Connector_Generic:Conn_01x01 J?
-U 1 1 5EC0AC0E
-P 14600 8300
-F 0 "J?" H 14680 8342 50  0000 L CNN
-F 1 "BreakawayTabs" H 14680 8251 50  0000 L CNN
-F 2 "random-keyboard-parts:breakaway-mousebites" H 14600 8300 50  0001 C CNN
-F 3 "~" H 14600 8300 50  0001 C CNN
-	1    14600 8300
+P 11450 9650
+F 0 "H3" H 11550 9696 50  0000 L CNN
+F 1 "MountingHole" H 11550 9605 50  0000 L CNN
+F 2 "mounting_hole:mounting" H 11450 9650 50  0001 C CNN
+F 3 "~" H 11450 9650 50  0001 C CNN
+	1    11450 9650
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x01 J?
-U 1 1 5EC0F36C
-P 14600 8100
-F 0 "J?" H 14680 8142 50  0000 L CNN
-F 1 "BreakawayTabs" H 14680 8051 50  0000 L CNN
-F 2 "random-keyboard-parts:breakaway-mousebites" H 14600 8100 50  0001 C CNN
-F 3 "~" H 14600 8100 50  0001 C CNN
-	1    14600 8100
+L Mechanical:MountingHole H2
+U 1 1 5EAF9D7C
+P 11450 9350
+F 0 "H2" H 11550 9396 50  0000 L CNN
+F 1 "MountingHole" H 11550 9305 50  0000 L CNN
+F 2 "mounting_hole:mounting" H 11450 9350 50  0001 C CNN
+F 3 "~" H 11450 9350 50  0001 C CNN
+	1    11450 9350
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x01 J?
-U 1 1 5ECFC6FD
-P 14600 7900
-F 0 "J?" H 14680 7942 50  0000 L CNN
-F 1 "BreakawayTabs" H 14680 7851 50  0000 L CNN
-F 2 "random-keyboard-parts:breakaway-mousebites" H 14600 7900 50  0001 C CNN
-F 3 "~" H 14600 7900 50  0001 C CNN
-	1    14600 7900
+L Mechanical:MountingHole H1
+U 1 1 5EAF6EE2
+P 11450 9050
+F 0 "H1" H 11550 9096 50  0000 L CNN
+F 1 "MountingHole" H 11550 9005 50  0000 L CNN
+F 2 "mounting_hole:mounting" H 11450 9050 50  0001 C CNN
+F 3 "~" H 11450 9050 50  0001 C CNN
+	1    11450 9050
 	1    0    0    -1  
 $EndComp
-$Comp
-L Connector_Generic:Conn_01x01 J?
-U 1 1 5EDE9C4A
-P 14600 7700
-F 0 "J?" H 14680 7742 50  0000 L CNN
-F 1 "BreakawayTabs" H 14680 7651 50  0000 L CNN
-F 2 "random-keyboard-parts:breakaway-mousebites" H 14600 7700 50  0001 C CNN
-F 3 "~" H 14600 7700 50  0001 C CNN
-	1    14600 7700
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector_Generic:Conn_01x01 J?
-U 1 1 5EED7E1C
-P 14600 7500
-F 0 "J?" H 14680 7542 50  0000 L CNN
-F 1 "BreakawayTabs" H 14680 7451 50  0000 L CNN
-F 2 "random-keyboard-parts:breakaway-mousebites" H 14600 7500 50  0001 C CNN
-F 3 "~" H 14600 7500 50  0001 C CNN
-	1    14600 7500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector_Generic:Conn_01x01 J?
-U 1 1 5EFC526A
-P 14600 7300
-F 0 "J?" H 14680 7342 50  0000 L CNN
-F 1 "BreakawayTabs" H 14680 7251 50  0000 L CNN
-F 2 "random-keyboard-parts:breakaway-mousebites" H 14600 7300 50  0001 C CNN
-F 3 "~" H 14600 7300 50  0001 C CNN
-	1    14600 7300
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector_Generic:Conn_01x01 J?
-U 1 1 5F0C042D
-P 16400 8300
-F 0 "J?" H 16480 8342 50  0000 L CNN
-F 1 "BreakawayTabs" H 16480 8251 50  0000 L CNN
-F 2 "random-keyboard-parts:breakaway-mousebites" H 16400 8300 50  0001 C CNN
-F 3 "~" H 16400 8300 50  0001 C CNN
-	1    16400 8300
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector_Generic:Conn_01x01 J?
-U 1 1 5F0C0433
-P 16400 8100
-F 0 "J?" H 16480 8142 50  0000 L CNN
-F 1 "BreakawayTabs" H 16480 8051 50  0000 L CNN
-F 2 "random-keyboard-parts:breakaway-mousebites" H 16400 8100 50  0001 C CNN
-F 3 "~" H 16400 8100 50  0001 C CNN
-	1    16400 8100
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector_Generic:Conn_01x01 J?
-U 1 1 5F0C0439
-P 16400 7900
-F 0 "J?" H 16480 7942 50  0000 L CNN
-F 1 "BreakawayTabs" H 16480 7851 50  0000 L CNN
-F 2 "random-keyboard-parts:breakaway-mousebites" H 16400 7900 50  0001 C CNN
-F 3 "~" H 16400 7900 50  0001 C CNN
-	1    16400 7900
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector_Generic:Conn_01x01 J?
-U 1 1 5F0C043F
-P 16400 7700
-F 0 "J?" H 16480 7742 50  0000 L CNN
-F 1 "BreakawayTabs" H 16480 7651 50  0000 L CNN
-F 2 "random-keyboard-parts:breakaway-mousebites" H 16400 7700 50  0001 C CNN
-F 3 "~" H 16400 7700 50  0001 C CNN
-	1    16400 7700
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector_Generic:Conn_01x01 J?
-U 1 1 5F0C0445
-P 16400 7500
-F 0 "J?" H 16480 7542 50  0000 L CNN
-F 1 "BreakawayTabs" H 16480 7451 50  0000 L CNN
-F 2 "random-keyboard-parts:breakaway-mousebites" H 16400 7500 50  0001 C CNN
-F 3 "~" H 16400 7500 50  0001 C CNN
-	1    16400 7500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector_Generic:Conn_01x01 J?
-U 1 1 5F0C044B
-P 16400 7300
-F 0 "J?" H 16480 7342 50  0000 L CNN
-F 1 "BreakawayTabs" H 16480 7251 50  0000 L CNN
-F 2 "random-keyboard-parts:breakaway-mousebites" H 16400 7300 50  0001 C CNN
-F 3 "~" H 16400 7300 50  0001 C CNN
-	1    16400 7300
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector_Generic:Conn_01x01 J?
-U 1 1 5F1ADB5C
-P 16400 7100
-F 0 "J?" H 16480 7142 50  0000 L CNN
-F 1 "BreakawayTabs" H 16480 7051 50  0000 L CNN
-F 2 "random-keyboard-parts:breakaway-mousebites" H 16400 7100 50  0001 C CNN
-F 3 "~" H 16400 7100 50  0001 C CNN
-	1    16400 7100
-	1    0    0    -1  
-$EndComp
+Wire Notes Line
+	12150 8500 16050 8500
+Wire Notes Line
+	12150 8850 10000 8850
+Wire Notes Line
+	10000 8850 10000 11200
+Wire Notes Line
+	6000 7500 6000 8500
+Wire Notes Line
+	6000 8500 500  8500
+Wire Notes Line
+	6000 7500 12150 7500
+Text Notes 10050 9050 0    100  ~ 0
+Extra Hardware
 $EndSCHEMATC
