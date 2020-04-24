@@ -1583,177 +1583,177 @@ $EndComp
 $Comp
 L Device:D_Small D83
 U 1 1 5F4C511B
-P 10850 1700
-F 0 "D83" H 10900 1900 50  0000 R CNN
-F 1 "SOD-123" H 11000 1800 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 10850 1700 50  0001 C CNN
-F 3 "~" V 10850 1700 50  0001 C CNN
-	1    10850 1700
+P 10850 1800
+F 0 "D83" H 10900 2000 50  0000 R CNN
+F 1 "SOD-123" H 11000 1900 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 10850 1800 50  0001 C CNN
+F 3 "~" V 10850 1800 50  0001 C CNN
+	1    10850 1800
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D84
 U 1 1 5F4D0FB3
-P 10850 2600
-F 0 "D84" H 10900 2800 50  0000 R CNN
-F 1 "SOD-123" H 11000 2700 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 10850 2600 50  0001 C CNN
-F 3 "~" V 10850 2600 50  0001 C CNN
-	1    10850 2600
+P 10850 2700
+F 0 "D84" H 10900 2900 50  0000 R CNN
+F 1 "SOD-123" H 11000 2800 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 10850 2700 50  0001 C CNN
+F 3 "~" V 10850 2700 50  0001 C CNN
+	1    10850 2700
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D77
 U 1 1 5F4DCEDC
-P 9550 2600
-F 0 "D77" H 9600 2800 50  0000 R CNN
-F 1 "SOD-123" H 9700 2700 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 9550 2600 50  0001 C CNN
-F 3 "~" V 9550 2600 50  0001 C CNN
-	1    9550 2600
+P 9550 2700
+F 0 "D77" H 9600 2900 50  0000 R CNN
+F 1 "SOD-123" H 9700 2800 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 9550 2700 50  0001 C CNN
+F 3 "~" V 9550 2700 50  0001 C CNN
+	1    9550 2700
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D72
 U 1 1 5F4E8DEC
-P 8900 2700
-F 0 "D72" H 8950 2900 50  0000 R CNN
-F 1 "SOD-123" H 9050 2800 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 8900 2700 50  0001 C CNN
-F 3 "~" V 8900 2700 50  0001 C CNN
-	1    8900 2700
+P 8900 2600
+F 0 "D72" H 8950 2800 50  0000 R CNN
+F 1 "SOD-123" H 9050 2700 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 8900 2600 50  0001 C CNN
+F 3 "~" V 8900 2600 50  0001 C CNN
+	1    8900 2600
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D66
 U 1 1 5F4F4D01
-P 8250 2600
-F 0 "D66" H 8300 2800 50  0000 R CNN
-F 1 "SOD-123" H 8400 2700 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 8250 2600 50  0001 C CNN
-F 3 "~" V 8250 2600 50  0001 C CNN
-	1    8250 2600
+P 8250 2700
+F 0 "D66" H 8300 2900 50  0000 R CNN
+F 1 "SOD-123" H 8400 2800 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 8250 2700 50  0001 C CNN
+F 3 "~" V 8250 2700 50  0001 C CNN
+	1    8250 2700
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D60
 U 1 1 5F500D01
-P 7600 2700
-F 0 "D60" H 7650 2900 50  0000 R CNN
-F 1 "SOD-123" H 7750 2800 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 7600 2700 50  0001 C CNN
-F 3 "~" V 7600 2700 50  0001 C CNN
-	1    7600 2700
+P 7600 2600
+F 0 "D60" H 7650 2800 50  0000 R CNN
+F 1 "SOD-123" H 7750 2700 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 7600 2600 50  0001 C CNN
+F 3 "~" V 7600 2600 50  0001 C CNN
+	1    7600 2600
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D54
 U 1 1 5F50CAEF
-P 6950 2600
-F 0 "D54" H 7000 2800 50  0000 R CNN
-F 1 "SOD-123" H 7100 2700 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 6950 2600 50  0001 C CNN
-F 3 "~" V 6950 2600 50  0001 C CNN
-	1    6950 2600
+P 6950 2700
+F 0 "D54" H 7000 2900 50  0000 R CNN
+F 1 "SOD-123" H 7100 2800 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 6950 2700 50  0001 C CNN
+F 3 "~" V 6950 2700 50  0001 C CNN
+	1    6950 2700
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D48
 U 1 1 5F5189C3
-P 6300 2700
-F 0 "D48" H 6350 2900 50  0000 R CNN
-F 1 "SOD-123" H 6450 2800 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 6300 2700 50  0001 C CNN
-F 3 "~" V 6300 2700 50  0001 C CNN
-	1    6300 2700
+P 6300 2600
+F 0 "D48" H 6350 2800 50  0000 R CNN
+F 1 "SOD-123" H 6450 2700 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 6300 2600 50  0001 C CNN
+F 3 "~" V 6300 2600 50  0001 C CNN
+	1    6300 2600
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D43
 U 1 1 5F524A3B
-P 5650 2600
-F 0 "D43" H 5700 2800 50  0000 R CNN
-F 1 "SOD-123" H 5800 2700 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 5650 2600 50  0001 C CNN
-F 3 "~" V 5650 2600 50  0001 C CNN
-	1    5650 2600
+P 5650 2700
+F 0 "D43" H 5700 2900 50  0000 R CNN
+F 1 "SOD-123" H 5800 2800 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 5650 2700 50  0001 C CNN
+F 3 "~" V 5650 2700 50  0001 C CNN
+	1    5650 2700
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D37
 U 1 1 5F5308C9
-P 5000 2700
-F 0 "D37" H 5050 2900 50  0000 R CNN
-F 1 "SOD-123" H 5150 2800 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 5000 2700 50  0001 C CNN
-F 3 "~" V 5000 2700 50  0001 C CNN
-	1    5000 2700
+P 5000 2600
+F 0 "D37" H 5050 2800 50  0000 R CNN
+F 1 "SOD-123" H 5150 2700 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 5000 2600 50  0001 C CNN
+F 3 "~" V 5000 2600 50  0001 C CNN
+	1    5000 2600
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D32
 U 1 1 5F53CA59
-P 4350 2600
-F 0 "D32" H 4400 2800 50  0000 R CNN
-F 1 "SOD-123" H 4500 2700 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 4350 2600 50  0001 C CNN
-F 3 "~" V 4350 2600 50  0001 C CNN
-	1    4350 2600
+P 4350 2700
+F 0 "D32" H 4400 2900 50  0000 R CNN
+F 1 "SOD-123" H 4500 2800 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 4350 2700 50  0001 C CNN
+F 3 "~" V 4350 2700 50  0001 C CNN
+	1    4350 2700
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D26
 U 1 1 5F54889C
-P 3700 2700
-F 0 "D26" H 3750 2900 50  0000 R CNN
-F 1 "SOD-123" H 3850 2800 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 3700 2700 50  0001 C CNN
-F 3 "~" V 3700 2700 50  0001 C CNN
-	1    3700 2700
+P 3700 2600
+F 0 "D26" H 3750 2800 50  0000 R CNN
+F 1 "SOD-123" H 3850 2700 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 3700 2600 50  0001 C CNN
+F 3 "~" V 3700 2600 50  0001 C CNN
+	1    3700 2600
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D21
 U 1 1 5F554987
-P 3050 2600
-F 0 "D21" H 3100 2800 50  0000 R CNN
-F 1 "SOD-123" H 3200 2700 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 3050 2600 50  0001 C CNN
-F 3 "~" V 3050 2600 50  0001 C CNN
-	1    3050 2600
+P 3050 2700
+F 0 "D21" H 3100 2900 50  0000 R CNN
+F 1 "SOD-123" H 3200 2800 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 3050 2700 50  0001 C CNN
+F 3 "~" V 3050 2700 50  0001 C CNN
+	1    3050 2700
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D15
 U 1 1 5F560752
-P 2400 2700
-F 0 "D15" H 2450 2900 50  0000 R CNN
-F 1 "SOD-123" H 2550 2800 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 2400 2700 50  0001 C CNN
-F 3 "~" V 2400 2700 50  0001 C CNN
-	1    2400 2700
+P 2400 2600
+F 0 "D15" H 2450 2800 50  0000 R CNN
+F 1 "SOD-123" H 2550 2700 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 2400 2600 50  0001 C CNN
+F 3 "~" V 2400 2600 50  0001 C CNN
+	1    2400 2600
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D9
 U 1 1 5F56C5F4
-P 1750 2600
-F 0 "D9" H 1800 2800 50  0000 R CNN
-F 1 "SOD-123" H 1900 2700 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 1750 2600 50  0001 C CNN
-F 3 "~" V 1750 2600 50  0001 C CNN
-	1    1750 2600
+P 1750 2700
+F 0 "D9" H 1800 2900 50  0000 R CNN
+F 1 "SOD-123" H 1900 2800 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 1750 2700 50  0001 C CNN
+F 3 "~" V 1750 2700 50  0001 C CNN
+	1    1750 2700
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D3
 U 1 1 5F5786A8
-P 1100 2700
-F 0 "D3" H 1150 2900 50  0000 R CNN
-F 1 "SOD-123" H 1250 2800 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 1100 2700 50  0001 C CNN
-F 3 "~" V 1100 2700 50  0001 C CNN
-	1    1100 2700
+P 1100 2600
+F 0 "D3" H 1150 2800 50  0000 R CNN
+F 1 "SOD-123" H 1250 2700 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 1100 2600 50  0001 C CNN
+F 3 "~" V 1100 2600 50  0001 C CNN
+	1    1100 2600
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -1913,155 +1913,155 @@ $EndComp
 $Comp
 L Device:D_Small D85
 U 1 1 5F638BB1
-P 10850 3500
-F 0 "D85" H 10900 3700 50  0000 R CNN
-F 1 "SOD-123" H 11000 3600 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 10850 3500 50  0001 C CNN
-F 3 "~" V 10850 3500 50  0001 C CNN
-	1    10850 3500
+P 10850 3600
+F 0 "D85" H 10900 3800 50  0000 R CNN
+F 1 "SOD-123" H 11000 3700 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 10850 3600 50  0001 C CNN
+F 3 "~" V 10850 3600 50  0001 C CNN
+	1    10850 3600
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D89
 U 1 1 5F644CBA
-P 10850 4400
-F 0 "D89" H 10900 4600 50  0000 R CNN
-F 1 "SOD-123" H 11000 4500 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 10850 4400 50  0001 C CNN
-F 3 "~" V 10850 4400 50  0001 C CNN
-	1    10850 4400
+P 10850 4500
+F 0 "D89" H 10900 4700 50  0000 R CNN
+F 1 "SOD-123" H 11000 4600 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 10850 4500 50  0001 C CNN
+F 3 "~" V 10850 4500 50  0001 C CNN
+	1    10850 4500
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D68
 U 1 1 5F65CCC9
-P 8250 4400
-F 0 "D68" H 8300 4600 50  0000 R CNN
-F 1 "SOD-123" H 8400 4500 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 8250 4400 50  0001 C CNN
-F 3 "~" V 8250 4400 50  0001 C CNN
-	1    8250 4400
+P 8250 4500
+F 0 "D68" H 8300 4700 50  0000 R CNN
+F 1 "SOD-123" H 8400 4600 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 8250 4500 50  0001 C CNN
+F 3 "~" V 8250 4500 50  0001 C CNN
+	1    8250 4500
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D62
 U 1 1 5F668CCE
-P 7600 4500
-F 0 "D62" H 7650 4700 50  0000 R CNN
-F 1 "SOD-123" H 7750 4600 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 7600 4500 50  0001 C CNN
-F 3 "~" V 7600 4500 50  0001 C CNN
-	1    7600 4500
+P 7600 4400
+F 0 "D62" H 7650 4600 50  0000 R CNN
+F 1 "SOD-123" H 7750 4500 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 7600 4400 50  0001 C CNN
+F 3 "~" V 7600 4400 50  0001 C CNN
+	1    7600 4400
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D56
 U 1 1 5F674BFC
-P 6950 4400
-F 0 "D56" H 7000 4600 50  0000 R CNN
-F 1 "SOD-123" H 7100 4500 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 6950 4400 50  0001 C CNN
-F 3 "~" V 6950 4400 50  0001 C CNN
-	1    6950 4400
+P 6950 4500
+F 0 "D56" H 7000 4700 50  0000 R CNN
+F 1 "SOD-123" H 7100 4600 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 6950 4500 50  0001 C CNN
+F 3 "~" V 6950 4500 50  0001 C CNN
+	1    6950 4500
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D50
 U 1 1 5F680ABC
-P 6300 4500
-F 0 "D50" H 6350 4700 50  0000 R CNN
-F 1 "SOD-123" H 6450 4600 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 6300 4500 50  0001 C CNN
-F 3 "~" V 6300 4500 50  0001 C CNN
-	1    6300 4500
+P 6300 4400
+F 0 "D50" H 6350 4600 50  0000 R CNN
+F 1 "SOD-123" H 6450 4500 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 6300 4400 50  0001 C CNN
+F 3 "~" V 6300 4400 50  0001 C CNN
+	1    6300 4400
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D45
 U 1 1 5F68C940
-P 5650 4400
-F 0 "D45" H 5700 4600 50  0000 R CNN
-F 1 "SOD-123" H 5800 4500 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 5650 4400 50  0001 C CNN
-F 3 "~" V 5650 4400 50  0001 C CNN
-	1    5650 4400
+P 5650 4500
+F 0 "D45" H 5700 4700 50  0000 R CNN
+F 1 "SOD-123" H 5800 4600 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 5650 4500 50  0001 C CNN
+F 3 "~" V 5650 4500 50  0001 C CNN
+	1    5650 4500
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D39
 U 1 1 5F6985C1
-P 5000 4500
-F 0 "D39" H 5050 4700 50  0000 R CNN
-F 1 "SOD-123" H 5150 4600 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 5000 4500 50  0001 C CNN
-F 3 "~" V 5000 4500 50  0001 C CNN
-	1    5000 4500
+P 5000 4400
+F 0 "D39" H 5050 4600 50  0000 R CNN
+F 1 "SOD-123" H 5150 4500 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 5000 4400 50  0001 C CNN
+F 3 "~" V 5000 4400 50  0001 C CNN
+	1    5000 4400
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D34
 U 1 1 5F6A42DD
-P 4350 4400
-F 0 "D34" H 4400 4600 50  0000 R CNN
-F 1 "SOD-123" H 4500 4500 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 4350 4400 50  0001 C CNN
-F 3 "~" V 4350 4400 50  0001 C CNN
-	1    4350 4400
+P 4350 4500
+F 0 "D34" H 4400 4700 50  0000 R CNN
+F 1 "SOD-123" H 4500 4600 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 4350 4500 50  0001 C CNN
+F 3 "~" V 4350 4500 50  0001 C CNN
+	1    4350 4500
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D28
 U 1 1 5F6AFFF9
-P 3700 4500
-F 0 "D28" H 3750 4700 50  0000 R CNN
-F 1 "SOD-123" H 3850 4600 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 3700 4500 50  0001 C CNN
-F 3 "~" V 3700 4500 50  0001 C CNN
-	1    3700 4500
+P 3700 4400
+F 0 "D28" H 3750 4600 50  0000 R CNN
+F 1 "SOD-123" H 3850 4500 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 3700 4400 50  0001 C CNN
+F 3 "~" V 3700 4400 50  0001 C CNN
+	1    3700 4400
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D23
 U 1 1 5F6BBB30
-P 3050 4400
-F 0 "D23" H 3100 4600 50  0000 R CNN
-F 1 "SOD-123" H 3200 4500 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 3050 4400 50  0001 C CNN
-F 3 "~" V 3050 4400 50  0001 C CNN
-	1    3050 4400
+P 3050 4500
+F 0 "D23" H 3100 4700 50  0000 R CNN
+F 1 "SOD-123" H 3200 4600 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 3050 4500 50  0001 C CNN
+F 3 "~" V 3050 4500 50  0001 C CNN
+	1    3050 4500
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D17
 U 1 1 5F6C7A1D
-P 2400 4500
-F 0 "D17" H 2450 4700 50  0000 R CNN
-F 1 "SOD-123" H 2550 4600 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 2400 4500 50  0001 C CNN
-F 3 "~" V 2400 4500 50  0001 C CNN
-	1    2400 4500
+P 2400 4400
+F 0 "D17" H 2450 4600 50  0000 R CNN
+F 1 "SOD-123" H 2550 4500 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 2400 4400 50  0001 C CNN
+F 3 "~" V 2400 4400 50  0001 C CNN
+	1    2400 4400
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D11
 U 1 1 5F6D3919
-P 1750 4400
-F 0 "D11" H 1800 4600 50  0000 R CNN
-F 1 "SOD-123" H 1900 4500 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 1750 4400 50  0001 C CNN
-F 3 "~" V 1750 4400 50  0001 C CNN
-	1    1750 4400
+P 1750 4500
+F 0 "D11" H 1800 4700 50  0000 R CNN
+F 1 "SOD-123" H 1900 4600 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 1750 4500 50  0001 C CNN
+F 3 "~" V 1750 4500 50  0001 C CNN
+	1    1750 4500
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D5
 U 1 1 5F6DFB85
-P 1100 4500
-F 0 "D5" H 1150 4700 50  0000 R CNN
-F 1 "SOD-123" H 1250 4600 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 1100 4500 50  0001 C CNN
-F 3 "~" V 1100 4500 50  0001 C CNN
-	1    1100 4500
+P 1100 4400
+F 0 "D5" H 1150 4600 50  0000 R CNN
+F 1 "SOD-123" H 1250 4500 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 1100 4400 50  0001 C CNN
+F 3 "~" V 1100 4400 50  0001 C CNN
+	1    1100 4400
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -2199,45 +2199,45 @@ $EndComp
 $Comp
 L Device:D_Small D81
 U 1 1 5F77ACB7
-P 10200 5400
-F 0 "D81" H 10250 5600 50  0000 R CNN
-F 1 "SOD-123" H 10350 5500 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 10200 5400 50  0001 C CNN
-F 3 "~" V 10200 5400 50  0001 C CNN
-	1    10200 5400
+P 10200 5300
+F 0 "D81" H 10250 5500 50  0000 R CNN
+F 1 "SOD-123" H 10350 5400 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 10200 5300 50  0001 C CNN
+F 3 "~" V 10200 5300 50  0001 C CNN
+	1    10200 5300
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D90
 U 1 1 5F786A55
-P 10850 5300
-F 0 "D90" H 10900 5500 50  0000 R CNN
-F 1 "SOD-123" H 11000 5400 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 10850 5300 50  0001 C CNN
-F 3 "~" V 10850 5300 50  0001 C CNN
-	1    10850 5300
+P 10850 5400
+F 0 "D90" H 10900 5600 50  0000 R CNN
+F 1 "SOD-123" H 11000 5500 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 10850 5400 50  0001 C CNN
+F 3 "~" V 10850 5400 50  0001 C CNN
+	1    10850 5400
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D91
 U 1 1 5F792B1D
-P 10850 6200
-F 0 "D91" H 10900 6400 50  0000 R CNN
-F 1 "SOD-123" H 11000 6300 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 10850 6200 50  0001 C CNN
-F 3 "~" V 10850 6200 50  0001 C CNN
-	1    10850 6200
+P 10850 6300
+F 0 "D91" H 10900 6500 50  0000 R CNN
+F 1 "SOD-123" H 11000 6400 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 10850 6300 50  0001 C CNN
+F 3 "~" V 10850 6300 50  0001 C CNN
+	1    10850 6300
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D82
 U 1 1 5F79E997
-P 10200 6300
-F 0 "D82" H 10250 6500 50  0000 R CNN
-F 1 "SOD-123" H 10350 6400 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 10200 6300 50  0001 C CNN
-F 3 "~" V 10200 6300 50  0001 C CNN
-	1    10200 6300
+P 10200 6200
+F 0 "D82" H 10250 6400 50  0000 R CNN
+F 1 "SOD-123" H 10350 6300 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 10200 6200 50  0001 C CNN
+F 3 "~" V 10200 6200 50  0001 C CNN
+	1    10200 6200
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -2287,56 +2287,56 @@ $EndComp
 $Comp
 L Device:D_Small D41
 U 1 1 5F7D9FDD
-P 5000 6300
-F 0 "D41" H 5050 6500 50  0000 R CNN
-F 1 "SOD-123" H 5150 6400 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 5000 6300 50  0001 C CNN
-F 3 "~" V 5000 6300 50  0001 C CNN
-	1    5000 6300
+P 5000 6200
+F 0 "D41" H 5050 6400 50  0000 R CNN
+F 1 "SOD-123" H 5150 6300 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 5000 6200 50  0001 C CNN
+F 3 "~" V 5000 6200 50  0001 C CNN
+	1    5000 6200
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D19
 U 1 1 5F7E5EA2
-P 2400 6300
-F 0 "D19" H 2450 6500 50  0000 R CNN
-F 1 "SOD-123" H 2550 6400 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 2400 6300 50  0001 C CNN
-F 3 "~" V 2400 6300 50  0001 C CNN
-	1    2400 6300
+P 2400 6200
+F 0 "D19" H 2450 6400 50  0000 R CNN
+F 1 "SOD-123" H 2550 6300 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 2400 6200 50  0001 C CNN
+F 3 "~" V 2400 6200 50  0001 C CNN
+	1    2400 6200
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D13
 U 1 1 5F7F1B1E
-P 1750 6200
-F 0 "D13" H 1800 6400 50  0000 R CNN
-F 1 "SOD-123" H 1900 6300 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 1750 6200 50  0001 C CNN
-F 3 "~" V 1750 6200 50  0001 C CNN
-	1    1750 6200
+P 1750 6300
+F 0 "D13" H 1800 6500 50  0000 R CNN
+F 1 "SOD-123" H 1900 6400 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 1750 6300 50  0001 C CNN
+F 3 "~" V 1750 6300 50  0001 C CNN
+	1    1750 6300
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D7
 U 1 1 5F7FD9C0
-P 1100 6300
-F 0 "D7" H 1150 6500 50  0000 R CNN
-F 1 "SOD-123" H 1250 6400 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 1100 6300 50  0001 C CNN
-F 3 "~" V 1100 6300 50  0001 C CNN
-	1    1100 6300
+P 1100 6200
+F 0 "D7" H 1150 6400 50  0000 R CNN
+F 1 "SOD-123" H 1250 6300 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 1100 6200 50  0001 C CNN
+F 3 "~" V 1100 6200 50  0001 C CNN
+	1    1100 6200
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D79
 U 1 1 5F8F5811
-P 10200 2700
-F 0 "D79" H 10250 2900 50  0000 R CNN
-F 1 "SOD-123" H 10350 2800 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 10200 2700 50  0001 C CNN
-F 3 "~" V 10200 2700 50  0001 C CNN
-	1    10200 2700
+P 10200 2600
+F 0 "D79" H 10250 2800 50  0000 R CNN
+F 1 "SOD-123" H 10350 2700 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 10200 2600 50  0001 C CNN
+F 3 "~" V 10200 2600 50  0001 C CNN
+	1    10200 2600
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -3459,7 +3459,7 @@ LEDIND2
 Text GLabel 13450 4450 2    50   Input ~ 0
 LEDIND1
 Text GLabel 13450 4350 2    50   Input ~ 0
-ROW0
+ROW1
 $Comp
 L power:GND #PWR0118
 U 1 1 5F5FB4A7
@@ -4025,14 +4025,6 @@ F 3 "" H 125 5025 60  0001 C CNN
 	1    750  5050
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	10850 1800 11350 1800
-Wire Wire Line
-	10850 1800 8900 1800
-Connection ~ 10850 1800
-Connection ~ 2400 1800
-Wire Wire Line
-	2400 1800 1100 1800
 Connection ~ 3700 1800
 Wire Wire Line
 	3700 1800 2400 1800
@@ -4048,34 +4040,6 @@ Wire Wire Line
 Connection ~ 8900 1800
 Wire Wire Line
 	8900 1800 7600 1800
-Wire Wire Line
-	10850 2700 11350 2700
-Wire Wire Line
-	10850 2700 9550 2700
-Connection ~ 10850 2700
-Connection ~ 3050 2700
-Wire Wire Line
-	3050 2700 1750 2700
-Connection ~ 4350 2700
-Wire Wire Line
-	4350 2700 3050 2700
-Connection ~ 5650 2700
-Wire Wire Line
-	5650 2700 4350 2700
-Connection ~ 6950 2700
-Wire Wire Line
-	6950 2700 5650 2700
-Connection ~ 8250 2700
-Wire Wire Line
-	8250 2700 6950 2700
-Connection ~ 9550 2700
-Wire Wire Line
-	9550 2700 8250 2700
-Wire Wire Line
-	10850 3600 11350 3600
-Wire Wire Line
-	10850 3600 8900 3600
-Connection ~ 10850 3600
 Connection ~ 2400 3600
 Wire Wire Line
 	2400 3600 1100 3600
@@ -4094,31 +4058,6 @@ Wire Wire Line
 Connection ~ 8900 3600
 Wire Wire Line
 	8900 3600 7600 3600
-Wire Wire Line
-	10850 4500 11350 4500
-Wire Wire Line
-	10850 4500 8250 4500
-Connection ~ 10850 4500
-Connection ~ 3050 4500
-Wire Wire Line
-	3050 4500 1750 4500
-Connection ~ 4350 4500
-Wire Wire Line
-	4350 4500 3050 4500
-Connection ~ 5650 4500
-Wire Wire Line
-	5650 4500 4350 4500
-Connection ~ 6950 4500
-Wire Wire Line
-	6950 4500 5650 4500
-Connection ~ 8250 4500
-Wire Wire Line
-	8250 4500 6950 4500
-Wire Wire Line
-	10850 5400 11350 5400
-Wire Wire Line
-	10850 5400 8900 5400
-Connection ~ 10850 5400
 Connection ~ 2400 5400
 Wire Wire Line
 	2400 5400 1100 5400
@@ -4137,17 +4076,9 @@ Wire Wire Line
 Connection ~ 8900 5400
 Wire Wire Line
 	8900 5400 7600 5400
-Wire Wire Line
-	10850 6300 11350 6300
-Wire Wire Line
-	10850 6300 8900 6300
-Connection ~ 10850 6300
-Connection ~ 3700 6300
-Wire Wire Line
-	3700 6300 1750 6300
 Connection ~ 6300 6300
 Wire Wire Line
-	6300 6300 3700 6300
+	6300 6300 5000 6300
 Connection ~ 7600 6300
 Wire Wire Line
 	7600 6300 6300 6300
@@ -4345,15 +4276,10 @@ Wire Wire Line
 Wire Wire Line
 	1200 3400 1100 3400
 Wire Wire Line
-	1200 4300 1100 4300
-Wire Wire Line
 	1250 4250 1300 4250
 Wire Wire Line
 	1250 4250 750  4250
 Connection ~ 1250 4250
-Wire Wire Line
-	700  4300 1100 4300
-Connection ~ 1100 4300
 Wire Wire Line
 	1400 4100 900  4100
 Wire Wire Line
@@ -4477,8 +4403,6 @@ Wire Wire Line
 Wire Wire Line
 	1950 6050 1900 6050
 Wire Wire Line
-	2500 6100 2400 6100
-Wire Wire Line
 	2550 6050 2600 6050
 Wire Wire Line
 	3800 6100 3700 6100
@@ -4528,7 +4452,6 @@ Connection ~ 1900 6050
 Wire Wire Line
 	1850 7000 1850 6100
 Connection ~ 1850 6100
-Connection ~ 2500 6100
 Connection ~ 2550 6050
 Wire Wire Line
 	5150 6950 5150 6050
@@ -4619,7 +4542,7 @@ Wire Wire Line
 Wire Wire Line
 	9550 1600 9550 1700
 Wire Wire Line
-	11350 1900 9550 1900
+	11350 1900 10850 1900
 Connection ~ 3050 1900
 Wire Wire Line
 	3050 1900 1750 1900
@@ -4638,45 +4561,6 @@ Wire Wire Line
 Connection ~ 9550 1900
 Wire Wire Line
 	9550 1900 8250 1900
-Wire Wire Line
-	1100 2500 1100 2600
-Wire Wire Line
-	10200 2500 10200 2600
-Wire Wire Line
-	8900 2500 8900 2600
-Wire Wire Line
-	7600 2500 7600 2600
-Wire Wire Line
-	6300 2500 6300 2600
-Wire Wire Line
-	5000 2500 5000 2600
-Wire Wire Line
-	3700 2500 3700 2600
-Wire Wire Line
-	2400 2500 2400 2600
-Wire Wire Line
-	1100 2800 2400 2800
-Connection ~ 2400 2800
-Wire Wire Line
-	2400 2800 3700 2800
-Connection ~ 3700 2800
-Wire Wire Line
-	3700 2800 5000 2800
-Connection ~ 5000 2800
-Wire Wire Line
-	5000 2800 6300 2800
-Connection ~ 6300 2800
-Wire Wire Line
-	6300 2800 7600 2800
-Connection ~ 7600 2800
-Wire Wire Line
-	7600 2800 8900 2800
-Connection ~ 8900 2800
-Wire Wire Line
-	8900 2800 10200 2800
-Connection ~ 10200 2800
-Wire Wire Line
-	10200 2800 11350 2800
 Text GLabel 11350 2700 2    50   Input ~ 0
 ROW2
 Text GLabel 11350 2800 2    50   Input ~ 0
@@ -4696,7 +4580,7 @@ Wire Wire Line
 Wire Wire Line
 	9550 3400 9550 3500
 Wire Wire Line
-	9550 3700 11350 3700
+	9550 3700 10850 3700
 Wire Wire Line
 	9550 3700 8250 3700
 Connection ~ 9550 3700
@@ -4719,33 +4603,6 @@ Text GLabel 11350 3600 2    50   Input ~ 0
 ROW4
 Text GLabel 11350 3700 2    50   Input ~ 0
 ROW5
-Wire Wire Line
-	1100 4300 1100 4400
-Wire Wire Line
-	2400 4300 2400 4400
-Wire Wire Line
-	3700 4300 3700 4400
-Wire Wire Line
-	5000 4300 5000 4400
-Wire Wire Line
-	6300 4300 6300 4400
-Wire Wire Line
-	7600 4300 7600 4400
-Connection ~ 2400 4600
-Wire Wire Line
-	2400 4600 1100 4600
-Connection ~ 3700 4600
-Wire Wire Line
-	3700 4600 2400 4600
-Connection ~ 5000 4600
-Wire Wire Line
-	5000 4600 3700 4600
-Connection ~ 6300 4600
-Wire Wire Line
-	6300 4600 5000 4600
-Connection ~ 7600 4600
-Wire Wire Line
-	7600 4600 6300 4600
 Text GLabel 11350 4500 2    50   Input ~ 0
 ROW6
 Text GLabel 11350 4600 2    50   Input ~ 0
@@ -4762,13 +4619,6 @@ Wire Wire Line
 	6950 5200 6950 5300
 Wire Wire Line
 	8250 5200 8250 5300
-Wire Wire Line
-	10200 5200 10200 5300
-Wire Wire Line
-	10200 5500 11350 5500
-Wire Wire Line
-	10200 5500 8250 5500
-Connection ~ 10200 5500
 Connection ~ 3050 5500
 Wire Wire Line
 	3050 5500 1750 5500
@@ -4789,34 +4639,13 @@ ROW8
 Text GLabel 11350 5500 2    50   Input ~ 0
 ROW9
 Wire Wire Line
-	10200 6100 10200 6200
-Wire Wire Line
 	8250 6100 8250 6200
 Wire Wire Line
 	6950 6100 6950 6200
-Wire Wire Line
-	5000 6100 5000 6200
-Wire Wire Line
-	2400 6100 2400 6200
-Wire Wire Line
-	1100 6100 1100 6200
-Wire Wire Line
-	1100 6400 2400 6400
-Connection ~ 2400 6400
-Wire Wire Line
-	2400 6400 5000 6400
-Connection ~ 5000 6400
-Wire Wire Line
-	5000 6400 6950 6400
 Connection ~ 6950 6400
 Wire Wire Line
 	6950 6400 8250 6400
 Connection ~ 8250 6400
-Wire Wire Line
-	8250 6400 10200 6400
-Connection ~ 10200 6400
-Wire Wire Line
-	10200 6400 11350 6400
 Text GLabel 11350 6300 2    50   Input ~ 0
 ROW10
 Text GLabel 11350 6400 2    50   Input ~ 0
@@ -5417,12 +5246,12 @@ Wire Wire Line
 $Comp
 L Device:D_Small D80
 U 1 1 5F650C83
-P 8900 4500
-F 0 "D80" H 8950 4700 50  0000 R CNN
-F 1 "SOD-123" H 9050 4600 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 8900 4500 50  0001 C CNN
-F 3 "~" V 8900 4500 50  0001 C CNN
-	1    8900 4500
+P 8900 4400
+F 0 "D80" H 8950 4600 50  0000 R CNN
+F 1 "SOD-123" H 9050 4500 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 8900 4400 50  0001 C CNN
+F 3 "~" V 8900 4400 50  0001 C CNN
+	1    8900 4400
 	0    -1   -1   0   
 $EndComp
 Connection ~ 9100 4450
@@ -5434,13 +5263,6 @@ Wire Wire Line
 	9050 4250 9100 4250
 Wire Wire Line
 	9000 4300 8900 4300
-Connection ~ 8900 4600
-Wire Wire Line
-	8900 4600 7600 4600
-Wire Wire Line
-	8900 4300 8900 4400
-Wire Wire Line
-	8900 4600 11350 4600
 Wire Wire Line
 	10450 2350 10450 5050
 Wire Wire Line
@@ -6140,29 +5962,29 @@ Text GLabel 15450 2800 2    50   Input ~ 0
 COL7
 Text GLabel 15450 2400 2    50   Input ~ 0
 RGBLED
-Text GLabel 15450 2500 2    50   Input ~ 0
-ROW10
 Text GLabel 15450 2600 2    50   Input ~ 0
+ROW10
+Text GLabel 15450 2500 2    50   Input ~ 0
 ROW11
-Text GLabel 15450 2700 2    50   Input ~ 0
-ROW9
 Text GLabel 15450 2900 2    50   Input ~ 0
+ROW9
+Text GLabel 15450 2700 2    50   Input ~ 0
 ROW8
-Text GLabel 15450 4000 2    50   Input ~ 0
-ROW7
 Text GLabel 15450 4100 2    50   Input ~ 0
+ROW7
+Text GLabel 15450 4000 2    50   Input ~ 0
 ROW6
 Text GLabel 15450 3900 2    50   Input ~ 0
 ROW5
 Text GLabel 15450 3800 2    50   Input ~ 0
 ROW4
-Text GLabel 15450 3700 2    50   Input ~ 0
-ROW2
 Text GLabel 15450 3600 2    50   Input ~ 0
+ROW2
+Text GLabel 15450 3700 2    50   Input ~ 0
 ROW3
-Text GLabel 15450 3400 2    50   Input ~ 0
-ROW1
 Text GLabel 15450 1500 2    50   Input ~ 0
+ROW1
+Text GLabel 15450 3400 2    50   Input ~ 0
 ROW0
 Text GLabel 15450 1400 2    50   Input ~ 0
 LEDIND1
@@ -6470,4 +6292,182 @@ Wire Wire Line
 Connection ~ 14200 6300
 Wire Wire Line
 	14200 6300 14500 6300
+Connection ~ 2400 1800
+Wire Wire Line
+	2400 1800 1100 1800
+Wire Wire Line
+	1750 2500 1750 2600
+Wire Wire Line
+	1100 2700 2400 2700
+Wire Wire Line
+	700  4300 1100 4300
+Connection ~ 1100 4300
+Wire Wire Line
+	1100 4300 1200 4300
+Wire Wire Line
+	1750 4300 1750 4400
+Wire Wire Line
+	1750 6100 1750 6200
+Wire Wire Line
+	1100 6300 2400 6300
+Connection ~ 3700 6300
+Connection ~ 2400 2700
+Wire Wire Line
+	3050 2500 3050 2600
+Wire Wire Line
+	1750 2800 3050 2800
+Connection ~ 3050 2800
+Connection ~ 3050 4600
+Wire Wire Line
+	3050 4300 3050 4400
+Wire Wire Line
+	1100 4500 2400 4500
+Connection ~ 2400 4500
+Wire Wire Line
+	2400 4500 3700 4500
+Wire Wire Line
+	1750 4600 3050 4600
+Connection ~ 2500 6100
+Wire Wire Line
+	2500 6100 2400 6100
+Connection ~ 2400 6300
+Wire Wire Line
+	2400 6300 3700 6300
+Connection ~ 4350 2800
+Wire Wire Line
+	2400 2700 3700 2700
+Connection ~ 3700 2700
+Wire Wire Line
+	3050 2800 4350 2800
+Wire Wire Line
+	4350 2500 4350 2600
+Connection ~ 3700 4500
+Connection ~ 4350 4600
+Wire Wire Line
+	4350 4300 4350 4400
+Wire Wire Line
+	3700 4500 5000 4500
+Wire Wire Line
+	3050 4600 4350 4600
+Connection ~ 5650 2800
+Wire Wire Line
+	5650 2500 5650 2600
+Wire Wire Line
+	3700 2700 5000 2700
+Connection ~ 5000 2700
+Wire Wire Line
+	5000 2700 6300 2700
+Wire Wire Line
+	4350 2800 5650 2800
+Connection ~ 5000 4500
+Connection ~ 5650 4600
+Wire Wire Line
+	5650 4300 5650 4400
+Wire Wire Line
+	5000 4500 6300 4500
+Wire Wire Line
+	4350 4600 5650 4600
+Connection ~ 5000 6300
+Wire Wire Line
+	5000 6300 3700 6300
+Wire Wire Line
+	1750 6400 6950 6400
+Connection ~ 6300 2700
+Connection ~ 6950 2800
+Wire Wire Line
+	6950 2500 6950 2600
+Wire Wire Line
+	6300 2700 7600 2700
+Wire Wire Line
+	5650 2800 6950 2800
+Connection ~ 6300 4500
+Connection ~ 6950 4600
+Wire Wire Line
+	6950 4300 6950 4400
+Wire Wire Line
+	6300 4500 7600 4500
+Wire Wire Line
+	5650 4600 6950 4600
+Connection ~ 7600 2700
+Connection ~ 8250 2800
+Wire Wire Line
+	8250 2500 8250 2600
+Wire Wire Line
+	7600 2700 8900 2700
+Wire Wire Line
+	6950 2800 8250 2800
+Connection ~ 7600 4500
+Connection ~ 8250 4600
+Wire Wire Line
+	7600 4500 8900 4500
+Wire Wire Line
+	6950 4600 8250 4600
+Wire Wire Line
+	8250 4300 8250 4400
+Connection ~ 8900 2700
+Connection ~ 9550 2800
+Wire Wire Line
+	9550 2500 9550 2600
+Wire Wire Line
+	8900 2700 10200 2700
+Wire Wire Line
+	8250 2800 9550 2800
+Connection ~ 8900 4500
+Wire Wire Line
+	8250 4600 10850 4600
+Connection ~ 10200 2700
+Connection ~ 10850 1900
+Wire Wire Line
+	10850 1900 9550 1900
+Wire Wire Line
+	10850 1600 10850 1700
+Wire Wire Line
+	8900 1800 11350 1800
+Wire Wire Line
+	9550 2800 10850 2800
+Connection ~ 10850 2800
+Wire Wire Line
+	10850 2800 11350 2800
+Wire Wire Line
+	10850 2500 10850 2600
+Wire Wire Line
+	10200 2700 11350 2700
+Connection ~ 10850 3700
+Wire Wire Line
+	10850 3700 11350 3700
+Wire Wire Line
+	10850 3400 10850 3500
+Wire Wire Line
+	8900 3600 11350 3600
+Connection ~ 10850 4600
+Wire Wire Line
+	10850 4600 11350 4600
+Wire Wire Line
+	10850 4300 10850 4400
+Wire Wire Line
+	8900 4500 11350 4500
+Connection ~ 10200 5400
+Wire Wire Line
+	10200 5400 8900 5400
+Connection ~ 10850 5500
+Wire Wire Line
+	10850 5500 11350 5500
+Wire Wire Line
+	10850 5200 10850 5300
+Wire Wire Line
+	10200 5400 11350 5400
+Wire Wire Line
+	8250 5500 10850 5500
+Connection ~ 10200 6300
+Wire Wire Line
+	10200 6300 8900 6300
+Connection ~ 10850 6400
+Wire Wire Line
+	10850 6400 11350 6400
+Wire Wire Line
+	10850 6100 10850 6200
+Wire Wire Line
+	10200 6300 11350 6300
+Wire Wire Line
+	8250 6400 10850 6400
 $EndSCHEMATC
