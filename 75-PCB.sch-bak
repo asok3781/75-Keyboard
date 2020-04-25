@@ -5966,9 +5966,9 @@ Text GLabel 15450 2600 2    50   Input ~ 0
 ROW10
 Text GLabel 15450 2500 2    50   Input ~ 0
 ROW11
-Text GLabel 15450 2700 2    50   Input ~ 0
-ROW9
 Text GLabel 15450 2900 2    50   Input ~ 0
+ROW9
+Text GLabel 15450 2700 2    50   Input ~ 0
 ROW8
 Text GLabel 15450 4100 2    50   Input ~ 0
 ROW7
@@ -6470,4 +6470,8 @@ Wire Wire Line
 	10200 6300 11350 6300
 Wire Wire Line
 	8250 6400 10850 6400
+NoConn ~ 14250 1800
+NoConn ~ 13050 5900
+NoConn ~ 13050 6500
+NoConn ~ 9000 10450
 $EndSCHEMATC

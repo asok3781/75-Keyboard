@@ -4,4 +4,5 @@
   (lib (name WS2812B)(type KiCad)(uri ${KIPRJMOD}/WS2812B.pretty)(options "")(descr ""))
   (lib (name MX_Only)(type KiCad)(uri ${KIPRJMOD}/MX_Alps_Hybrid.pretty/MX_Only.pretty)(options "")(descr ""))
   (lib (name mounting_holes)(type KiCad)(uri C:/Users/viole/OneDrive/KiCad/75-PCB/mounting_holes.pretty)(options "")(descr ""))
+  (lib (name silkscreen)(type KiCad)(uri ${KIPRJMOD}/silkscreen.pretty)(options "")(descr ""))
 )
