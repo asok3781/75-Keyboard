@@ -1,2 +1,2 @@
-# 75-PCB
-A PCB designed to fit in TX Keyboard's TX75v2 Case
+# Asok75
+A PCB designed to fit in TX Keyboard's TX75v2 
