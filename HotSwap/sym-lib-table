@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name asok75)(type Legacy)(uri C:/Users/viole/OneDrive/KiCad/asok75/asok75.pretty/asok75.lib)(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid)(type Legacy)(uri "C:/Users/viole/OneDrive/KiCad/asok75/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type Legacy)(uri "C:/Users/viole/OneDrive/KiCad/asok75/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name Type-C)(type Legacy)(uri C:/Users/viole/OneDrive/KiCad/asok75/Type-C.pretty/Type-C.lib)(options "")(descr ""))
+  (lib (name ws2812b)(type Legacy)(uri C:/Users/viole/OneDrive/KiCad/asok75/WS2812B.pretty/Schematic-Symbol/ws2812b.lib)(options "")(descr ""))
+)
