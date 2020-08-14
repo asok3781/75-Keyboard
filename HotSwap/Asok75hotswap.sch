@@ -3367,39 +3367,6 @@ F 3 "~" H 11150 9900 50  0001 C CNN
 	1    11150 9900
 	1    0    0    -1  
 $EndComp
-$Comp
-L Mechanical:MountingHole H3
-U 1 1 5EBE734B
-P 11450 9650
-F 0 "H3" H 11550 9696 50  0000 L CNN
-F 1 "MountingHole" H 11550 9605 50  0000 L CNN
-F 2 "mounting_hole:mounting" H 11450 9650 50  0001 C CNN
-F 3 "~" H 11450 9650 50  0001 C CNN
-	1    11450 9650
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H2
-U 1 1 5EAF9D7C
-P 11450 9350
-F 0 "H2" H 11550 9396 50  0000 L CNN
-F 1 "MountingHole" H 11550 9305 50  0000 L CNN
-F 2 "mounting_hole:mounting" H 11450 9350 50  0001 C CNN
-F 3 "~" H 11450 9350 50  0001 C CNN
-	1    11450 9350
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H1
-U 1 1 5EAF6EE2
-P 11450 9050
-F 0 "H1" H 11550 9096 50  0000 L CNN
-F 1 "MountingHole" H 11550 9005 50  0000 L CNN
-F 2 "mounting_hole:mounting" H 11450 9050 50  0001 C CNN
-F 3 "~" H 11450 9050 50  0001 C CNN
-	1    11450 9050
-	1    0    0    -1  
-$EndComp
 Wire Notes Line
 	12150 8500 16050 8500
 Wire Notes Line
