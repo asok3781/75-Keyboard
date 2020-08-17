@@ -221,21 +221,6 @@ F 3 "" H 15100 6750 50  0001 C CNN
 	1    15100 6750
 	1    0    0    -1  
 $EndComp
-$Comp
-L Device:D_Schottky_Small D87
-U 1 1 617B5949
-P 14050 5800
-F 0 "D87" H 14050 5595 50  0000 C CNN
-F 1 "Schottky" H 14050 5686 50  0000 C CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 14050 5800 50  0001 C CNN
-F 3 "~" V 14050 5800 50  0001 C CNN
-	1    14050 5800
-	-1   0    0    1   
-$EndComp
-Wire Wire Line
-	13800 5800 13950 5800
-Wire Wire Line
-	14150 5800 14250 5800
 Wire Wire Line
 	14250 5800 14250 5700
 $Comp
@@ -4352,4 +4337,6 @@ Wire Wire Line
 	9550 2500 9550 2600
 Wire Wire Line
 	8900 2700 10200 2700
+Wire Wire Line
+	13800 5800 14250 5800
 $EndSCHEMATC
