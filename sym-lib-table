@@ -4,4 +4,5 @@
   (lib (name Type-C)(type Legacy)(uri ${KIPRJMOD}/Type-C.pretty/Type-C.lib)(options "")(descr ""))
   (lib (name ws2812b)(type Legacy)(uri ${KIPRJMOD}/WS2812B.pretty/Schematic-Symbol/ws2812b.lib)(options "")(descr ""))
   (lib (name asok75)(type Legacy)(uri ${KIPRJMOD}/asok75.pretty/asok75.lib)(options "")(descr ""))
+  (lib (name Asok75-rescue)(type Legacy)(uri ${KIPRJMOD}/Asok75-rescue.lib)(options "")(descr ""))
 )
