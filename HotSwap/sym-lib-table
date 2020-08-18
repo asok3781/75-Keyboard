@@ -4,4 +4,5 @@
   (lib (name random-keyboard-parts)(type Legacy)(uri "C:/Users/viole/OneDrive/KiCad/asok75/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
   (lib (name Type-C)(type Legacy)(uri C:/Users/viole/OneDrive/KiCad/asok75/Type-C.pretty/Type-C.lib)(options "")(descr ""))
   (lib (name ws2812b)(type Legacy)(uri C:/Users/viole/OneDrive/KiCad/asok75/WS2812B.pretty/Schematic-Symbol/ws2812b.lib)(options "")(descr ""))
+  (lib (name Asok75hotswap-rescue)(type Legacy)(uri ${KIPRJMOD}/Asok75hotswap-rescue.lib)(options "")(descr ""))
 )
