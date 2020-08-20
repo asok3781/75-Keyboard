@@ -221,21 +221,6 @@ F 3 "" H 15100 6750 50  0001 C CNN
 	1    15100 6750
 	1    0    0    -1  
 $EndComp
-$Comp
-L Device:D_Schottky_Small D87
-U 1 1 617B5949
-P 14050 5800
-F 0 "D87" H 14050 5595 50  0000 C CNN
-F 1 "Schottky" H 14050 5686 50  0000 C CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 14050 5800 50  0001 C CNN
-F 3 "~" V 14050 5800 50  0001 C CNN
-	1    14050 5800
-	-1   0    0    1   
-$EndComp
-Wire Wire Line
-	13800 5800 13950 5800
-Wire Wire Line
-	14150 5800 14250 5800
 Wire Wire Line
 	14250 5800 14250 5700
 $Comp
@@ -2309,8 +2294,6 @@ Wire Notes Line
 	12150 5200 16050 5200
 Text Notes 8050 7700 0    100  ~ 0
 Underglow LEDs
-Text GLabel 15450 1900 2    50   Input ~ 0
-LEDMOS
 $Comp
 L power:GND #PWR017
 U 1 1 605EFBD9
@@ -3170,54 +3153,6 @@ Connection ~ 8300 8550
 Connection ~ 8650 8050
 Connection ~ 8650 8550
 Connection ~ 9000 8050
-Text GLabel 15450 2200 2    50   Input ~ 0
-COL0
-Text GLabel 15450 2100 2    50   Input ~ 0
-COL1
-Text GLabel 15450 1800 2    50   Input ~ 0
-COL2
-Text GLabel 15450 1700 2    50   Input ~ 0
-COL3
-Text GLabel 15450 1600 2    50   Input ~ 0
-COL4
-Text GLabel 15450 3100 2    50   Input ~ 0
-COL5
-Text GLabel 15450 3000 2    50   Input ~ 0
-COL6
-Text GLabel 15450 2800 2    50   Input ~ 0
-COL7
-Text GLabel 15450 2400 2    50   Input ~ 0
-RGBLED
-Text GLabel 15450 2600 2    50   Input ~ 0
-ROW10
-Text GLabel 15450 2500 2    50   Input ~ 0
-ROW11
-Text GLabel 15450 2900 2    50   Input ~ 0
-ROW9
-Text GLabel 15450 2700 2    50   Input ~ 0
-ROW8
-Text GLabel 15450 4100 2    50   Input ~ 0
-ROW7
-Text GLabel 15450 4000 2    50   Input ~ 0
-ROW6
-Text GLabel 15450 3900 2    50   Input ~ 0
-ROW5
-Text GLabel 15450 3800 2    50   Input ~ 0
-ROW4
-Text GLabel 15450 3600 2    50   Input ~ 0
-ROW2
-Text GLabel 15450 3700 2    50   Input ~ 0
-ROW3
-Text GLabel 15450 1500 2    50   Input ~ 0
-ROW1
-Text GLabel 15450 3400 2    50   Input ~ 0
-ROW0
-Text GLabel 15450 1400 2    50   Input ~ 0
-LEDIND1
-Text GLabel 15450 1300 2    50   Input ~ 0
-LEDIND2
-Text GLabel 15450 1200 2    50   Input ~ 0
-LEDIND3
 Text Notes 15850 1350 0    50   ~ 0
 SCK\n
 Text Notes 15850 1450 0    50   ~ 0
@@ -4352,4 +4287,6 @@ Wire Wire Line
 	9550 2500 9550 2600
 Wire Wire Line
 	8900 2700 10200 2700
+Wire Wire Line
+	13800 5800 14250 5800
 $EndSCHEMATC
