@@ -2247,14 +2247,6 @@ F 3 "" H 3225 2325 60  0001 C CNN
 	1    3850 2350
 	1    0    0    -1  
 $EndComp
-Text GLabel 13450 4650 2    50   Input ~ 0
-RESET
-Text GLabel 13450 4550 2    50   Input ~ 0
-LEDIND2
-Text GLabel 13450 4450 2    50   Input ~ 0
-LEDIND1
-Text GLabel 13450 4350 2    50   Input ~ 0
-ROW1
 $Comp
 L power:GND #PWR08
 U 1 1 5F5FB4A7
@@ -4289,4 +4281,12 @@ Wire Wire Line
 	8900 2700 10200 2700
 Wire Wire Line
 	13800 5800 14250 5800
+Text GLabel 15450 2600 2    50   Input ~ 0
+LEDIND1
+Text GLabel 15450 2700 2    50   Input ~ 0
+COL7
+Text GLabel 15450 2500 2    50   Input ~ 0
+LEDIND2
+Text GLabel 15450 2400 2    50   Input ~ 0
+LEDIND3
 $EndSCHEMATC
