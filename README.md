@@ -5,6 +5,6 @@ A laser-cut acrylic case has also been designed to accompany this PCB, consistin
 
 Note the case is only compatible with the v1 PCB. The newer PCB's dimensions have been changed
 
-![Picture of the keyboard that I designed](https://imgur.com/TaWt8rX)
+![Picture of the keyboard that I designed](https://i.imgur.com/TaWt8rX.jpeg)
 
-![Another angle](https://imgur.com/h5RwIQP)
+![Another angle](https://i.imgur.com/h5RwIQP.jpeg)
