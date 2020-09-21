@@ -1,7 +1,11 @@
 # Asok75
-A PCB designed to fit in TX Keyboard's TX75v2 using the ATMega32U4 MCU, designed to be compatible with QMK firmware.
+A 75% keyboard PCB based on the layout of the TX75v2 keyboard from TX Keyboards.
 
-A laser-cut acrylic case has also been designed to accompany this PCB, consisting of .dxf files, in the case folder, with the files for the v1 PCB - the case is only compatible with the v1 PCB because the newer PCB's dimensions have been changed
+A simple acrylic case has also been designed - .dxf files are in the Case folder in the repository.
+
+This PCB is designed to work with QMK firmware (firmware is in my branch of the QMK firmware in the expected location).
+
+A VIA definition has also been created to be able to customise the layout of the keyboard easily.
 
 ![Picture of the keyboard that I designed](https://i.imgur.com/TaWt8rX.jpeg)
 
