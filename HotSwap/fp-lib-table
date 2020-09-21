@@ -1,9 +1,0 @@
-(fp_lib_table
-  (lib (name asok75)(type KiCad)(uri "C:/Users/viole/OneDrive/KiCad/New folder/Asok75/asok75.pretty")(options "")(descr ""))
-  (lib (name mounting_holes)(type KiCad)(uri "C:/Users/viole/OneDrive/KiCad/New folder/Asok75/mounting_holes.pretty")(options "")(descr ""))
-  (lib (name MX_Only)(type KiCad)(uri "C:/Users/viole/OneDrive/KiCad/New folder/Asok75/MX_Alps_Hybrid.pretty/MX_Only.pretty")(options "")(descr ""))
-  (lib (name random-keyboard-parts)(type KiCad)(uri "C:/Users/viole/OneDrive/KiCad/New folder/Asok75/random-keyboard-parts.pretty")(options "")(descr ""))
-  (lib (name silkscreen)(type KiCad)(uri "C:/Users/viole/OneDrive/KiCad/New folder/Asok75/silkscreen.pretty")(options "")(descr ""))
-  (lib (name Type-C)(type KiCad)(uri "C:/Users/viole/OneDrive/KiCad/New folder/Asok75/Type-C.pretty")(options "")(descr ""))
-  (lib (name WS2812B)(type KiCad)(uri "C:/Users/viole/OneDrive/KiCad/New folder/Asok75/WS2812B.pretty")(options "")(descr ""))
-)
