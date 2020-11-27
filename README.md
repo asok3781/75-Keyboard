@@ -1,5 +1,5 @@
 # Asok75
-A 75% keyboard PCB based on the layout of the TX75v2 keyboard from TX Keyboards.
+A 75% keyboard PCB.
 
 A simple [acrylic case](Case) has also been designed - .dxf files are in the Case folder in the repository.
 
